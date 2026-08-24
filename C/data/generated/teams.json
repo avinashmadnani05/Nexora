@@ -1,0 +1,92 @@
+[
+  {
+    "id": "TEAM-ENG-1",
+    "name": "Platform",
+    "department": "Engineering"
+  },
+  {
+    "id": "TEAM-ENG-2",
+    "name": "Payments",
+    "department": "Engineering"
+  },
+  {
+    "id": "TEAM-ENG-3",
+    "name": "Infrastructure",
+    "department": "Engineering"
+  },
+  {
+    "id": "TEAM-ENG-4",
+    "name": "Mobile",
+    "department": "Engineering"
+  },
+  {
+    "id": "TEAM-ENG-5",
+    "name": "Data",
+    "department": "Engineering"
+  },
+  {
+    "id": "TEAM-PRO-1",
+    "name": "Core Product",
+    "department": "Product"
+  },
+  {
+    "id": "TEAM-PRO-2",
+    "name": "Growth",
+    "department": "Product"
+  },
+  {
+    "id": "TEAM-PRO-3",
+    "name": "Enterprise",
+    "department": "Product"
+  },
+  {
+    "id": "TEAM-MAR-1",
+    "name": "Brand",
+    "department": "Marketing"
+  },
+  {
+    "id": "TEAM-MAR-2",
+    "name": "Growth Marketing",
+    "department": "Marketing"
+  },
+  {
+    "id": "TEAM-MAR-3",
+    "name": "Content",
+    "department": "Marketing"
+  },
+  {
+    "id": "TEAM-SAL-1",
+    "name": "Enterprise",
+    "department": "Sales"
+  },
+  {
+    "id": "TEAM-SAL-2",
+    "name": "SMB",
+    "department": "Sales"
+  },
+  {
+    "id": "TEAM-SAL-3",
+    "name": "Partnerships",
+    "department": "Sales"
+  },
+  {
+    "id": "TEAM-HR-1",
+    "name": "Talent",
+    "department": "HR"
+  },
+  {
+    "id": "TEAM-HR-2",
+    "name": "People Ops",
+    "department": "HR"
+  },
+  {
+    "id": "TEAM-FIN-1",
+    "name": "FP&A",
+    "department": "Finance"
+  },
+  {
+    "id": "TEAM-FIN-2",
+    "name": "Accounting",
+    "department": "Finance"
+  }
+]

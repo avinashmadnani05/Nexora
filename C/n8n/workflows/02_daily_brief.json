@@ -1,0 +1,28 @@
+{
+  "name": "Nexora - Daily Brief",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {"interval": [{"field": "hours", "hoursInterval": 24}]}
+      },
+      "name": "Daily Trigger",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1,
+      "position": [250, 300]
+    },
+    {
+      "parameters": {
+        "command": "python -c \"from src.agents.briefing import generate_daily_brief; print(generate_daily_brief())\""
+      },
+      "name": "Generate Brief",
+      "type": "n8n-nodes-base.executeCommand",
+      "typeVersion": 1,
+      "position": [450, 300]
+    }
+  ],
+  "connections": {
+    "Daily Trigger": {
+      "main": [[{"node": "Generate Brief", "type": "main", "index": 0}]]
+    }
+  }
+}

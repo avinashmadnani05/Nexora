@@ -1,0 +1,782 @@
+[
+  {
+    "id": "EMP-001",
+    "name": "Aarav Shah",
+    "department": "Engineering",
+    "team": "Platform",
+    "role": "Backend Engineer",
+    "skills": [
+      "Python",
+      "APIs",
+      "AWS"
+    ],
+    "manager": null
+  },
+  {
+    "id": "EMP-002",
+    "name": "Maya Shah",
+    "department": "Product",
+    "team": "Product",
+    "role": "Product Manager",
+    "skills": [
+      "Roadmaps",
+      "Discovery",
+      "Prioritization"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-003",
+    "name": "Liam Shah",
+    "department": "Marketing",
+    "team": "Growth",
+    "role": "Growth Marketer",
+    "skills": [
+      "Campaigns",
+      "SEO",
+      "Analytics"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-004",
+    "name": "Sofia Shah",
+    "department": "Sales",
+    "team": "Enterprise",
+    "role": "Account Executive",
+    "skills": [
+      "B2B",
+      "Negotiation",
+      "CRM"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-005",
+    "name": "Noah Shah",
+    "department": "HR",
+    "team": "People",
+    "role": "People Partner",
+    "skills": [
+      "Hiring",
+      "Onboarding",
+      "Culture"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-006",
+    "name": "Priya Shah",
+    "department": "Finance",
+    "team": "FP&A",
+    "role": "Financial Analyst",
+    "skills": [
+      "Budgets",
+      "Forecasting",
+      "Excel"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-007",
+    "name": "Ethan Shah",
+    "department": "Engineering",
+    "team": "Web",
+    "role": "Frontend Engineer",
+    "skills": [
+      "React",
+      "TypeScript",
+      "UX"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-008",
+    "name": "Zoe Shah",
+    "department": "Product",
+    "team": "Design",
+    "role": "Product Designer",
+    "skills": [
+      "Figma",
+      "Research",
+      "Prototyping"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-009",
+    "name": "Mateo Shah",
+    "department": "Marketing",
+    "team": "Brand",
+    "role": "Content Strategist",
+    "skills": [
+      "Content",
+      "Brand",
+      "Events"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-010",
+    "name": "Nina Shah",
+    "department": "Sales",
+    "team": "Success",
+    "role": "Customer Success Manager",
+    "skills": [
+      "Onboarding",
+      "Renewals",
+      "Discovery"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-011",
+    "name": "Aarav Chen",
+    "department": "HR",
+    "team": "Talent",
+    "role": "Recruiter",
+    "skills": [
+      "Sourcing",
+      "Interviews",
+      "Employer Brand"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-012",
+    "name": "Maya Chen",
+    "department": "Finance",
+    "team": "Operations",
+    "role": "Finance Operations",
+    "skills": [
+      "Expenses",
+      "Controls",
+      "Vendors"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-013",
+    "name": "Liam Chen",
+    "department": "Engineering",
+    "team": "Data",
+    "role": "Data Engineer",
+    "skills": [
+      "SQL",
+      "Pipelines",
+      "Analytics"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-014",
+    "name": "Sofia Chen",
+    "department": "Product",
+    "team": "Product",
+    "role": "Product Manager",
+    "skills": [
+      "Roadmaps",
+      "Discovery",
+      "Prioritization"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-015",
+    "name": "Noah Chen",
+    "department": "Marketing",
+    "team": "Growth",
+    "role": "Growth Marketer",
+    "skills": [
+      "Campaigns",
+      "SEO",
+      "Analytics"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-016",
+    "name": "Priya Chen",
+    "department": "Sales",
+    "team": "Enterprise",
+    "role": "Account Executive",
+    "skills": [
+      "B2B",
+      "Negotiation",
+      "CRM"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-017",
+    "name": "Ethan Chen",
+    "department": "HR",
+    "team": "People",
+    "role": "People Partner",
+    "skills": [
+      "Hiring",
+      "Onboarding",
+      "Culture"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-018",
+    "name": "Zoe Chen",
+    "department": "Finance",
+    "team": "FP&A",
+    "role": "Financial Analyst",
+    "skills": [
+      "Budgets",
+      "Forecasting",
+      "Excel"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-019",
+    "name": "Mateo Chen",
+    "department": "Engineering",
+    "team": "Infrastructure",
+    "role": "DevOps Engineer",
+    "skills": [
+      "Kubernetes",
+      "AWS",
+      "Observability"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-020",
+    "name": "Nina Chen",
+    "department": "Product",
+    "team": "Design",
+    "role": "Product Designer",
+    "skills": [
+      "Figma",
+      "Research",
+      "Prototyping"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-021",
+    "name": "Aarav Williams",
+    "department": "Marketing",
+    "team": "Brand",
+    "role": "Content Strategist",
+    "skills": [
+      "Content",
+      "Brand",
+      "Events"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-022",
+    "name": "Maya Williams",
+    "department": "Sales",
+    "team": "Success",
+    "role": "Customer Success Manager",
+    "skills": [
+      "Onboarding",
+      "Renewals",
+      "Discovery"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-023",
+    "name": "Liam Williams",
+    "department": "HR",
+    "team": "Talent",
+    "role": "Recruiter",
+    "skills": [
+      "Sourcing",
+      "Interviews",
+      "Employer Brand"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-024",
+    "name": "Sofia Williams",
+    "department": "Finance",
+    "team": "Operations",
+    "role": "Finance Operations",
+    "skills": [
+      "Expenses",
+      "Controls",
+      "Vendors"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-025",
+    "name": "Noah Williams",
+    "department": "Engineering",
+    "team": "Platform",
+    "role": "Backend Engineer",
+    "skills": [
+      "Python",
+      "APIs",
+      "AWS"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-026",
+    "name": "Priya Williams",
+    "department": "Product",
+    "team": "Product",
+    "role": "Product Manager",
+    "skills": [
+      "Roadmaps",
+      "Discovery",
+      "Prioritization"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-027",
+    "name": "Ethan Williams",
+    "department": "Marketing",
+    "team": "Growth",
+    "role": "Growth Marketer",
+    "skills": [
+      "Campaigns",
+      "SEO",
+      "Analytics"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-028",
+    "name": "Zoe Williams",
+    "department": "Sales",
+    "team": "Enterprise",
+    "role": "Account Executive",
+    "skills": [
+      "B2B",
+      "Negotiation",
+      "CRM"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-029",
+    "name": "Mateo Williams",
+    "department": "HR",
+    "team": "People",
+    "role": "People Partner",
+    "skills": [
+      "Hiring",
+      "Onboarding",
+      "Culture"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-030",
+    "name": "Nina Williams",
+    "department": "Finance",
+    "team": "FP&A",
+    "role": "Financial Analyst",
+    "skills": [
+      "Budgets",
+      "Forecasting",
+      "Excel"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-031",
+    "name": "Aarav Patel",
+    "department": "Engineering",
+    "team": "Web",
+    "role": "Frontend Engineer",
+    "skills": [
+      "React",
+      "TypeScript",
+      "UX"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-032",
+    "name": "Maya Patel",
+    "department": "Product",
+    "team": "Design",
+    "role": "Product Designer",
+    "skills": [
+      "Figma",
+      "Research",
+      "Prototyping"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-033",
+    "name": "Liam Patel",
+    "department": "Marketing",
+    "team": "Brand",
+    "role": "Content Strategist",
+    "skills": [
+      "Content",
+      "Brand",
+      "Events"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-034",
+    "name": "Sofia Patel",
+    "department": "Sales",
+    "team": "Success",
+    "role": "Customer Success Manager",
+    "skills": [
+      "Onboarding",
+      "Renewals",
+      "Discovery"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-035",
+    "name": "Noah Patel",
+    "department": "HR",
+    "team": "Talent",
+    "role": "Recruiter",
+    "skills": [
+      "Sourcing",
+      "Interviews",
+      "Employer Brand"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-036",
+    "name": "Priya Patel",
+    "department": "Finance",
+    "team": "Operations",
+    "role": "Finance Operations",
+    "skills": [
+      "Expenses",
+      "Controls",
+      "Vendors"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-037",
+    "name": "Ethan Patel",
+    "department": "Engineering",
+    "team": "Data",
+    "role": "Data Engineer",
+    "skills": [
+      "SQL",
+      "Pipelines",
+      "Analytics"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-038",
+    "name": "Zoe Patel",
+    "department": "Product",
+    "team": "Product",
+    "role": "Product Manager",
+    "skills": [
+      "Roadmaps",
+      "Discovery",
+      "Prioritization"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-039",
+    "name": "Mateo Patel",
+    "department": "Marketing",
+    "team": "Growth",
+    "role": "Growth Marketer",
+    "skills": [
+      "Campaigns",
+      "SEO",
+      "Analytics"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-040",
+    "name": "Nina Patel",
+    "department": "Sales",
+    "team": "Enterprise",
+    "role": "Account Executive",
+    "skills": [
+      "B2B",
+      "Negotiation",
+      "CRM"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-041",
+    "name": "Aarav Okafor",
+    "department": "HR",
+    "team": "People",
+    "role": "People Partner",
+    "skills": [
+      "Hiring",
+      "Onboarding",
+      "Culture"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-042",
+    "name": "Maya Okafor",
+    "department": "Finance",
+    "team": "FP&A",
+    "role": "Financial Analyst",
+    "skills": [
+      "Budgets",
+      "Forecasting",
+      "Excel"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-043",
+    "name": "Liam Okafor",
+    "department": "Engineering",
+    "team": "Infrastructure",
+    "role": "DevOps Engineer",
+    "skills": [
+      "Kubernetes",
+      "AWS",
+      "Observability"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-044",
+    "name": "Sofia Okafor",
+    "department": "Product",
+    "team": "Design",
+    "role": "Product Designer",
+    "skills": [
+      "Figma",
+      "Research",
+      "Prototyping"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-045",
+    "name": "Noah Okafor",
+    "department": "Marketing",
+    "team": "Brand",
+    "role": "Content Strategist",
+    "skills": [
+      "Content",
+      "Brand",
+      "Events"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-046",
+    "name": "Priya Okafor",
+    "department": "Sales",
+    "team": "Success",
+    "role": "Customer Success Manager",
+    "skills": [
+      "Onboarding",
+      "Renewals",
+      "Discovery"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-047",
+    "name": "Ethan Okafor",
+    "department": "HR",
+    "team": "Talent",
+    "role": "Recruiter",
+    "skills": [
+      "Sourcing",
+      "Interviews",
+      "Employer Brand"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-048",
+    "name": "Zoe Okafor",
+    "department": "Finance",
+    "team": "Operations",
+    "role": "Finance Operations",
+    "skills": [
+      "Expenses",
+      "Controls",
+      "Vendors"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-049",
+    "name": "Mateo Okafor",
+    "department": "Engineering",
+    "team": "Platform",
+    "role": "Backend Engineer",
+    "skills": [
+      "Python",
+      "APIs",
+      "AWS"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-050",
+    "name": "Nina Okafor",
+    "department": "Product",
+    "team": "Product",
+    "role": "Product Manager",
+    "skills": [
+      "Roadmaps",
+      "Discovery",
+      "Prioritization"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-051",
+    "name": "Aarav Garcia",
+    "department": "Marketing",
+    "team": "Growth",
+    "role": "Growth Marketer",
+    "skills": [
+      "Campaigns",
+      "SEO",
+      "Analytics"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-052",
+    "name": "Maya Garcia",
+    "department": "Sales",
+    "team": "Enterprise",
+    "role": "Account Executive",
+    "skills": [
+      "B2B",
+      "Negotiation",
+      "CRM"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-053",
+    "name": "Liam Garcia",
+    "department": "HR",
+    "team": "People",
+    "role": "People Partner",
+    "skills": [
+      "Hiring",
+      "Onboarding",
+      "Culture"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-054",
+    "name": "Sofia Garcia",
+    "department": "Finance",
+    "team": "FP&A",
+    "role": "Financial Analyst",
+    "skills": [
+      "Budgets",
+      "Forecasting",
+      "Excel"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-055",
+    "name": "Noah Garcia",
+    "department": "Engineering",
+    "team": "Web",
+    "role": "Frontend Engineer",
+    "skills": [
+      "React",
+      "TypeScript",
+      "UX"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-056",
+    "name": "Priya Garcia",
+    "department": "Product",
+    "team": "Design",
+    "role": "Product Designer",
+    "skills": [
+      "Figma",
+      "Research",
+      "Prototyping"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-057",
+    "name": "Ethan Garcia",
+    "department": "Marketing",
+    "team": "Brand",
+    "role": "Content Strategist",
+    "skills": [
+      "Content",
+      "Brand",
+      "Events"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-058",
+    "name": "Zoe Garcia",
+    "department": "Sales",
+    "team": "Success",
+    "role": "Customer Success Manager",
+    "skills": [
+      "Onboarding",
+      "Renewals",
+      "Discovery"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-059",
+    "name": "Mateo Garcia",
+    "department": "HR",
+    "team": "Talent",
+    "role": "Recruiter",
+    "skills": [
+      "Sourcing",
+      "Interviews",
+      "Employer Brand"
+    ],
+    "manager": "EMP-001"
+  },
+  {
+    "id": "EMP-060",
+    "name": "Nina Garcia",
+    "department": "Finance",
+    "team": "Operations",
+    "role": "Finance Operations",
+    "skills": [
+      "Expenses",
+      "Controls",
+      "Vendors"
+    ],
+    "manager": "EMP-001"
+  }
+]

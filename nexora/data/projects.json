@@ -1,0 +1,194 @@
+[
+  {
+    "id": "PRJ-001",
+    "name": "Payments Reliability",
+    "department": "Engineering",
+    "owner": "EMP-001",
+    "members": [
+      "EMP-001",
+      "EMP-007",
+      "EMP-013",
+      "EMP-019"
+    ],
+    "status": "in progress",
+    "progress": 58,
+    "start_date": "2026-06-27",
+    "deadline": "2026-07-31"
+  },
+  {
+    "id": "PRJ-002",
+    "name": "Atlas Analytics",
+    "department": "Engineering",
+    "owner": "EMP-007",
+    "members": [
+      "EMP-007",
+      "EMP-007",
+      "EMP-013",
+      "EMP-019"
+    ],
+    "status": "at risk",
+    "progress": 47,
+    "start_date": "2026-06-28",
+    "deadline": "2026-08-01"
+  },
+  {
+    "id": "PRJ-003",
+    "name": "Customer Insights",
+    "department": "Product",
+    "owner": "EMP-002",
+    "members": [
+      "EMP-002",
+      "EMP-008",
+      "EMP-014",
+      "EMP-020"
+    ],
+    "status": "in progress",
+    "progress": 42,
+    "start_date": "2026-06-29",
+    "deadline": "2026-08-02"
+  },
+  {
+    "id": "PRJ-004",
+    "name": "Q3 Launch Campaign",
+    "department": "Marketing",
+    "owner": "EMP-003",
+    "members": [
+      "EMP-003",
+      "EMP-009",
+      "EMP-015",
+      "EMP-021"
+    ],
+    "status": "at risk",
+    "progress": 36,
+    "start_date": "2026-06-30",
+    "deadline": "2026-08-03"
+  },
+  {
+    "id": "PRJ-005",
+    "name": "Enterprise Expansion",
+    "department": "Sales",
+    "owner": "EMP-004",
+    "members": [
+      "EMP-004",
+      "EMP-010",
+      "EMP-016",
+      "EMP-022"
+    ],
+    "status": "in progress",
+    "progress": 63,
+    "start_date": "2026-07-01",
+    "deadline": "2026-08-04"
+  },
+  {
+    "id": "PRJ-006",
+    "name": "Nexora Onboarding",
+    "department": "HR",
+    "owner": "EMP-005",
+    "members": [
+      "EMP-005",
+      "EMP-011",
+      "EMP-017",
+      "EMP-023"
+    ],
+    "status": "in progress",
+    "progress": 71,
+    "start_date": "2026-07-02",
+    "deadline": "2026-08-05"
+  },
+  {
+    "id": "PRJ-007",
+    "name": "FY27 Planning",
+    "department": "Finance",
+    "owner": "EMP-006",
+    "members": [
+      "EMP-006",
+      "EMP-012",
+      "EMP-018",
+      "EMP-024"
+    ],
+    "status": "in progress",
+    "progress": 52,
+    "start_date": "2026-07-03",
+    "deadline": "2026-08-06"
+  },
+  {
+    "id": "PRJ-008",
+    "name": "Identity Refresh",
+    "department": "Engineering",
+    "owner": "EMP-013",
+    "members": [
+      "EMP-013",
+      "EMP-007",
+      "EMP-013",
+      "EMP-019"
+    ],
+    "status": "in progress",
+    "progress": 76,
+    "start_date": "2026-07-04",
+    "deadline": "2026-08-07"
+  },
+  {
+    "id": "PRJ-009",
+    "name": "Mobile Workspace",
+    "department": "Product",
+    "owner": "EMP-008",
+    "members": [
+      "EMP-008",
+      "EMP-008",
+      "EMP-014",
+      "EMP-020"
+    ],
+    "status": "in progress",
+    "progress": 29,
+    "start_date": "2026-07-05",
+    "deadline": "2026-08-08"
+  },
+  {
+    "id": "PRJ-010",
+    "name": "Partner Webinar",
+    "department": "Marketing",
+    "owner": "EMP-009",
+    "members": [
+      "EMP-009",
+      "EMP-009",
+      "EMP-015",
+      "EMP-021"
+    ],
+    "status": "complete",
+    "progress": 100,
+    "start_date": "2026-07-06",
+    "deadline": "2026-08-09"
+  },
+  {
+    "id": "PRJ-011",
+    "name": "Renewal Health",
+    "department": "Sales",
+    "owner": "EMP-010",
+    "members": [
+      "EMP-010",
+      "EMP-010",
+      "EMP-016",
+      "EMP-022"
+    ],
+    "status": "in progress",
+    "progress": 68,
+    "start_date": "2026-07-07",
+    "deadline": "2026-08-10"
+  },
+  {
+    "id": "PRJ-012",
+    "name": "People Operations",
+    "department": "HR",
+    "owner": "EMP-011",
+    "members": [
+      "EMP-011",
+      "EMP-011",
+      "EMP-017",
+      "EMP-023"
+    ],
+    "status": "in progress",
+    "progress": 55,
+    "start_date": "2026-07-08",
+    "deadline": "2026-08-11"
+  }
+]

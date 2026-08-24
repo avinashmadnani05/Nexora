@@ -1,0 +1,26 @@
+[
+  {
+    "id": "DEPT-1",
+    "name": "Engineering"
+  },
+  {
+    "id": "DEPT-2",
+    "name": "Product"
+  },
+  {
+    "id": "DEPT-3",
+    "name": "Marketing"
+  },
+  {
+    "id": "DEPT-4",
+    "name": "Sales"
+  },
+  {
+    "id": "DEPT-5",
+    "name": "HR"
+  },
+  {
+    "id": "DEPT-6",
+    "name": "Finance"
+  }
+]

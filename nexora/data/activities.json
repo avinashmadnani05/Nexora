@@ -1,0 +1,2846 @@
+[
+  {
+    "timestamp": "2026-07-23T09:40:00+00:00",
+    "employee": "EMP-001",
+    "department": "Engineering",
+    "project": "PRJ-001",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Payments Reliability: define acceptance criteria - payments reliability",
+    "related_task": "TASK-001"
+  },
+  {
+    "timestamp": "2026-07-23T09:43:00+00:00",
+    "employee": "EMP-008",
+    "department": "Product",
+    "project": "PRJ-009",
+    "activity_type": "Jira task update",
+    "content": "Progress update on Mobile Workspace: validate stakeholder feedback - mobile workspace",
+    "related_task": "TASK-009"
+  },
+  {
+    "timestamp": "2026-07-23T10:07:00+00:00",
+    "employee": "EMP-007",
+    "department": "Engineering",
+    "project": "PRJ-002",
+    "activity_type": "Jira task update",
+    "content": "Progress update on Atlas Analytics: review implementation - atlas analytics",
+    "related_task": "TASK-002"
+  },
+  {
+    "timestamp": "2026-07-23T10:34:00+00:00",
+    "employee": "EMP-009",
+    "department": "Marketing",
+    "project": "PRJ-010",
+    "activity_type": "Slack message",
+    "content": "Progress update on Partner Webinar: prepare launch checklist - partner webinar",
+    "related_task": "TASK-010"
+  },
+  {
+    "timestamp": "2026-07-23T11:01:00+00:00",
+    "employee": "EMP-014",
+    "department": "Product",
+    "project": "PRJ-003",
+    "activity_type": "Slack message",
+    "content": "Progress update on Customer Insights: validate stakeholder feedback - customer insights",
+    "related_task": "TASK-003"
+  },
+  {
+    "timestamp": "2026-07-23T12:17:00+00:00",
+    "employee": "EMP-021",
+    "department": "Marketing",
+    "project": "PRJ-004",
+    "activity_type": "Meeting",
+    "content": "Progress update on Q3 Launch Campaign: prepare launch checklist - q3 launch campaign",
+    "related_task": "TASK-004"
+  },
+  {
+    "timestamp": "2026-07-23T13:15:00+00:00",
+    "employee": "EMP-004",
+    "department": "Sales",
+    "project": "PRJ-005",
+    "activity_type": "Email",
+    "content": "Progress update on Enterprise Expansion: resolve dependency - enterprise expansion",
+    "related_task": "TASK-005"
+  },
+  {
+    "timestamp": "2026-07-23T14:14:00+00:00",
+    "employee": "EMP-011",
+    "department": "HR",
+    "project": "PRJ-006",
+    "activity_type": "task completion",
+    "content": "Progress update on Nexora Onboarding: publish weekly update - nexora onboarding",
+    "related_task": "TASK-006"
+  },
+  {
+    "timestamp": "2026-07-23T15:08:00+00:00",
+    "employee": "EMP-018",
+    "department": "Finance",
+    "project": "PRJ-007",
+    "activity_type": "GitHub pull request",
+    "content": "Progress update on FY27 Planning: define acceptance criteria - fy27 planning",
+    "related_task": "TASK-007"
+  },
+  {
+    "timestamp": "2026-07-23T16:06:00+00:00",
+    "employee": "EMP-019",
+    "department": "Engineering",
+    "project": "PRJ-008",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Identity Refresh: review implementation - identity refresh",
+    "related_task": "TASK-008"
+  },
+  {
+    "timestamp": "2026-07-24T09:05:00+00:00",
+    "employee": "EMP-003",
+    "department": "Marketing",
+    "project": "PRJ-004",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Q3 Launch Campaign: validate stakeholder feedback - customer insights",
+    "related_task": "TASK-003"
+  },
+  {
+    "timestamp": "2026-07-24T09:32:00+00:00",
+    "employee": "EMP-011",
+    "department": "HR",
+    "project": "PRJ-012",
+    "activity_type": "Jira task update",
+    "content": "Progress update on People Operations: resolve dependency - renewal health",
+    "related_task": "TASK-011"
+  },
+  {
+    "timestamp": "2026-07-24T10:37:00+00:00",
+    "employee": "EMP-010",
+    "department": "Sales",
+    "project": "PRJ-005",
+    "activity_type": "Jira task update",
+    "content": "Progress update on Enterprise Expansion: prepare launch checklist - q3 launch campaign",
+    "related_task": "TASK-004"
+  },
+  {
+    "timestamp": "2026-07-24T10:38:00+00:00",
+    "employee": "EMP-007",
+    "department": "Engineering",
+    "project": "PRJ-001",
+    "activity_type": "Slack message",
+    "content": "Progress update on Payments Reliability: publish weekly update - people operations",
+    "related_task": "TASK-012"
+  },
+  {
+    "timestamp": "2026-07-24T11:27:00+00:00",
+    "employee": "EMP-017",
+    "department": "HR",
+    "project": "PRJ-006",
+    "activity_type": "Slack message",
+    "content": "Progress update on Nexora Onboarding: resolve dependency - enterprise expansion",
+    "related_task": "TASK-005"
+  },
+  {
+    "timestamp": "2026-07-24T12:02:00+00:00",
+    "employee": "EMP-024",
+    "department": "Finance",
+    "project": "PRJ-007",
+    "activity_type": "Meeting",
+    "content": "Progress update on FY27 Planning: publish weekly update - nexora onboarding",
+    "related_task": "TASK-006"
+  },
+  {
+    "timestamp": "2026-07-24T13:01:00+00:00",
+    "employee": "EMP-013",
+    "department": "Engineering",
+    "project": "PRJ-008",
+    "activity_type": "Email",
+    "content": "Progress update on Identity Refresh: define acceptance criteria - fy27 planning",
+    "related_task": "TASK-007"
+  },
+  {
+    "timestamp": "2026-07-24T14:05:00+00:00",
+    "employee": "EMP-008",
+    "department": "Product",
+    "project": "PRJ-009",
+    "activity_type": "task completion",
+    "content": "Progress update on Mobile Workspace: review implementation - identity refresh",
+    "related_task": "TASK-008"
+  },
+  {
+    "timestamp": "2026-07-24T15:13:00+00:00",
+    "employee": "EMP-015",
+    "department": "Marketing",
+    "project": "PRJ-010",
+    "activity_type": "GitHub pull request",
+    "content": "Progress update on Partner Webinar: validate stakeholder feedback - mobile workspace",
+    "related_task": "TASK-009"
+  },
+  {
+    "timestamp": "2026-07-24T16:14:00+00:00",
+    "employee": "EMP-022",
+    "department": "Sales",
+    "project": "PRJ-011",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Renewal Health: prepare launch checklist - partner webinar",
+    "related_task": "TASK-010"
+  },
+  {
+    "timestamp": "2026-07-25T09:01:00+00:00",
+    "employee": "EMP-006",
+    "department": "Finance",
+    "project": "PRJ-007",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on FY27 Planning: resolve dependency - enterprise expansion",
+    "related_task": "TASK-005"
+  },
+  {
+    "timestamp": "2026-07-25T09:14:00+00:00",
+    "employee": "EMP-002",
+    "department": "Product",
+    "project": "PRJ-003",
+    "activity_type": "Jira task update",
+    "content": "Progress update on Customer Insights: define acceptance criteria - payments reliability",
+    "related_task": "TASK-013"
+  },
+  {
+    "timestamp": "2026-07-25T10:28:00+00:00",
+    "employee": "EMP-009",
+    "department": "Marketing",
+    "project": "PRJ-004",
+    "activity_type": "Slack message",
+    "content": "Progress update on Q3 Launch Campaign: review implementation - atlas analytics",
+    "related_task": "TASK-014"
+  },
+  {
+    "timestamp": "2026-07-25T10:35:00+00:00",
+    "employee": "EMP-007",
+    "department": "Engineering",
+    "project": "PRJ-008",
+    "activity_type": "Jira task update",
+    "content": "Progress update on Identity Refresh: publish weekly update - nexora onboarding",
+    "related_task": "TASK-006"
+  },
+  {
+    "timestamp": "2026-07-25T11:12:00+00:00",
+    "employee": "EMP-014",
+    "department": "Product",
+    "project": "PRJ-009",
+    "activity_type": "Slack message",
+    "content": "Progress update on Mobile Workspace: define acceptance criteria - fy27 planning",
+    "related_task": "TASK-007"
+  },
+  {
+    "timestamp": "2026-07-25T12:45:00+00:00",
+    "employee": "EMP-021",
+    "department": "Marketing",
+    "project": "PRJ-010",
+    "activity_type": "Meeting",
+    "content": "Progress update on Partner Webinar: review implementation - identity refresh",
+    "related_task": "TASK-008"
+  },
+  {
+    "timestamp": "2026-07-25T13:41:00+00:00",
+    "employee": "EMP-010",
+    "department": "Sales",
+    "project": "PRJ-011",
+    "activity_type": "Email",
+    "content": "Progress update on Renewal Health: validate stakeholder feedback - mobile workspace",
+    "related_task": "TASK-009"
+  },
+  {
+    "timestamp": "2026-07-25T14:44:00+00:00",
+    "employee": "EMP-011",
+    "department": "HR",
+    "project": "PRJ-012",
+    "activity_type": "task completion",
+    "content": "Progress update on People Operations: prepare launch checklist - partner webinar",
+    "related_task": "TASK-010"
+  },
+  {
+    "timestamp": "2026-07-25T15:34:00+00:00",
+    "employee": "EMP-013",
+    "department": "Engineering",
+    "project": "PRJ-001",
+    "activity_type": "GitHub pull request",
+    "content": "Progress update on Payments Reliability: resolve dependency - renewal health",
+    "related_task": "TASK-011"
+  },
+  {
+    "timestamp": "2026-07-25T16:26:00+00:00",
+    "employee": "EMP-019",
+    "department": "Engineering",
+    "project": "PRJ-002",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Atlas Analytics: publish weekly update - people operations",
+    "related_task": "TASK-012"
+  },
+  {
+    "timestamp": "2026-07-26T09:09:00+00:00",
+    "employee": "EMP-005",
+    "department": "HR",
+    "project": "PRJ-006",
+    "activity_type": "Jira task update",
+    "content": "Progress update on Nexora Onboarding: validate stakeholder feedback - customer insights",
+    "related_task": "TASK-015"
+  },
+  {
+    "timestamp": "2026-07-26T09:37:00+00:00",
+    "employee": "EMP-009",
+    "department": "Marketing",
+    "project": "PRJ-010",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Partner Webinar: define acceptance criteria - fy27 planning",
+    "related_task": "TASK-007"
+  },
+  {
+    "timestamp": "2026-07-26T10:13:00+00:00",
+    "employee": "EMP-012",
+    "department": "Finance",
+    "project": "PRJ-007",
+    "activity_type": "Slack message",
+    "content": "Progress update on FY27 Planning: prepare launch checklist - q3 launch campaign",
+    "related_task": "TASK-016"
+  },
+  {
+    "timestamp": "2026-07-26T10:17:00+00:00",
+    "employee": "EMP-010",
+    "department": "Sales",
+    "project": "PRJ-011",
+    "activity_type": "Jira task update",
+    "content": "Progress update on Renewal Health: review implementation - identity refresh",
+    "related_task": "TASK-008"
+  },
+  {
+    "timestamp": "2026-07-26T11:00:00+00:00",
+    "employee": "EMP-017",
+    "department": "HR",
+    "project": "PRJ-012",
+    "activity_type": "Slack message",
+    "content": "Progress update on People Operations: validate stakeholder feedback - mobile workspace",
+    "related_task": "TASK-009"
+  },
+  {
+    "timestamp": "2026-07-26T12:10:00+00:00",
+    "employee": "EMP-019",
+    "department": "Engineering",
+    "project": "PRJ-001",
+    "activity_type": "Meeting",
+    "content": "Progress update on Payments Reliability: prepare launch checklist - partner webinar",
+    "related_task": "TASK-010"
+  },
+  {
+    "timestamp": "2026-07-26T13:44:00+00:00",
+    "employee": "EMP-007",
+    "department": "Engineering",
+    "project": "PRJ-002",
+    "activity_type": "Email",
+    "content": "Progress update on Atlas Analytics: resolve dependency - renewal health",
+    "related_task": "TASK-011"
+  },
+  {
+    "timestamp": "2026-07-26T14:27:00+00:00",
+    "employee": "EMP-008",
+    "department": "Product",
+    "project": "PRJ-003",
+    "activity_type": "task completion",
+    "content": "Progress update on Customer Insights: publish weekly update - people operations",
+    "related_task": "TASK-012"
+  },
+  {
+    "timestamp": "2026-07-26T15:21:00+00:00",
+    "employee": "EMP-015",
+    "department": "Marketing",
+    "project": "PRJ-004",
+    "activity_type": "GitHub pull request",
+    "content": "Progress update on Q3 Launch Campaign: define acceptance criteria - payments reliability",
+    "related_task": "TASK-013"
+  },
+  {
+    "timestamp": "2026-07-26T16:17:00+00:00",
+    "employee": "EMP-022",
+    "department": "Sales",
+    "project": "PRJ-005",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Enterprise Expansion: review implementation - atlas analytics",
+    "related_task": "TASK-014"
+  },
+  {
+    "timestamp": "2026-07-26T20:00:00+00:00",
+    "employee": "EMP-001",
+    "department": "Engineering",
+    "project": "PRJ-001",
+    "activity_type": "Slack message",
+    "content": "Webhook retries are failing because the production queue policy is still pending.",
+    "related_task": "TASK-001"
+  },
+  {
+    "timestamp": "2026-07-27T09:16:00+00:00",
+    "employee": "EMP-008",
+    "department": "Product",
+    "project": "PRJ-009",
+    "activity_type": "Jira task update",
+    "content": "Progress update on Mobile Workspace: resolve dependency - enterprise expansion",
+    "related_task": "TASK-017"
+  },
+  {
+    "timestamp": "2026-07-27T09:21:00+00:00",
+    "employee": "EMP-001",
+    "department": "Engineering",
+    "project": "PRJ-001",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Payments Reliability: validate stakeholder feedback - mobile workspace",
+    "related_task": "TASK-009"
+  },
+  {
+    "timestamp": "2026-07-27T10:02:00+00:00",
+    "employee": "EMP-009",
+    "department": "Marketing",
+    "project": "PRJ-010",
+    "activity_type": "Slack message",
+    "content": "Progress update on Partner Webinar: publish weekly update - nexora onboarding",
+    "related_task": "TASK-018"
+  },
+  {
+    "timestamp": "2026-07-27T10:06:00+00:00",
+    "employee": "EMP-007",
+    "department": "Engineering",
+    "project": "PRJ-002",
+    "activity_type": "Jira task update",
+    "content": "Progress update on Atlas Analytics: prepare launch checklist - partner webinar",
+    "related_task": "TASK-010"
+  },
+  {
+    "timestamp": "2026-07-27T11:05:00+00:00",
+    "employee": "EMP-014",
+    "department": "Product",
+    "project": "PRJ-003",
+    "activity_type": "Slack message",
+    "content": "Progress update on Customer Insights: resolve dependency - renewal health",
+    "related_task": "TASK-011"
+  },
+  {
+    "timestamp": "2026-07-27T12:24:00+00:00",
+    "employee": "EMP-021",
+    "department": "Marketing",
+    "project": "PRJ-004",
+    "activity_type": "Meeting",
+    "content": "Progress update on Q3 Launch Campaign: publish weekly update - people operations",
+    "related_task": "TASK-012"
+  },
+  {
+    "timestamp": "2026-07-27T13:06:00+00:00",
+    "employee": "EMP-004",
+    "department": "Sales",
+    "project": "PRJ-005",
+    "activity_type": "Email",
+    "content": "Progress update on Enterprise Expansion: define acceptance criteria - payments reliability",
+    "related_task": "TASK-013"
+  },
+  {
+    "timestamp": "2026-07-27T14:22:00+00:00",
+    "employee": "EMP-011",
+    "department": "HR",
+    "project": "PRJ-006",
+    "activity_type": "task completion",
+    "content": "Progress update on Nexora Onboarding: review implementation - atlas analytics",
+    "related_task": "TASK-014"
+  },
+  {
+    "timestamp": "2026-07-27T15:22:00+00:00",
+    "employee": "EMP-018",
+    "department": "Finance",
+    "project": "PRJ-007",
+    "activity_type": "GitHub pull request",
+    "content": "Progress update on FY27 Planning: validate stakeholder feedback - customer insights",
+    "related_task": "TASK-015"
+  },
+  {
+    "timestamp": "2026-07-27T16:38:00+00:00",
+    "employee": "EMP-019",
+    "department": "Engineering",
+    "project": "PRJ-008",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Identity Refresh: prepare launch checklist - q3 launch campaign",
+    "related_task": "TASK-016"
+  },
+  {
+    "timestamp": "2026-07-27T20:00:00+00:00",
+    "employee": "EMP-019",
+    "department": "Engineering",
+    "project": "PRJ-001",
+    "activity_type": "blocker",
+    "content": "Infrastructure dependency: queue policy and alert routing need approval.",
+    "related_task": "TASK-001"
+  },
+  {
+    "timestamp": "2026-07-28T09:29:00+00:00",
+    "employee": "EMP-003",
+    "department": "Marketing",
+    "project": "PRJ-004",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Q3 Launch Campaign: resolve dependency - renewal health",
+    "related_task": "TASK-011"
+  },
+  {
+    "timestamp": "2026-07-28T09:39:00+00:00",
+    "employee": "EMP-011",
+    "department": "HR",
+    "project": "PRJ-012",
+    "activity_type": "Jira task update",
+    "content": "Progress update on People Operations: define acceptance criteria - fy27 planning",
+    "related_task": "TASK-019"
+  },
+  {
+    "timestamp": "2026-07-28T10:23:00+00:00",
+    "employee": "EMP-007",
+    "department": "Engineering",
+    "project": "PRJ-001",
+    "activity_type": "Slack message",
+    "content": "Progress update on Payments Reliability: review implementation - identity refresh",
+    "related_task": "TASK-020"
+  },
+  {
+    "timestamp": "2026-07-28T10:34:00+00:00",
+    "employee": "EMP-010",
+    "department": "Sales",
+    "project": "PRJ-005",
+    "activity_type": "Jira task update",
+    "content": "Progress update on Enterprise Expansion: publish weekly update - people operations",
+    "related_task": "TASK-012"
+  },
+  {
+    "timestamp": "2026-07-28T11:07:00+00:00",
+    "employee": "EMP-017",
+    "department": "HR",
+    "project": "PRJ-006",
+    "activity_type": "Slack message",
+    "content": "Progress update on Nexora Onboarding: define acceptance criteria - payments reliability",
+    "related_task": "TASK-013"
+  },
+  {
+    "timestamp": "2026-07-28T12:24:00+00:00",
+    "employee": "EMP-024",
+    "department": "Finance",
+    "project": "PRJ-007",
+    "activity_type": "Meeting",
+    "content": "Progress update on FY27 Planning: review implementation - atlas analytics",
+    "related_task": "TASK-014"
+  },
+  {
+    "timestamp": "2026-07-28T13:05:00+00:00",
+    "employee": "EMP-013",
+    "department": "Engineering",
+    "project": "PRJ-008",
+    "activity_type": "Email",
+    "content": "Progress update on Identity Refresh: validate stakeholder feedback - customer insights",
+    "related_task": "TASK-015"
+  },
+  {
+    "timestamp": "2026-07-28T14:35:00+00:00",
+    "employee": "EMP-008",
+    "department": "Product",
+    "project": "PRJ-009",
+    "activity_type": "task completion",
+    "content": "Progress update on Mobile Workspace: prepare launch checklist - q3 launch campaign",
+    "related_task": "TASK-016"
+  },
+  {
+    "timestamp": "2026-07-28T15:18:00+00:00",
+    "employee": "EMP-015",
+    "department": "Marketing",
+    "project": "PRJ-010",
+    "activity_type": "GitHub pull request",
+    "content": "Progress update on Partner Webinar: resolve dependency - enterprise expansion",
+    "related_task": "TASK-017"
+  },
+  {
+    "timestamp": "2026-07-28T16:40:00+00:00",
+    "employee": "EMP-022",
+    "department": "Sales",
+    "project": "PRJ-011",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Renewal Health: publish weekly update - nexora onboarding",
+    "related_task": "TASK-018"
+  },
+  {
+    "timestamp": "2026-07-29T09:05:00+00:00",
+    "employee": "EMP-002",
+    "department": "Product",
+    "project": "PRJ-003",
+    "activity_type": "Jira task update",
+    "content": "Progress update on Customer Insights: validate stakeholder feedback - mobile workspace",
+    "related_task": "TASK-021"
+  },
+  {
+    "timestamp": "2026-07-29T09:36:00+00:00",
+    "employee": "EMP-006",
+    "department": "Finance",
+    "project": "PRJ-007",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on FY27 Planning: define acceptance criteria - payments reliability",
+    "related_task": "TASK-013"
+  },
+  {
+    "timestamp": "2026-07-29T10:12:00+00:00",
+    "employee": "EMP-007",
+    "department": "Engineering",
+    "project": "PRJ-008",
+    "activity_type": "Jira task update",
+    "content": "Progress update on Identity Refresh: review implementation - atlas analytics",
+    "related_task": "TASK-014"
+  },
+  {
+    "timestamp": "2026-07-29T10:14:00+00:00",
+    "employee": "EMP-009",
+    "department": "Marketing",
+    "project": "PRJ-004",
+    "activity_type": "Slack message",
+    "content": "Progress update on Q3 Launch Campaign: prepare launch checklist - partner webinar",
+    "related_task": "TASK-022"
+  },
+  {
+    "timestamp": "2026-07-29T11:45:00+00:00",
+    "employee": "EMP-014",
+    "department": "Product",
+    "project": "PRJ-009",
+    "activity_type": "Slack message",
+    "content": "Progress update on Mobile Workspace: validate stakeholder feedback - customer insights",
+    "related_task": "TASK-015"
+  },
+  {
+    "timestamp": "2026-07-29T12:04:00+00:00",
+    "employee": "EMP-021",
+    "department": "Marketing",
+    "project": "PRJ-010",
+    "activity_type": "Meeting",
+    "content": "Progress update on Partner Webinar: prepare launch checklist - q3 launch campaign",
+    "related_task": "TASK-016"
+  },
+  {
+    "timestamp": "2026-07-29T13:02:00+00:00",
+    "employee": "EMP-010",
+    "department": "Sales",
+    "project": "PRJ-011",
+    "activity_type": "Email",
+    "content": "Progress update on Renewal Health: resolve dependency - enterprise expansion",
+    "related_task": "TASK-017"
+  },
+  {
+    "timestamp": "2026-07-29T14:42:00+00:00",
+    "employee": "EMP-011",
+    "department": "HR",
+    "project": "PRJ-012",
+    "activity_type": "task completion",
+    "content": "Progress update on People Operations: publish weekly update - nexora onboarding",
+    "related_task": "TASK-018"
+  },
+  {
+    "timestamp": "2026-07-29T15:14:00+00:00",
+    "employee": "EMP-013",
+    "department": "Engineering",
+    "project": "PRJ-001",
+    "activity_type": "GitHub pull request",
+    "content": "Progress update on Payments Reliability: define acceptance criteria - fy27 planning",
+    "related_task": "TASK-019"
+  },
+  {
+    "timestamp": "2026-07-29T16:18:00+00:00",
+    "employee": "EMP-019",
+    "department": "Engineering",
+    "project": "PRJ-002",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Atlas Analytics: review implementation - identity refresh",
+    "related_task": "TASK-020"
+  },
+  {
+    "timestamp": "2026-07-29T20:00:00+00:00",
+    "employee": "EMP-007",
+    "department": "Engineering",
+    "project": "PRJ-001",
+    "activity_type": "Meeting",
+    "content": "Payments dependency review: DevOps will ship the queue policy before the next deploy.",
+    "related_task": "TASK-001"
+  },
+  {
+    "timestamp": "2026-07-30T09:06:00+00:00",
+    "employee": "EMP-009",
+    "department": "Marketing",
+    "project": "PRJ-010",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Partner Webinar: validate stakeholder feedback - customer insights",
+    "related_task": "TASK-015"
+  },
+  {
+    "timestamp": "2026-07-30T09:22:00+00:00",
+    "employee": "EMP-005",
+    "department": "HR",
+    "project": "PRJ-006",
+    "activity_type": "Jira task update",
+    "content": "Progress update on Nexora Onboarding: resolve dependency - renewal health",
+    "related_task": "TASK-023"
+  },
+  {
+    "timestamp": "2026-07-30T10:13:00+00:00",
+    "employee": "EMP-012",
+    "department": "Finance",
+    "project": "PRJ-007",
+    "activity_type": "Slack message",
+    "content": "Progress update on FY27 Planning: publish weekly update - people operations",
+    "related_task": "TASK-024"
+  },
+  {
+    "timestamp": "2026-07-30T10:24:00+00:00",
+    "employee": "EMP-010",
+    "department": "Sales",
+    "project": "PRJ-011",
+    "activity_type": "Jira task update",
+    "content": "Progress update on Renewal Health: prepare launch checklist - q3 launch campaign",
+    "related_task": "TASK-016"
+  },
+  {
+    "timestamp": "2026-07-30T11:17:00+00:00",
+    "employee": "EMP-017",
+    "department": "HR",
+    "project": "PRJ-012",
+    "activity_type": "Slack message",
+    "content": "Progress update on People Operations: resolve dependency - enterprise expansion",
+    "related_task": "TASK-017"
+  },
+  {
+    "timestamp": "2026-07-30T12:29:00+00:00",
+    "employee": "EMP-019",
+    "department": "Engineering",
+    "project": "PRJ-001",
+    "activity_type": "Meeting",
+    "content": "Progress update on Payments Reliability: publish weekly update - nexora onboarding",
+    "related_task": "TASK-018"
+  },
+  {
+    "timestamp": "2026-07-30T13:40:00+00:00",
+    "employee": "EMP-007",
+    "department": "Engineering",
+    "project": "PRJ-002",
+    "activity_type": "Email",
+    "content": "Progress update on Atlas Analytics: define acceptance criteria - fy27 planning",
+    "related_task": "TASK-019"
+  },
+  {
+    "timestamp": "2026-07-30T14:23:00+00:00",
+    "employee": "EMP-008",
+    "department": "Product",
+    "project": "PRJ-003",
+    "activity_type": "task completion",
+    "content": "Progress update on Customer Insights: review implementation - identity refresh",
+    "related_task": "TASK-020"
+  },
+  {
+    "timestamp": "2026-07-30T15:10:00+00:00",
+    "employee": "EMP-015",
+    "department": "Marketing",
+    "project": "PRJ-004",
+    "activity_type": "GitHub pull request",
+    "content": "Progress update on Q3 Launch Campaign: validate stakeholder feedback - mobile workspace",
+    "related_task": "TASK-021"
+  },
+  {
+    "timestamp": "2026-07-30T16:23:00+00:00",
+    "employee": "EMP-022",
+    "department": "Sales",
+    "project": "PRJ-005",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Enterprise Expansion: prepare launch checklist - partner webinar",
+    "related_task": "TASK-022"
+  },
+  {
+    "timestamp": "2026-07-31T09:10:00+00:00",
+    "employee": "EMP-008",
+    "department": "Product",
+    "project": "PRJ-009",
+    "activity_type": "Jira task update",
+    "content": "Progress update on Mobile Workspace: define acceptance criteria - payments reliability",
+    "related_task": "TASK-025"
+  },
+  {
+    "timestamp": "2026-07-31T09:42:00+00:00",
+    "employee": "EMP-001",
+    "department": "Engineering",
+    "project": "PRJ-001",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Payments Reliability: resolve dependency - enterprise expansion",
+    "related_task": "TASK-017"
+  },
+  {
+    "timestamp": "2026-07-31T10:17:00+00:00",
+    "employee": "EMP-007",
+    "department": "Engineering",
+    "project": "PRJ-002",
+    "activity_type": "Jira task update",
+    "content": "Progress update on Atlas Analytics: publish weekly update - nexora onboarding",
+    "related_task": "TASK-018"
+  },
+  {
+    "timestamp": "2026-07-31T10:34:00+00:00",
+    "employee": "EMP-009",
+    "department": "Marketing",
+    "project": "PRJ-010",
+    "activity_type": "Slack message",
+    "content": "Progress update on Partner Webinar: review implementation - atlas analytics",
+    "related_task": "TASK-026"
+  },
+  {
+    "timestamp": "2026-07-31T11:44:00+00:00",
+    "employee": "EMP-014",
+    "department": "Product",
+    "project": "PRJ-003",
+    "activity_type": "Slack message",
+    "content": "Progress update on Customer Insights: define acceptance criteria - fy27 planning",
+    "related_task": "TASK-019"
+  },
+  {
+    "timestamp": "2026-07-31T12:43:00+00:00",
+    "employee": "EMP-021",
+    "department": "Marketing",
+    "project": "PRJ-004",
+    "activity_type": "Meeting",
+    "content": "Progress update on Q3 Launch Campaign: review implementation - identity refresh",
+    "related_task": "TASK-020"
+  },
+  {
+    "timestamp": "2026-07-31T13:41:00+00:00",
+    "employee": "EMP-004",
+    "department": "Sales",
+    "project": "PRJ-005",
+    "activity_type": "Email",
+    "content": "Progress update on Enterprise Expansion: validate stakeholder feedback - mobile workspace",
+    "related_task": "TASK-021"
+  },
+  {
+    "timestamp": "2026-07-31T14:04:00+00:00",
+    "employee": "EMP-011",
+    "department": "HR",
+    "project": "PRJ-006",
+    "activity_type": "task completion",
+    "content": "Progress update on Nexora Onboarding: prepare launch checklist - partner webinar",
+    "related_task": "TASK-022"
+  },
+  {
+    "timestamp": "2026-07-31T15:38:00+00:00",
+    "employee": "EMP-018",
+    "department": "Finance",
+    "project": "PRJ-007",
+    "activity_type": "GitHub pull request",
+    "content": "Progress update on FY27 Planning: resolve dependency - renewal health",
+    "related_task": "TASK-023"
+  },
+  {
+    "timestamp": "2026-07-31T16:40:00+00:00",
+    "employee": "EMP-019",
+    "department": "Engineering",
+    "project": "PRJ-008",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Identity Refresh: publish weekly update - people operations",
+    "related_task": "TASK-024"
+  },
+  {
+    "timestamp": "2026-07-31T20:00:00+00:00",
+    "employee": "EMP-013",
+    "department": "Engineering",
+    "project": "PRJ-002",
+    "activity_type": "Jira task update",
+    "content": "Atlas event model adds funnel cohorts and retention dimensions.",
+    "related_task": "TASK-013"
+  },
+  {
+    "timestamp": "2026-08-01T09:14:00+00:00",
+    "employee": "EMP-011",
+    "department": "HR",
+    "project": "PRJ-012",
+    "activity_type": "Jira task update",
+    "content": "Progress update on People Operations: validate stakeholder feedback - customer insights",
+    "related_task": "TASK-027"
+  },
+  {
+    "timestamp": "2026-08-01T09:15:00+00:00",
+    "employee": "EMP-003",
+    "department": "Marketing",
+    "project": "PRJ-004",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Q3 Launch Campaign: define acceptance criteria - fy27 planning",
+    "related_task": "TASK-019"
+  },
+  {
+    "timestamp": "2026-08-01T10:10:00+00:00",
+    "employee": "EMP-010",
+    "department": "Sales",
+    "project": "PRJ-005",
+    "activity_type": "Jira task update",
+    "content": "Progress update on Enterprise Expansion: review implementation - identity refresh",
+    "related_task": "TASK-020"
+  },
+  {
+    "timestamp": "2026-08-01T10:43:00+00:00",
+    "employee": "EMP-007",
+    "department": "Engineering",
+    "project": "PRJ-001",
+    "activity_type": "Slack message",
+    "content": "Progress update on Payments Reliability: prepare launch checklist - q3 launch campaign",
+    "related_task": "TASK-028"
+  },
+  {
+    "timestamp": "2026-08-01T11:29:00+00:00",
+    "employee": "EMP-017",
+    "department": "HR",
+    "project": "PRJ-006",
+    "activity_type": "Slack message",
+    "content": "Progress update on Nexora Onboarding: validate stakeholder feedback - mobile workspace",
+    "related_task": "TASK-021"
+  },
+  {
+    "timestamp": "2026-08-01T12:24:00+00:00",
+    "employee": "EMP-024",
+    "department": "Finance",
+    "project": "PRJ-007",
+    "activity_type": "Meeting",
+    "content": "Progress update on FY27 Planning: prepare launch checklist - partner webinar",
+    "related_task": "TASK-022"
+  },
+  {
+    "timestamp": "2026-08-01T13:17:00+00:00",
+    "employee": "EMP-013",
+    "department": "Engineering",
+    "project": "PRJ-008",
+    "activity_type": "Email",
+    "content": "Progress update on Identity Refresh: resolve dependency - renewal health",
+    "related_task": "TASK-023"
+  },
+  {
+    "timestamp": "2026-08-01T14:40:00+00:00",
+    "employee": "EMP-008",
+    "department": "Product",
+    "project": "PRJ-009",
+    "activity_type": "task completion",
+    "content": "Progress update on Mobile Workspace: publish weekly update - people operations",
+    "related_task": "TASK-024"
+  },
+  {
+    "timestamp": "2026-08-01T15:44:00+00:00",
+    "employee": "EMP-015",
+    "department": "Marketing",
+    "project": "PRJ-010",
+    "activity_type": "GitHub pull request",
+    "content": "Progress update on Partner Webinar: define acceptance criteria - payments reliability",
+    "related_task": "TASK-025"
+  },
+  {
+    "timestamp": "2026-08-01T16:35:00+00:00",
+    "employee": "EMP-022",
+    "department": "Sales",
+    "project": "PRJ-011",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Renewal Health: review implementation - atlas analytics",
+    "related_task": "TASK-026"
+  },
+  {
+    "timestamp": "2026-08-01T20:00:00+00:00",
+    "employee": "EMP-031",
+    "department": "Engineering",
+    "project": "PRJ-002",
+    "activity_type": "Slack message",
+    "content": "I am building a parallel event aggregation path for the analytics dashboard.",
+    "related_task": "TASK-019"
+  },
+  {
+    "timestamp": "2026-08-02T09:13:00+00:00",
+    "employee": "EMP-002",
+    "department": "Product",
+    "project": "PRJ-003",
+    "activity_type": "Jira task update",
+    "content": "Progress update on Customer Insights: resolve dependency - enterprise expansion",
+    "related_task": "TASK-029"
+  },
+  {
+    "timestamp": "2026-08-02T09:20:00+00:00",
+    "employee": "EMP-006",
+    "department": "Finance",
+    "project": "PRJ-007",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on FY27 Planning: validate stakeholder feedback - mobile workspace",
+    "related_task": "TASK-021"
+  },
+  {
+    "timestamp": "2026-08-02T10:03:00+00:00",
+    "employee": "EMP-007",
+    "department": "Engineering",
+    "project": "PRJ-008",
+    "activity_type": "Jira task update",
+    "content": "Progress update on Identity Refresh: prepare launch checklist - partner webinar",
+    "related_task": "TASK-022"
+  },
+  {
+    "timestamp": "2026-08-02T10:36:00+00:00",
+    "employee": "EMP-009",
+    "department": "Marketing",
+    "project": "PRJ-004",
+    "activity_type": "Slack message",
+    "content": "Progress update on Q3 Launch Campaign: publish weekly update - nexora onboarding",
+    "related_task": "TASK-030"
+  },
+  {
+    "timestamp": "2026-08-02T11:14:00+00:00",
+    "employee": "EMP-014",
+    "department": "Product",
+    "project": "PRJ-009",
+    "activity_type": "Slack message",
+    "content": "Progress update on Mobile Workspace: resolve dependency - renewal health",
+    "related_task": "TASK-023"
+  },
+  {
+    "timestamp": "2026-08-02T12:02:00+00:00",
+    "employee": "EMP-021",
+    "department": "Marketing",
+    "project": "PRJ-010",
+    "activity_type": "Meeting",
+    "content": "Progress update on Partner Webinar: publish weekly update - people operations",
+    "related_task": "TASK-024"
+  },
+  {
+    "timestamp": "2026-08-02T13:20:00+00:00",
+    "employee": "EMP-010",
+    "department": "Sales",
+    "project": "PRJ-011",
+    "activity_type": "Email",
+    "content": "Progress update on Renewal Health: define acceptance criteria - payments reliability",
+    "related_task": "TASK-025"
+  },
+  {
+    "timestamp": "2026-08-02T14:25:00+00:00",
+    "employee": "EMP-011",
+    "department": "HR",
+    "project": "PRJ-012",
+    "activity_type": "task completion",
+    "content": "Progress update on People Operations: review implementation - atlas analytics",
+    "related_task": "TASK-026"
+  },
+  {
+    "timestamp": "2026-08-02T15:17:00+00:00",
+    "employee": "EMP-013",
+    "department": "Engineering",
+    "project": "PRJ-001",
+    "activity_type": "GitHub pull request",
+    "content": "Progress update on Payments Reliability: validate stakeholder feedback - customer insights",
+    "related_task": "TASK-027"
+  },
+  {
+    "timestamp": "2026-08-02T16:04:00+00:00",
+    "employee": "EMP-019",
+    "department": "Engineering",
+    "project": "PRJ-002",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Atlas Analytics: prepare launch checklist - q3 launch campaign",
+    "related_task": "TASK-028"
+  },
+  {
+    "timestamp": "2026-08-02T20:00:00+00:00",
+    "employee": "EMP-019",
+    "department": "Engineering",
+    "project": "PRJ-001",
+    "activity_type": "decision",
+    "content": "Decision: use the shared retry queue and standard alert thresholds.",
+    "related_task": "TASK-002"
+  },
+  {
+    "timestamp": "2026-08-03T09:09:00+00:00",
+    "employee": "EMP-005",
+    "department": "HR",
+    "project": "PRJ-006",
+    "activity_type": "Jira task update",
+    "content": "Progress update on Nexora Onboarding: define acceptance criteria - fy27 planning",
+    "related_task": "TASK-031"
+  },
+  {
+    "timestamp": "2026-08-03T09:45:00+00:00",
+    "employee": "EMP-009",
+    "department": "Marketing",
+    "project": "PRJ-010",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Partner Webinar: resolve dependency - renewal health",
+    "related_task": "TASK-023"
+  },
+  {
+    "timestamp": "2026-08-03T10:16:00+00:00",
+    "employee": "EMP-012",
+    "department": "Finance",
+    "project": "PRJ-007",
+    "activity_type": "Slack message",
+    "content": "Progress update on FY27 Planning: review implementation - identity refresh",
+    "related_task": "TASK-032"
+  },
+  {
+    "timestamp": "2026-08-03T10:20:00+00:00",
+    "employee": "EMP-010",
+    "department": "Sales",
+    "project": "PRJ-011",
+    "activity_type": "Jira task update",
+    "content": "Progress update on Renewal Health: publish weekly update - people operations",
+    "related_task": "TASK-024"
+  },
+  {
+    "timestamp": "2026-08-03T11:13:00+00:00",
+    "employee": "EMP-017",
+    "department": "HR",
+    "project": "PRJ-012",
+    "activity_type": "Slack message",
+    "content": "Progress update on People Operations: define acceptance criteria - payments reliability",
+    "related_task": "TASK-025"
+  },
+  {
+    "timestamp": "2026-08-03T12:41:00+00:00",
+    "employee": "EMP-019",
+    "department": "Engineering",
+    "project": "PRJ-001",
+    "activity_type": "Meeting",
+    "content": "Progress update on Payments Reliability: review implementation - atlas analytics",
+    "related_task": "TASK-026"
+  },
+  {
+    "timestamp": "2026-08-03T13:31:00+00:00",
+    "employee": "EMP-007",
+    "department": "Engineering",
+    "project": "PRJ-002",
+    "activity_type": "Email",
+    "content": "Progress update on Atlas Analytics: validate stakeholder feedback - customer insights",
+    "related_task": "TASK-027"
+  },
+  {
+    "timestamp": "2026-08-03T14:25:00+00:00",
+    "employee": "EMP-008",
+    "department": "Product",
+    "project": "PRJ-003",
+    "activity_type": "task completion",
+    "content": "Progress update on Customer Insights: prepare launch checklist - q3 launch campaign",
+    "related_task": "TASK-028"
+  },
+  {
+    "timestamp": "2026-08-03T15:41:00+00:00",
+    "employee": "EMP-015",
+    "department": "Marketing",
+    "project": "PRJ-004",
+    "activity_type": "GitHub pull request",
+    "content": "Progress update on Q3 Launch Campaign: resolve dependency - enterprise expansion",
+    "related_task": "TASK-029"
+  },
+  {
+    "timestamp": "2026-08-03T16:29:00+00:00",
+    "employee": "EMP-022",
+    "department": "Sales",
+    "project": "PRJ-005",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Enterprise Expansion: publish weekly update - nexora onboarding",
+    "related_task": "TASK-030"
+  },
+  {
+    "timestamp": "2026-08-03T20:00:00+00:00",
+    "employee": "EMP-013",
+    "department": "Engineering",
+    "project": "PRJ-002",
+    "activity_type": "Meeting",
+    "content": "Analytics overlap review: two teams are implementing the same event dimensions.",
+    "related_task": "TASK-013"
+  },
+  {
+    "timestamp": "2026-08-04T09:08:00+00:00",
+    "employee": "EMP-001",
+    "department": "Engineering",
+    "project": "PRJ-001",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Payments Reliability: define acceptance criteria - payments reliability",
+    "related_task": "TASK-025"
+  },
+  {
+    "timestamp": "2026-08-04T09:25:00+00:00",
+    "employee": "EMP-008",
+    "department": "Product",
+    "project": "PRJ-009",
+    "activity_type": "Jira task update",
+    "content": "Progress update on Mobile Workspace: validate stakeholder feedback - mobile workspace",
+    "related_task": "TASK-033"
+  },
+  {
+    "timestamp": "2026-08-04T10:15:00+00:00",
+    "employee": "EMP-007",
+    "department": "Engineering",
+    "project": "PRJ-002",
+    "activity_type": "Jira task update",
+    "content": "Progress update on Atlas Analytics: review implementation - atlas analytics",
+    "related_task": "TASK-026"
+  },
+  {
+    "timestamp": "2026-08-04T10:23:00+00:00",
+    "employee": "EMP-009",
+    "department": "Marketing",
+    "project": "PRJ-010",
+    "activity_type": "Slack message",
+    "content": "Progress update on Partner Webinar: prepare launch checklist - partner webinar",
+    "related_task": "TASK-034"
+  },
+  {
+    "timestamp": "2026-08-04T11:35:00+00:00",
+    "employee": "EMP-014",
+    "department": "Product",
+    "project": "PRJ-003",
+    "activity_type": "Slack message",
+    "content": "Progress update on Customer Insights: validate stakeholder feedback - customer insights",
+    "related_task": "TASK-027"
+  },
+  {
+    "timestamp": "2026-08-04T12:34:00+00:00",
+    "employee": "EMP-021",
+    "department": "Marketing",
+    "project": "PRJ-004",
+    "activity_type": "Meeting",
+    "content": "Progress update on Q3 Launch Campaign: prepare launch checklist - q3 launch campaign",
+    "related_task": "TASK-028"
+  },
+  {
+    "timestamp": "2026-08-04T13:16:00+00:00",
+    "employee": "EMP-004",
+    "department": "Sales",
+    "project": "PRJ-005",
+    "activity_type": "Email",
+    "content": "Progress update on Enterprise Expansion: resolve dependency - enterprise expansion",
+    "related_task": "TASK-029"
+  },
+  {
+    "timestamp": "2026-08-04T14:37:00+00:00",
+    "employee": "EMP-011",
+    "department": "HR",
+    "project": "PRJ-006",
+    "activity_type": "task completion",
+    "content": "Progress update on Nexora Onboarding: publish weekly update - nexora onboarding",
+    "related_task": "TASK-030"
+  },
+  {
+    "timestamp": "2026-08-04T15:27:00+00:00",
+    "employee": "EMP-018",
+    "department": "Finance",
+    "project": "PRJ-007",
+    "activity_type": "GitHub pull request",
+    "content": "Progress update on FY27 Planning: define acceptance criteria - fy27 planning",
+    "related_task": "TASK-031"
+  },
+  {
+    "timestamp": "2026-08-04T16:37:00+00:00",
+    "employee": "EMP-019",
+    "department": "Engineering",
+    "project": "PRJ-008",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Identity Refresh: review implementation - identity refresh",
+    "related_task": "TASK-032"
+  },
+  {
+    "timestamp": "2026-08-04T20:00:00+00:00",
+    "employee": "EMP-001",
+    "department": "Engineering",
+    "project": "PRJ-002",
+    "activity_type": "decision",
+    "content": "Decision: consolidate on the Atlas event model; retire the duplicate dashboard path.",
+    "related_task": "TASK-019"
+  },
+  {
+    "timestamp": "2026-08-05T09:14:00+00:00",
+    "employee": "EMP-003",
+    "department": "Marketing",
+    "project": "PRJ-004",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Q3 Launch Campaign: validate stakeholder feedback - customer insights",
+    "related_task": "TASK-027"
+  },
+  {
+    "timestamp": "2026-08-05T09:40:00+00:00",
+    "employee": "EMP-011",
+    "department": "HR",
+    "project": "PRJ-012",
+    "activity_type": "Jira task update",
+    "content": "Progress update on People Operations: resolve dependency - renewal health",
+    "related_task": "TASK-035"
+  },
+  {
+    "timestamp": "2026-08-05T10:08:00+00:00",
+    "employee": "EMP-010",
+    "department": "Sales",
+    "project": "PRJ-005",
+    "activity_type": "Jira task update",
+    "content": "Progress update on Enterprise Expansion: prepare launch checklist - q3 launch campaign",
+    "related_task": "TASK-028"
+  },
+  {
+    "timestamp": "2026-08-05T10:10:00+00:00",
+    "employee": "EMP-007",
+    "department": "Engineering",
+    "project": "PRJ-001",
+    "activity_type": "Slack message",
+    "content": "Progress update on Payments Reliability: publish weekly update - people operations",
+    "related_task": "TASK-036"
+  },
+  {
+    "timestamp": "2026-08-05T11:32:00+00:00",
+    "employee": "EMP-017",
+    "department": "HR",
+    "project": "PRJ-006",
+    "activity_type": "Slack message",
+    "content": "Progress update on Nexora Onboarding: resolve dependency - enterprise expansion",
+    "related_task": "TASK-029"
+  },
+  {
+    "timestamp": "2026-08-05T12:31:00+00:00",
+    "employee": "EMP-024",
+    "department": "Finance",
+    "project": "PRJ-007",
+    "activity_type": "Meeting",
+    "content": "Progress update on FY27 Planning: publish weekly update - nexora onboarding",
+    "related_task": "TASK-030"
+  },
+  {
+    "timestamp": "2026-08-05T13:05:00+00:00",
+    "employee": "EMP-013",
+    "department": "Engineering",
+    "project": "PRJ-008",
+    "activity_type": "Email",
+    "content": "Progress update on Identity Refresh: define acceptance criteria - fy27 planning",
+    "related_task": "TASK-031"
+  },
+  {
+    "timestamp": "2026-08-05T14:03:00+00:00",
+    "employee": "EMP-008",
+    "department": "Product",
+    "project": "PRJ-009",
+    "activity_type": "task completion",
+    "content": "Progress update on Mobile Workspace: review implementation - identity refresh",
+    "related_task": "TASK-032"
+  },
+  {
+    "timestamp": "2026-08-05T15:07:00+00:00",
+    "employee": "EMP-015",
+    "department": "Marketing",
+    "project": "PRJ-010",
+    "activity_type": "GitHub pull request",
+    "content": "Progress update on Partner Webinar: validate stakeholder feedback - mobile workspace",
+    "related_task": "TASK-033"
+  },
+  {
+    "timestamp": "2026-08-05T16:09:00+00:00",
+    "employee": "EMP-022",
+    "department": "Sales",
+    "project": "PRJ-011",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Renewal Health: prepare launch checklist - partner webinar",
+    "related_task": "TASK-034"
+  },
+  {
+    "timestamp": "2026-08-05T20:00:00+00:00",
+    "employee": "EMP-002",
+    "department": "Product",
+    "project": "PRJ-003",
+    "activity_type": "decision",
+    "content": "Roadmap decision: Customer Insights ships cohort exports before mobile parity.",
+    "related_task": "TASK-025"
+  },
+  {
+    "timestamp": "2026-08-06T09:33:00+00:00",
+    "employee": "EMP-002",
+    "department": "Product",
+    "project": "PRJ-003",
+    "activity_type": "Jira task update",
+    "content": "Progress update on Customer Insights: define acceptance criteria - payments reliability",
+    "related_task": "TASK-037"
+  },
+  {
+    "timestamp": "2026-08-06T09:43:00+00:00",
+    "employee": "EMP-006",
+    "department": "Finance",
+    "project": "PRJ-007",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on FY27 Planning: resolve dependency - enterprise expansion",
+    "related_task": "TASK-029"
+  },
+  {
+    "timestamp": "2026-08-06T10:16:00+00:00",
+    "employee": "EMP-009",
+    "department": "Marketing",
+    "project": "PRJ-004",
+    "activity_type": "Slack message",
+    "content": "Progress update on Q3 Launch Campaign: review implementation - atlas analytics",
+    "related_task": "TASK-038"
+  },
+  {
+    "timestamp": "2026-08-06T10:27:00+00:00",
+    "employee": "EMP-007",
+    "department": "Engineering",
+    "project": "PRJ-008",
+    "activity_type": "Jira task update",
+    "content": "Progress update on Identity Refresh: publish weekly update - nexora onboarding",
+    "related_task": "TASK-030"
+  },
+  {
+    "timestamp": "2026-08-06T11:38:00+00:00",
+    "employee": "EMP-014",
+    "department": "Product",
+    "project": "PRJ-009",
+    "activity_type": "Slack message",
+    "content": "Progress update on Mobile Workspace: define acceptance criteria - fy27 planning",
+    "related_task": "TASK-031"
+  },
+  {
+    "timestamp": "2026-08-06T12:04:00+00:00",
+    "employee": "EMP-021",
+    "department": "Marketing",
+    "project": "PRJ-010",
+    "activity_type": "Meeting",
+    "content": "Progress update on Partner Webinar: review implementation - identity refresh",
+    "related_task": "TASK-032"
+  },
+  {
+    "timestamp": "2026-08-06T13:24:00+00:00",
+    "employee": "EMP-010",
+    "department": "Sales",
+    "project": "PRJ-011",
+    "activity_type": "Email",
+    "content": "Progress update on Renewal Health: validate stakeholder feedback - mobile workspace",
+    "related_task": "TASK-033"
+  },
+  {
+    "timestamp": "2026-08-06T14:24:00+00:00",
+    "employee": "EMP-011",
+    "department": "HR",
+    "project": "PRJ-012",
+    "activity_type": "task completion",
+    "content": "Progress update on People Operations: prepare launch checklist - partner webinar",
+    "related_task": "TASK-034"
+  },
+  {
+    "timestamp": "2026-08-06T15:38:00+00:00",
+    "employee": "EMP-013",
+    "department": "Engineering",
+    "project": "PRJ-001",
+    "activity_type": "GitHub pull request",
+    "content": "Progress update on Payments Reliability: resolve dependency - renewal health",
+    "related_task": "TASK-035"
+  },
+  {
+    "timestamp": "2026-08-06T16:29:00+00:00",
+    "employee": "EMP-019",
+    "department": "Engineering",
+    "project": "PRJ-002",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Atlas Analytics: publish weekly update - people operations",
+    "related_task": "TASK-036"
+  },
+  {
+    "timestamp": "2026-08-07T09:21:00+00:00",
+    "employee": "EMP-005",
+    "department": "HR",
+    "project": "PRJ-006",
+    "activity_type": "Jira task update",
+    "content": "Progress update on Nexora Onboarding: validate stakeholder feedback - customer insights",
+    "related_task": "TASK-039"
+  },
+  {
+    "timestamp": "2026-08-07T09:35:00+00:00",
+    "employee": "EMP-009",
+    "department": "Marketing",
+    "project": "PRJ-010",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Partner Webinar: define acceptance criteria - fy27 planning",
+    "related_task": "TASK-031"
+  },
+  {
+    "timestamp": "2026-08-07T10:00:00+00:00",
+    "employee": "EMP-010",
+    "department": "Sales",
+    "project": "PRJ-011",
+    "activity_type": "Jira task update",
+    "content": "Progress update on Renewal Health: review implementation - identity refresh",
+    "related_task": "TASK-032"
+  },
+  {
+    "timestamp": "2026-08-07T10:07:00+00:00",
+    "employee": "EMP-012",
+    "department": "Finance",
+    "project": "PRJ-007",
+    "activity_type": "Slack message",
+    "content": "Progress update on FY27 Planning: prepare launch checklist - q3 launch campaign",
+    "related_task": "TASK-040"
+  },
+  {
+    "timestamp": "2026-08-07T11:43:00+00:00",
+    "employee": "EMP-017",
+    "department": "HR",
+    "project": "PRJ-012",
+    "activity_type": "Slack message",
+    "content": "Progress update on People Operations: validate stakeholder feedback - mobile workspace",
+    "related_task": "TASK-033"
+  },
+  {
+    "timestamp": "2026-08-07T12:07:00+00:00",
+    "employee": "EMP-019",
+    "department": "Engineering",
+    "project": "PRJ-001",
+    "activity_type": "Meeting",
+    "content": "Progress update on Payments Reliability: prepare launch checklist - partner webinar",
+    "related_task": "TASK-034"
+  },
+  {
+    "timestamp": "2026-08-07T13:43:00+00:00",
+    "employee": "EMP-007",
+    "department": "Engineering",
+    "project": "PRJ-002",
+    "activity_type": "Email",
+    "content": "Progress update on Atlas Analytics: resolve dependency - renewal health",
+    "related_task": "TASK-035"
+  },
+  {
+    "timestamp": "2026-08-07T14:34:00+00:00",
+    "employee": "EMP-008",
+    "department": "Product",
+    "project": "PRJ-003",
+    "activity_type": "task completion",
+    "content": "Progress update on Customer Insights: publish weekly update - people operations",
+    "related_task": "TASK-036"
+  },
+  {
+    "timestamp": "2026-08-07T15:17:00+00:00",
+    "employee": "EMP-015",
+    "department": "Marketing",
+    "project": "PRJ-004",
+    "activity_type": "GitHub pull request",
+    "content": "Progress update on Q3 Launch Campaign: define acceptance criteria - payments reliability",
+    "related_task": "TASK-037"
+  },
+  {
+    "timestamp": "2026-08-07T16:41:00+00:00",
+    "employee": "EMP-022",
+    "department": "Sales",
+    "project": "PRJ-005",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Enterprise Expansion: review implementation - atlas analytics",
+    "related_task": "TASK-038"
+  },
+  {
+    "timestamp": "2026-08-07T20:00:00+00:00",
+    "employee": "EMP-019",
+    "department": "Engineering",
+    "project": "PRJ-001",
+    "activity_type": "task completion",
+    "content": "Queue policy deployed and verified in staging.",
+    "related_task": "TASK-002"
+  },
+  {
+    "timestamp": "2026-08-08T09:18:00+00:00",
+    "employee": "EMP-001",
+    "department": "Engineering",
+    "project": "PRJ-001",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Payments Reliability: validate stakeholder feedback - mobile workspace",
+    "related_task": "TASK-033"
+  },
+  {
+    "timestamp": "2026-08-08T09:32:00+00:00",
+    "employee": "EMP-008",
+    "department": "Product",
+    "project": "PRJ-009",
+    "activity_type": "Jira task update",
+    "content": "Progress update on Mobile Workspace: resolve dependency - enterprise expansion",
+    "related_task": "TASK-041"
+  },
+  {
+    "timestamp": "2026-08-08T10:06:00+00:00",
+    "employee": "EMP-009",
+    "department": "Marketing",
+    "project": "PRJ-010",
+    "activity_type": "Slack message",
+    "content": "Progress update on Partner Webinar: publish weekly update - nexora onboarding",
+    "related_task": "TASK-042"
+  },
+  {
+    "timestamp": "2026-08-08T10:27:00+00:00",
+    "employee": "EMP-007",
+    "department": "Engineering",
+    "project": "PRJ-002",
+    "activity_type": "Jira task update",
+    "content": "Progress update on Atlas Analytics: prepare launch checklist - partner webinar",
+    "related_task": "TASK-034"
+  },
+  {
+    "timestamp": "2026-08-08T11:10:00+00:00",
+    "employee": "EMP-014",
+    "department": "Product",
+    "project": "PRJ-003",
+    "activity_type": "Slack message",
+    "content": "Progress update on Customer Insights: resolve dependency - renewal health",
+    "related_task": "TASK-035"
+  },
+  {
+    "timestamp": "2026-08-08T12:29:00+00:00",
+    "employee": "EMP-021",
+    "department": "Marketing",
+    "project": "PRJ-004",
+    "activity_type": "Meeting",
+    "content": "Progress update on Q3 Launch Campaign: publish weekly update - people operations",
+    "related_task": "TASK-036"
+  },
+  {
+    "timestamp": "2026-08-08T13:00:00+00:00",
+    "employee": "EMP-004",
+    "department": "Sales",
+    "project": "PRJ-005",
+    "activity_type": "Email",
+    "content": "Progress update on Enterprise Expansion: define acceptance criteria - payments reliability",
+    "related_task": "TASK-037"
+  },
+  {
+    "timestamp": "2026-08-08T14:16:00+00:00",
+    "employee": "EMP-011",
+    "department": "HR",
+    "project": "PRJ-006",
+    "activity_type": "task completion",
+    "content": "Progress update on Nexora Onboarding: review implementation - atlas analytics",
+    "related_task": "TASK-038"
+  },
+  {
+    "timestamp": "2026-08-08T15:32:00+00:00",
+    "employee": "EMP-018",
+    "department": "Finance",
+    "project": "PRJ-007",
+    "activity_type": "GitHub pull request",
+    "content": "Progress update on FY27 Planning: validate stakeholder feedback - customer insights",
+    "related_task": "TASK-039"
+  },
+  {
+    "timestamp": "2026-08-08T16:11:00+00:00",
+    "employee": "EMP-019",
+    "department": "Engineering",
+    "project": "PRJ-008",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Identity Refresh: prepare launch checklist - q3 launch campaign",
+    "related_task": "TASK-040"
+  },
+  {
+    "timestamp": "2026-08-09T09:10:00+00:00",
+    "employee": "EMP-011",
+    "department": "HR",
+    "project": "PRJ-012",
+    "activity_type": "Jira task update",
+    "content": "Progress update on People Operations: define acceptance criteria - fy27 planning",
+    "related_task": "TASK-043"
+  },
+  {
+    "timestamp": "2026-08-09T09:40:00+00:00",
+    "employee": "EMP-003",
+    "department": "Marketing",
+    "project": "PRJ-004",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Q3 Launch Campaign: resolve dependency - renewal health",
+    "related_task": "TASK-035"
+  },
+  {
+    "timestamp": "2026-08-09T10:19:00+00:00",
+    "employee": "EMP-010",
+    "department": "Sales",
+    "project": "PRJ-005",
+    "activity_type": "Jira task update",
+    "content": "Progress update on Enterprise Expansion: publish weekly update - people operations",
+    "related_task": "TASK-036"
+  },
+  {
+    "timestamp": "2026-08-09T10:34:00+00:00",
+    "employee": "EMP-007",
+    "department": "Engineering",
+    "project": "PRJ-001",
+    "activity_type": "Slack message",
+    "content": "Progress update on Payments Reliability: review implementation - identity refresh",
+    "related_task": "TASK-044"
+  },
+  {
+    "timestamp": "2026-08-09T11:40:00+00:00",
+    "employee": "EMP-017",
+    "department": "HR",
+    "project": "PRJ-006",
+    "activity_type": "Slack message",
+    "content": "Progress update on Nexora Onboarding: define acceptance criteria - payments reliability",
+    "related_task": "TASK-037"
+  },
+  {
+    "timestamp": "2026-08-09T12:32:00+00:00",
+    "employee": "EMP-024",
+    "department": "Finance",
+    "project": "PRJ-007",
+    "activity_type": "Meeting",
+    "content": "Progress update on FY27 Planning: review implementation - atlas analytics",
+    "related_task": "TASK-038"
+  },
+  {
+    "timestamp": "2026-08-09T13:38:00+00:00",
+    "employee": "EMP-013",
+    "department": "Engineering",
+    "project": "PRJ-008",
+    "activity_type": "Email",
+    "content": "Progress update on Identity Refresh: validate stakeholder feedback - customer insights",
+    "related_task": "TASK-039"
+  },
+  {
+    "timestamp": "2026-08-09T14:12:00+00:00",
+    "employee": "EMP-008",
+    "department": "Product",
+    "project": "PRJ-009",
+    "activity_type": "task completion",
+    "content": "Progress update on Mobile Workspace: prepare launch checklist - q3 launch campaign",
+    "related_task": "TASK-040"
+  },
+  {
+    "timestamp": "2026-08-09T15:09:00+00:00",
+    "employee": "EMP-015",
+    "department": "Marketing",
+    "project": "PRJ-010",
+    "activity_type": "GitHub pull request",
+    "content": "Progress update on Partner Webinar: resolve dependency - enterprise expansion",
+    "related_task": "TASK-041"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:00+00:00",
+    "employee": "EMP-022",
+    "department": "Sales",
+    "project": "PRJ-011",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Renewal Health: publish weekly update - nexora onboarding",
+    "related_task": "TASK-042"
+  },
+  {
+    "timestamp": "2026-08-09T20:00:00+00:00",
+    "employee": "EMP-001",
+    "department": "Engineering",
+    "project": "PRJ-001",
+    "activity_type": "GitHub pull request",
+    "content": "PR #183 implements webhook retries and is ready for review.",
+    "related_task": "TASK-001"
+  },
+  {
+    "timestamp": "2026-08-10T09:19:00+00:00",
+    "employee": "EMP-002",
+    "department": "Product",
+    "project": "PRJ-003",
+    "activity_type": "Jira task update",
+    "content": "Progress update on Customer Insights: validate stakeholder feedback - mobile workspace",
+    "related_task": "TASK-045"
+  },
+  {
+    "timestamp": "2026-08-10T09:33:00+00:00",
+    "employee": "EMP-006",
+    "department": "Finance",
+    "project": "PRJ-007",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on FY27 Planning: define acceptance criteria - payments reliability",
+    "related_task": "TASK-037"
+  },
+  {
+    "timestamp": "2026-08-10T10:00:00+00:00",
+    "employee": "EMP-007",
+    "department": "Engineering",
+    "project": "PRJ-008",
+    "activity_type": "Jira task update",
+    "content": "Progress update on Identity Refresh: review implementation - atlas analytics",
+    "related_task": "TASK-038"
+  },
+  {
+    "timestamp": "2026-08-10T10:15:00+00:00",
+    "employee": "EMP-009",
+    "department": "Marketing",
+    "project": "PRJ-004",
+    "activity_type": "Slack message",
+    "content": "Progress update on Q3 Launch Campaign: prepare launch checklist - partner webinar",
+    "related_task": "TASK-046"
+  },
+  {
+    "timestamp": "2026-08-10T11:38:00+00:00",
+    "employee": "EMP-014",
+    "department": "Product",
+    "project": "PRJ-009",
+    "activity_type": "Slack message",
+    "content": "Progress update on Mobile Workspace: validate stakeholder feedback - customer insights",
+    "related_task": "TASK-039"
+  },
+  {
+    "timestamp": "2026-08-10T12:20:00+00:00",
+    "employee": "EMP-021",
+    "department": "Marketing",
+    "project": "PRJ-010",
+    "activity_type": "Meeting",
+    "content": "Progress update on Partner Webinar: prepare launch checklist - q3 launch campaign",
+    "related_task": "TASK-040"
+  },
+  {
+    "timestamp": "2026-08-10T13:31:00+00:00",
+    "employee": "EMP-010",
+    "department": "Sales",
+    "project": "PRJ-011",
+    "activity_type": "Email",
+    "content": "Progress update on Renewal Health: resolve dependency - enterprise expansion",
+    "related_task": "TASK-041"
+  },
+  {
+    "timestamp": "2026-08-10T14:01:00+00:00",
+    "employee": "EMP-011",
+    "department": "HR",
+    "project": "PRJ-012",
+    "activity_type": "task completion",
+    "content": "Progress update on People Operations: publish weekly update - nexora onboarding",
+    "related_task": "TASK-042"
+  },
+  {
+    "timestamp": "2026-08-10T15:07:00+00:00",
+    "employee": "EMP-013",
+    "department": "Engineering",
+    "project": "PRJ-001",
+    "activity_type": "GitHub pull request",
+    "content": "Progress update on Payments Reliability: define acceptance criteria - fy27 planning",
+    "related_task": "TASK-043"
+  },
+  {
+    "timestamp": "2026-08-10T16:23:00+00:00",
+    "employee": "EMP-019",
+    "department": "Engineering",
+    "project": "PRJ-002",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Atlas Analytics: review implementation - identity refresh",
+    "related_task": "TASK-044"
+  },
+  {
+    "timestamp": "2026-08-11T09:03:00+00:00",
+    "employee": "EMP-009",
+    "department": "Marketing",
+    "project": "PRJ-010",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Partner Webinar: validate stakeholder feedback - customer insights",
+    "related_task": "TASK-039"
+  },
+  {
+    "timestamp": "2026-08-11T09:08:00+00:00",
+    "employee": "EMP-005",
+    "department": "HR",
+    "project": "PRJ-006",
+    "activity_type": "Jira task update",
+    "content": "Progress update on Nexora Onboarding: resolve dependency - renewal health",
+    "related_task": "TASK-047"
+  },
+  {
+    "timestamp": "2026-08-11T10:08:00+00:00",
+    "employee": "EMP-012",
+    "department": "Finance",
+    "project": "PRJ-007",
+    "activity_type": "Slack message",
+    "content": "Progress update on FY27 Planning: publish weekly update - people operations",
+    "related_task": "TASK-048"
+  },
+  {
+    "timestamp": "2026-08-11T10:15:00+00:00",
+    "employee": "EMP-010",
+    "department": "Sales",
+    "project": "PRJ-011",
+    "activity_type": "Jira task update",
+    "content": "Progress update on Renewal Health: prepare launch checklist - q3 launch campaign",
+    "related_task": "TASK-040"
+  },
+  {
+    "timestamp": "2026-08-11T11:36:00+00:00",
+    "employee": "EMP-017",
+    "department": "HR",
+    "project": "PRJ-012",
+    "activity_type": "Slack message",
+    "content": "Progress update on People Operations: resolve dependency - enterprise expansion",
+    "related_task": "TASK-041"
+  },
+  {
+    "timestamp": "2026-08-11T12:05:00+00:00",
+    "employee": "EMP-019",
+    "department": "Engineering",
+    "project": "PRJ-001",
+    "activity_type": "Meeting",
+    "content": "Progress update on Payments Reliability: publish weekly update - nexora onboarding",
+    "related_task": "TASK-042"
+  },
+  {
+    "timestamp": "2026-08-11T13:05:00+00:00",
+    "employee": "EMP-007",
+    "department": "Engineering",
+    "project": "PRJ-002",
+    "activity_type": "Email",
+    "content": "Progress update on Atlas Analytics: define acceptance criteria - fy27 planning",
+    "related_task": "TASK-043"
+  },
+  {
+    "timestamp": "2026-08-11T14:31:00+00:00",
+    "employee": "EMP-008",
+    "department": "Product",
+    "project": "PRJ-003",
+    "activity_type": "task completion",
+    "content": "Progress update on Customer Insights: review implementation - identity refresh",
+    "related_task": "TASK-044"
+  },
+  {
+    "timestamp": "2026-08-11T15:04:00+00:00",
+    "employee": "EMP-015",
+    "department": "Marketing",
+    "project": "PRJ-004",
+    "activity_type": "GitHub pull request",
+    "content": "Progress update on Q3 Launch Campaign: validate stakeholder feedback - mobile workspace",
+    "related_task": "TASK-045"
+  },
+  {
+    "timestamp": "2026-08-11T16:34:00+00:00",
+    "employee": "EMP-022",
+    "department": "Sales",
+    "project": "PRJ-005",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Enterprise Expansion: prepare launch checklist - partner webinar",
+    "related_task": "TASK-046"
+  },
+  {
+    "timestamp": "2026-08-11T20:00:00+00:00",
+    "employee": "EMP-001",
+    "department": "Engineering",
+    "project": "PRJ-001",
+    "activity_type": "task completion",
+    "content": "Webhook task completed after infrastructure dependency resolved.",
+    "related_task": "TASK-001"
+  },
+  {
+    "timestamp": "2026-08-12T09:13:00+00:00",
+    "employee": "EMP-008",
+    "department": "Product",
+    "project": "PRJ-009",
+    "activity_type": "Jira task update",
+    "content": "Progress update on Mobile Workspace: define acceptance criteria - payments reliability",
+    "related_task": "TASK-049"
+  },
+  {
+    "timestamp": "2026-08-12T09:42:00+00:00",
+    "employee": "EMP-001",
+    "department": "Engineering",
+    "project": "PRJ-001",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Payments Reliability: resolve dependency - enterprise expansion",
+    "related_task": "TASK-041"
+  },
+  {
+    "timestamp": "2026-08-12T10:30:00+00:00",
+    "employee": "EMP-007",
+    "department": "Engineering",
+    "project": "PRJ-002",
+    "activity_type": "Jira task update",
+    "content": "Progress update on Atlas Analytics: publish weekly update - nexora onboarding",
+    "related_task": "TASK-042"
+  },
+  {
+    "timestamp": "2026-08-12T10:34:00+00:00",
+    "employee": "EMP-009",
+    "department": "Marketing",
+    "project": "PRJ-010",
+    "activity_type": "Slack message",
+    "content": "Progress update on Partner Webinar: review implementation - atlas analytics",
+    "related_task": "TASK-050"
+  },
+  {
+    "timestamp": "2026-08-12T11:35:00+00:00",
+    "employee": "EMP-014",
+    "department": "Product",
+    "project": "PRJ-003",
+    "activity_type": "Slack message",
+    "content": "Progress update on Customer Insights: define acceptance criteria - fy27 planning",
+    "related_task": "TASK-043"
+  },
+  {
+    "timestamp": "2026-08-12T12:10:00+00:00",
+    "employee": "EMP-021",
+    "department": "Marketing",
+    "project": "PRJ-004",
+    "activity_type": "Meeting",
+    "content": "Progress update on Q3 Launch Campaign: review implementation - identity refresh",
+    "related_task": "TASK-044"
+  },
+  {
+    "timestamp": "2026-08-12T13:16:00+00:00",
+    "employee": "EMP-004",
+    "department": "Sales",
+    "project": "PRJ-005",
+    "activity_type": "Email",
+    "content": "Progress update on Enterprise Expansion: validate stakeholder feedback - mobile workspace",
+    "related_task": "TASK-045"
+  },
+  {
+    "timestamp": "2026-08-12T14:33:00+00:00",
+    "employee": "EMP-011",
+    "department": "HR",
+    "project": "PRJ-006",
+    "activity_type": "task completion",
+    "content": "Progress update on Nexora Onboarding: prepare launch checklist - partner webinar",
+    "related_task": "TASK-046"
+  },
+  {
+    "timestamp": "2026-08-12T15:38:00+00:00",
+    "employee": "EMP-018",
+    "department": "Finance",
+    "project": "PRJ-007",
+    "activity_type": "GitHub pull request",
+    "content": "Progress update on FY27 Planning: resolve dependency - renewal health",
+    "related_task": "TASK-047"
+  },
+  {
+    "timestamp": "2026-08-12T16:27:00+00:00",
+    "employee": "EMP-019",
+    "department": "Engineering",
+    "project": "PRJ-008",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Identity Refresh: publish weekly update - people operations",
+    "related_task": "TASK-048"
+  },
+  {
+    "timestamp": "2026-08-12T20:00:00+00:00",
+    "employee": "EMP-003",
+    "department": "Marketing",
+    "project": "PRJ-004",
+    "activity_type": "blocker",
+    "content": "Launch campaign is behind schedule: creative review and customer proof points are late.",
+    "related_task": "TASK-019"
+  },
+  {
+    "timestamp": "2026-08-13T09:28:00+00:00",
+    "employee": "EMP-011",
+    "department": "HR",
+    "project": "PRJ-012",
+    "activity_type": "Jira task update",
+    "content": "Progress update on People Operations: validate stakeholder feedback - customer insights",
+    "related_task": "TASK-051"
+  },
+  {
+    "timestamp": "2026-08-13T09:44:00+00:00",
+    "employee": "EMP-003",
+    "department": "Marketing",
+    "project": "PRJ-004",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Q3 Launch Campaign: define acceptance criteria - fy27 planning",
+    "related_task": "TASK-043"
+  },
+  {
+    "timestamp": "2026-08-13T10:12:00+00:00",
+    "employee": "EMP-010",
+    "department": "Sales",
+    "project": "PRJ-005",
+    "activity_type": "Jira task update",
+    "content": "Progress update on Enterprise Expansion: review implementation - identity refresh",
+    "related_task": "TASK-044"
+  },
+  {
+    "timestamp": "2026-08-13T10:33:00+00:00",
+    "employee": "EMP-007",
+    "department": "Engineering",
+    "project": "PRJ-001",
+    "activity_type": "Slack message",
+    "content": "Progress update on Payments Reliability: prepare launch checklist - q3 launch campaign",
+    "related_task": "TASK-052"
+  },
+  {
+    "timestamp": "2026-08-13T11:45:00+00:00",
+    "employee": "EMP-017",
+    "department": "HR",
+    "project": "PRJ-006",
+    "activity_type": "Slack message",
+    "content": "Progress update on Nexora Onboarding: validate stakeholder feedback - mobile workspace",
+    "related_task": "TASK-045"
+  },
+  {
+    "timestamp": "2026-08-13T12:19:00+00:00",
+    "employee": "EMP-024",
+    "department": "Finance",
+    "project": "PRJ-007",
+    "activity_type": "Meeting",
+    "content": "Progress update on FY27 Planning: prepare launch checklist - partner webinar",
+    "related_task": "TASK-046"
+  },
+  {
+    "timestamp": "2026-08-13T13:25:00+00:00",
+    "employee": "EMP-013",
+    "department": "Engineering",
+    "project": "PRJ-008",
+    "activity_type": "Email",
+    "content": "Progress update on Identity Refresh: resolve dependency - renewal health",
+    "related_task": "TASK-047"
+  },
+  {
+    "timestamp": "2026-08-13T14:42:00+00:00",
+    "employee": "EMP-008",
+    "department": "Product",
+    "project": "PRJ-009",
+    "activity_type": "task completion",
+    "content": "Progress update on Mobile Workspace: publish weekly update - people operations",
+    "related_task": "TASK-048"
+  },
+  {
+    "timestamp": "2026-08-13T15:41:00+00:00",
+    "employee": "EMP-015",
+    "department": "Marketing",
+    "project": "PRJ-010",
+    "activity_type": "GitHub pull request",
+    "content": "Progress update on Partner Webinar: define acceptance criteria - payments reliability",
+    "related_task": "TASK-049"
+  },
+  {
+    "timestamp": "2026-08-13T16:23:00+00:00",
+    "employee": "EMP-022",
+    "department": "Sales",
+    "project": "PRJ-011",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Renewal Health: review implementation - atlas analytics",
+    "related_task": "TASK-050"
+  },
+  {
+    "timestamp": "2026-08-14T09:28:00+00:00",
+    "employee": "EMP-006",
+    "department": "Finance",
+    "project": "PRJ-007",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on FY27 Planning: validate stakeholder feedback - mobile workspace",
+    "related_task": "TASK-045"
+  },
+  {
+    "timestamp": "2026-08-14T09:35:00+00:00",
+    "employee": "EMP-002",
+    "department": "Product",
+    "project": "PRJ-003",
+    "activity_type": "Jira task update",
+    "content": "Progress update on Customer Insights: resolve dependency - enterprise expansion",
+    "related_task": "TASK-053"
+  },
+  {
+    "timestamp": "2026-08-14T10:07:00+00:00",
+    "employee": "EMP-007",
+    "department": "Engineering",
+    "project": "PRJ-008",
+    "activity_type": "Jira task update",
+    "content": "Progress update on Identity Refresh: prepare launch checklist - partner webinar",
+    "related_task": "TASK-046"
+  },
+  {
+    "timestamp": "2026-08-14T10:14:00+00:00",
+    "employee": "EMP-009",
+    "department": "Marketing",
+    "project": "PRJ-004",
+    "activity_type": "Slack message",
+    "content": "Progress update on Q3 Launch Campaign: publish weekly update - nexora onboarding",
+    "related_task": "TASK-054"
+  },
+  {
+    "timestamp": "2026-08-14T11:15:00+00:00",
+    "employee": "EMP-014",
+    "department": "Product",
+    "project": "PRJ-009",
+    "activity_type": "Slack message",
+    "content": "Progress update on Mobile Workspace: resolve dependency - renewal health",
+    "related_task": "TASK-047"
+  },
+  {
+    "timestamp": "2026-08-14T12:14:00+00:00",
+    "employee": "EMP-021",
+    "department": "Marketing",
+    "project": "PRJ-010",
+    "activity_type": "Meeting",
+    "content": "Progress update on Partner Webinar: publish weekly update - people operations",
+    "related_task": "TASK-048"
+  },
+  {
+    "timestamp": "2026-08-14T13:04:00+00:00",
+    "employee": "EMP-010",
+    "department": "Sales",
+    "project": "PRJ-011",
+    "activity_type": "Email",
+    "content": "Progress update on Renewal Health: define acceptance criteria - payments reliability",
+    "related_task": "TASK-049"
+  },
+  {
+    "timestamp": "2026-08-14T14:21:00+00:00",
+    "employee": "EMP-011",
+    "department": "HR",
+    "project": "PRJ-012",
+    "activity_type": "task completion",
+    "content": "Progress update on People Operations: review implementation - atlas analytics",
+    "related_task": "TASK-050"
+  },
+  {
+    "timestamp": "2026-08-14T15:01:00+00:00",
+    "employee": "EMP-013",
+    "department": "Engineering",
+    "project": "PRJ-001",
+    "activity_type": "GitHub pull request",
+    "content": "Progress update on Payments Reliability: validate stakeholder feedback - customer insights",
+    "related_task": "TASK-051"
+  },
+  {
+    "timestamp": "2026-08-14T16:37:00+00:00",
+    "employee": "EMP-019",
+    "department": "Engineering",
+    "project": "PRJ-002",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Atlas Analytics: prepare launch checklist - q3 launch campaign",
+    "related_task": "TASK-052"
+  },
+  {
+    "timestamp": "2026-08-14T20:00:00+00:00",
+    "employee": "EMP-005",
+    "department": "HR",
+    "project": "PRJ-006",
+    "activity_type": "Email",
+    "content": "New hire onboarding is underway; laptop, buddy, and first-week plan are ready.",
+    "related_task": "TASK-031"
+  },
+  {
+    "timestamp": "2026-08-15T09:04:00+00:00",
+    "employee": "EMP-005",
+    "department": "HR",
+    "project": "PRJ-006",
+    "activity_type": "Jira task update",
+    "content": "Progress update on Nexora Onboarding: define acceptance criteria - fy27 planning",
+    "related_task": "TASK-055"
+  },
+  {
+    "timestamp": "2026-08-15T09:37:00+00:00",
+    "employee": "EMP-009",
+    "department": "Marketing",
+    "project": "PRJ-010",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Partner Webinar: resolve dependency - renewal health",
+    "related_task": "TASK-047"
+  },
+  {
+    "timestamp": "2026-08-15T10:02:00+00:00",
+    "employee": "EMP-012",
+    "department": "Finance",
+    "project": "PRJ-007",
+    "activity_type": "Slack message",
+    "content": "Progress update on FY27 Planning: review implementation - identity refresh",
+    "related_task": "TASK-056"
+  },
+  {
+    "timestamp": "2026-08-15T10:14:00+00:00",
+    "employee": "EMP-010",
+    "department": "Sales",
+    "project": "PRJ-011",
+    "activity_type": "Jira task update",
+    "content": "Progress update on Renewal Health: publish weekly update - people operations",
+    "related_task": "TASK-048"
+  },
+  {
+    "timestamp": "2026-08-15T11:00:00+00:00",
+    "employee": "EMP-017",
+    "department": "HR",
+    "project": "PRJ-012",
+    "activity_type": "Slack message",
+    "content": "Progress update on People Operations: define acceptance criteria - payments reliability",
+    "related_task": "TASK-049"
+  },
+  {
+    "timestamp": "2026-08-15T12:04:00+00:00",
+    "employee": "EMP-019",
+    "department": "Engineering",
+    "project": "PRJ-001",
+    "activity_type": "Meeting",
+    "content": "Progress update on Payments Reliability: review implementation - atlas analytics",
+    "related_task": "TASK-050"
+  },
+  {
+    "timestamp": "2026-08-15T13:45:00+00:00",
+    "employee": "EMP-007",
+    "department": "Engineering",
+    "project": "PRJ-002",
+    "activity_type": "Email",
+    "content": "Progress update on Atlas Analytics: validate stakeholder feedback - customer insights",
+    "related_task": "TASK-051"
+  },
+  {
+    "timestamp": "2026-08-15T14:40:00+00:00",
+    "employee": "EMP-008",
+    "department": "Product",
+    "project": "PRJ-003",
+    "activity_type": "task completion",
+    "content": "Progress update on Customer Insights: prepare launch checklist - q3 launch campaign",
+    "related_task": "TASK-052"
+  },
+  {
+    "timestamp": "2026-08-15T15:03:00+00:00",
+    "employee": "EMP-015",
+    "department": "Marketing",
+    "project": "PRJ-004",
+    "activity_type": "GitHub pull request",
+    "content": "Progress update on Q3 Launch Campaign: resolve dependency - enterprise expansion",
+    "related_task": "TASK-053"
+  },
+  {
+    "timestamp": "2026-08-15T16:14:00+00:00",
+    "employee": "EMP-022",
+    "department": "Sales",
+    "project": "PRJ-005",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Enterprise Expansion: publish weekly update - nexora onboarding",
+    "related_task": "TASK-054"
+  },
+  {
+    "timestamp": "2026-08-15T20:00:00+00:00",
+    "employee": "EMP-009",
+    "department": "Marketing",
+    "project": "PRJ-004",
+    "activity_type": "project update",
+    "content": "Campaign recovery plan approved with a smaller launch scope.",
+    "related_task": "TASK-020"
+  },
+  {
+    "timestamp": "2026-08-16T09:21:00+00:00",
+    "employee": "EMP-001",
+    "department": "Engineering",
+    "project": "PRJ-001",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Payments Reliability: define acceptance criteria - payments reliability",
+    "related_task": "TASK-049"
+  },
+  {
+    "timestamp": "2026-08-16T09:34:00+00:00",
+    "employee": "EMP-008",
+    "department": "Product",
+    "project": "PRJ-009",
+    "activity_type": "Jira task update",
+    "content": "Progress update on Mobile Workspace: validate stakeholder feedback - mobile workspace",
+    "related_task": "TASK-057"
+  },
+  {
+    "timestamp": "2026-08-16T10:04:00+00:00",
+    "employee": "EMP-007",
+    "department": "Engineering",
+    "project": "PRJ-002",
+    "activity_type": "Jira task update",
+    "content": "Progress update on Atlas Analytics: review implementation - atlas analytics",
+    "related_task": "TASK-050"
+  },
+  {
+    "timestamp": "2026-08-16T10:08:00+00:00",
+    "employee": "EMP-009",
+    "department": "Marketing",
+    "project": "PRJ-010",
+    "activity_type": "Slack message",
+    "content": "Progress update on Partner Webinar: prepare launch checklist - partner webinar",
+    "related_task": "TASK-058"
+  },
+  {
+    "timestamp": "2026-08-16T11:32:00+00:00",
+    "employee": "EMP-014",
+    "department": "Product",
+    "project": "PRJ-003",
+    "activity_type": "Slack message",
+    "content": "Progress update on Customer Insights: validate stakeholder feedback - customer insights",
+    "related_task": "TASK-051"
+  },
+  {
+    "timestamp": "2026-08-16T12:15:00+00:00",
+    "employee": "EMP-021",
+    "department": "Marketing",
+    "project": "PRJ-004",
+    "activity_type": "Meeting",
+    "content": "Progress update on Q3 Launch Campaign: prepare launch checklist - q3 launch campaign",
+    "related_task": "TASK-052"
+  },
+  {
+    "timestamp": "2026-08-16T13:17:00+00:00",
+    "employee": "EMP-004",
+    "department": "Sales",
+    "project": "PRJ-005",
+    "activity_type": "Email",
+    "content": "Progress update on Enterprise Expansion: resolve dependency - enterprise expansion",
+    "related_task": "TASK-053"
+  },
+  {
+    "timestamp": "2026-08-16T14:42:00+00:00",
+    "employee": "EMP-011",
+    "department": "HR",
+    "project": "PRJ-006",
+    "activity_type": "task completion",
+    "content": "Progress update on Nexora Onboarding: publish weekly update - nexora onboarding",
+    "related_task": "TASK-054"
+  },
+  {
+    "timestamp": "2026-08-16T15:31:00+00:00",
+    "employee": "EMP-018",
+    "department": "Finance",
+    "project": "PRJ-007",
+    "activity_type": "GitHub pull request",
+    "content": "Progress update on FY27 Planning: define acceptance criteria - fy27 planning",
+    "related_task": "TASK-055"
+  },
+  {
+    "timestamp": "2026-08-16T16:13:00+00:00",
+    "employee": "EMP-019",
+    "department": "Engineering",
+    "project": "PRJ-008",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Identity Refresh: review implementation - identity refresh",
+    "related_task": "TASK-056"
+  },
+  {
+    "timestamp": "2026-08-17T09:06:00+00:00",
+    "employee": "EMP-011",
+    "department": "HR",
+    "project": "PRJ-012",
+    "activity_type": "Jira task update",
+    "content": "Progress update on People Operations: resolve dependency - renewal health",
+    "related_task": "TASK-059"
+  },
+  {
+    "timestamp": "2026-08-17T09:36:00+00:00",
+    "employee": "EMP-003",
+    "department": "Marketing",
+    "project": "PRJ-004",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Q3 Launch Campaign: validate stakeholder feedback - customer insights",
+    "related_task": "TASK-051"
+  },
+  {
+    "timestamp": "2026-08-17T10:36:00+00:00",
+    "employee": "EMP-010",
+    "department": "Sales",
+    "project": "PRJ-005",
+    "activity_type": "Jira task update",
+    "content": "Progress update on Enterprise Expansion: prepare launch checklist - q3 launch campaign",
+    "related_task": "TASK-052"
+  },
+  {
+    "timestamp": "2026-08-17T10:42:00+00:00",
+    "employee": "EMP-007",
+    "department": "Engineering",
+    "project": "PRJ-001",
+    "activity_type": "Slack message",
+    "content": "Progress update on Payments Reliability: publish weekly update - people operations",
+    "related_task": "TASK-060"
+  },
+  {
+    "timestamp": "2026-08-17T11:30:00+00:00",
+    "employee": "EMP-017",
+    "department": "HR",
+    "project": "PRJ-006",
+    "activity_type": "Slack message",
+    "content": "Progress update on Nexora Onboarding: resolve dependency - enterprise expansion",
+    "related_task": "TASK-053"
+  },
+  {
+    "timestamp": "2026-08-17T12:15:00+00:00",
+    "employee": "EMP-024",
+    "department": "Finance",
+    "project": "PRJ-007",
+    "activity_type": "Meeting",
+    "content": "Progress update on FY27 Planning: publish weekly update - nexora onboarding",
+    "related_task": "TASK-054"
+  },
+  {
+    "timestamp": "2026-08-17T13:30:00+00:00",
+    "employee": "EMP-013",
+    "department": "Engineering",
+    "project": "PRJ-008",
+    "activity_type": "Email",
+    "content": "Progress update on Identity Refresh: define acceptance criteria - fy27 planning",
+    "related_task": "TASK-055"
+  },
+  {
+    "timestamp": "2026-08-17T14:26:00+00:00",
+    "employee": "EMP-008",
+    "department": "Product",
+    "project": "PRJ-009",
+    "activity_type": "task completion",
+    "content": "Progress update on Mobile Workspace: review implementation - identity refresh",
+    "related_task": "TASK-056"
+  },
+  {
+    "timestamp": "2026-08-17T15:12:00+00:00",
+    "employee": "EMP-015",
+    "department": "Marketing",
+    "project": "PRJ-010",
+    "activity_type": "GitHub pull request",
+    "content": "Progress update on Partner Webinar: validate stakeholder feedback - mobile workspace",
+    "related_task": "TASK-057"
+  },
+  {
+    "timestamp": "2026-08-17T16:06:00+00:00",
+    "employee": "EMP-022",
+    "department": "Sales",
+    "project": "PRJ-011",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Renewal Health: prepare launch checklist - partner webinar",
+    "related_task": "TASK-058"
+  },
+  {
+    "timestamp": "2026-08-17T20:00:00+00:00",
+    "employee": "EMP-001",
+    "department": "Engineering",
+    "project": "PRJ-001",
+    "activity_type": "decision",
+    "content": "Payments technical decision is currently concentrated with two engineers; document the runbook.",
+    "related_task": "TASK-001"
+  },
+  {
+    "timestamp": "2026-08-18T09:27:00+00:00",
+    "employee": "EMP-006",
+    "department": "Finance",
+    "project": "PRJ-007",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on FY27 Planning: resolve dependency - enterprise expansion",
+    "related_task": "TASK-053"
+  },
+  {
+    "timestamp": "2026-08-18T09:41:00+00:00",
+    "employee": "EMP-002",
+    "department": "Product",
+    "project": "PRJ-003",
+    "activity_type": "Jira task update",
+    "content": "Progress update on Customer Insights: define acceptance criteria - payments reliability",
+    "related_task": "TASK-001"
+  },
+  {
+    "timestamp": "2026-08-18T10:06:00+00:00",
+    "employee": "EMP-009",
+    "department": "Marketing",
+    "project": "PRJ-004",
+    "activity_type": "Slack message",
+    "content": "Progress update on Q3 Launch Campaign: review implementation - atlas analytics",
+    "related_task": "TASK-002"
+  },
+  {
+    "timestamp": "2026-08-18T10:22:00+00:00",
+    "employee": "EMP-007",
+    "department": "Engineering",
+    "project": "PRJ-008",
+    "activity_type": "Jira task update",
+    "content": "Progress update on Identity Refresh: publish weekly update - nexora onboarding",
+    "related_task": "TASK-054"
+  },
+  {
+    "timestamp": "2026-08-18T11:27:00+00:00",
+    "employee": "EMP-014",
+    "department": "Product",
+    "project": "PRJ-009",
+    "activity_type": "Slack message",
+    "content": "Progress update on Mobile Workspace: define acceptance criteria - fy27 planning",
+    "related_task": "TASK-055"
+  },
+  {
+    "timestamp": "2026-08-18T12:26:00+00:00",
+    "employee": "EMP-021",
+    "department": "Marketing",
+    "project": "PRJ-010",
+    "activity_type": "Meeting",
+    "content": "Progress update on Partner Webinar: review implementation - identity refresh",
+    "related_task": "TASK-056"
+  },
+  {
+    "timestamp": "2026-08-18T13:29:00+00:00",
+    "employee": "EMP-010",
+    "department": "Sales",
+    "project": "PRJ-011",
+    "activity_type": "Email",
+    "content": "Progress update on Renewal Health: validate stakeholder feedback - mobile workspace",
+    "related_task": "TASK-057"
+  },
+  {
+    "timestamp": "2026-08-18T14:03:00+00:00",
+    "employee": "EMP-011",
+    "department": "HR",
+    "project": "PRJ-012",
+    "activity_type": "task completion",
+    "content": "Progress update on People Operations: prepare launch checklist - partner webinar",
+    "related_task": "TASK-058"
+  },
+  {
+    "timestamp": "2026-08-18T15:43:00+00:00",
+    "employee": "EMP-013",
+    "department": "Engineering",
+    "project": "PRJ-001",
+    "activity_type": "GitHub pull request",
+    "content": "Progress update on Payments Reliability: resolve dependency - renewal health",
+    "related_task": "TASK-059"
+  },
+  {
+    "timestamp": "2026-08-18T16:41:00+00:00",
+    "employee": "EMP-019",
+    "department": "Engineering",
+    "project": "PRJ-002",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Atlas Analytics: publish weekly update - people operations",
+    "related_task": "TASK-060"
+  },
+  {
+    "timestamp": "2026-08-19T09:03:00+00:00",
+    "employee": "EMP-009",
+    "department": "Marketing",
+    "project": "PRJ-010",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Partner Webinar: define acceptance criteria - fy27 planning",
+    "related_task": "TASK-055"
+  },
+  {
+    "timestamp": "2026-08-19T09:28:00+00:00",
+    "employee": "EMP-005",
+    "department": "HR",
+    "project": "PRJ-006",
+    "activity_type": "Jira task update",
+    "content": "Progress update on Nexora Onboarding: validate stakeholder feedback - customer insights",
+    "related_task": "TASK-003"
+  },
+  {
+    "timestamp": "2026-08-19T10:08:00+00:00",
+    "employee": "EMP-012",
+    "department": "Finance",
+    "project": "PRJ-007",
+    "activity_type": "Slack message",
+    "content": "Progress update on FY27 Planning: prepare launch checklist - q3 launch campaign",
+    "related_task": "TASK-004"
+  },
+  {
+    "timestamp": "2026-08-19T10:25:00+00:00",
+    "employee": "EMP-010",
+    "department": "Sales",
+    "project": "PRJ-011",
+    "activity_type": "Jira task update",
+    "content": "Progress update on Renewal Health: review implementation - identity refresh",
+    "related_task": "TASK-056"
+  },
+  {
+    "timestamp": "2026-08-19T11:21:00+00:00",
+    "employee": "EMP-017",
+    "department": "HR",
+    "project": "PRJ-012",
+    "activity_type": "Slack message",
+    "content": "Progress update on People Operations: validate stakeholder feedback - mobile workspace",
+    "related_task": "TASK-057"
+  },
+  {
+    "timestamp": "2026-08-19T12:06:00+00:00",
+    "employee": "EMP-019",
+    "department": "Engineering",
+    "project": "PRJ-001",
+    "activity_type": "Meeting",
+    "content": "Progress update on Payments Reliability: prepare launch checklist - partner webinar",
+    "related_task": "TASK-058"
+  },
+  {
+    "timestamp": "2026-08-19T13:15:00+00:00",
+    "employee": "EMP-007",
+    "department": "Engineering",
+    "project": "PRJ-002",
+    "activity_type": "Email",
+    "content": "Progress update on Atlas Analytics: resolve dependency - renewal health",
+    "related_task": "TASK-059"
+  },
+  {
+    "timestamp": "2026-08-19T14:12:00+00:00",
+    "employee": "EMP-008",
+    "department": "Product",
+    "project": "PRJ-003",
+    "activity_type": "task completion",
+    "content": "Progress update on Customer Insights: publish weekly update - people operations",
+    "related_task": "TASK-060"
+  },
+  {
+    "timestamp": "2026-08-19T15:12:00+00:00",
+    "employee": "EMP-015",
+    "department": "Marketing",
+    "project": "PRJ-004",
+    "activity_type": "GitHub pull request",
+    "content": "Progress update on Q3 Launch Campaign: define acceptance criteria - payments reliability",
+    "related_task": "TASK-001"
+  },
+  {
+    "timestamp": "2026-08-19T16:34:00+00:00",
+    "employee": "EMP-022",
+    "department": "Sales",
+    "project": "PRJ-005",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Enterprise Expansion: review implementation - atlas analytics",
+    "related_task": "TASK-002"
+  },
+  {
+    "timestamp": "2026-08-20T09:06:00+00:00",
+    "employee": "EMP-008",
+    "department": "Product",
+    "project": "PRJ-009",
+    "activity_type": "Jira task update",
+    "content": "Progress update on Mobile Workspace: resolve dependency - enterprise expansion",
+    "related_task": "TASK-005"
+  },
+  {
+    "timestamp": "2026-08-20T09:27:00+00:00",
+    "employee": "EMP-001",
+    "department": "Engineering",
+    "project": "PRJ-001",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Payments Reliability: validate stakeholder feedback - mobile workspace",
+    "related_task": "TASK-057"
+  },
+  {
+    "timestamp": "2026-08-20T10:03:00+00:00",
+    "employee": "EMP-009",
+    "department": "Marketing",
+    "project": "PRJ-010",
+    "activity_type": "Slack message",
+    "content": "Progress update on Partner Webinar: publish weekly update - nexora onboarding",
+    "related_task": "TASK-006"
+  },
+  {
+    "timestamp": "2026-08-20T10:11:00+00:00",
+    "employee": "EMP-007",
+    "department": "Engineering",
+    "project": "PRJ-002",
+    "activity_type": "Jira task update",
+    "content": "Progress update on Atlas Analytics: prepare launch checklist - partner webinar",
+    "related_task": "TASK-058"
+  },
+  {
+    "timestamp": "2026-08-20T11:17:00+00:00",
+    "employee": "EMP-014",
+    "department": "Product",
+    "project": "PRJ-003",
+    "activity_type": "Slack message",
+    "content": "Progress update on Customer Insights: resolve dependency - renewal health",
+    "related_task": "TASK-059"
+  },
+  {
+    "timestamp": "2026-08-20T12:29:00+00:00",
+    "employee": "EMP-021",
+    "department": "Marketing",
+    "project": "PRJ-004",
+    "activity_type": "Meeting",
+    "content": "Progress update on Q3 Launch Campaign: publish weekly update - people operations",
+    "related_task": "TASK-060"
+  },
+  {
+    "timestamp": "2026-08-20T13:15:00+00:00",
+    "employee": "EMP-004",
+    "department": "Sales",
+    "project": "PRJ-005",
+    "activity_type": "Email",
+    "content": "Progress update on Enterprise Expansion: define acceptance criteria - payments reliability",
+    "related_task": "TASK-001"
+  },
+  {
+    "timestamp": "2026-08-20T14:04:00+00:00",
+    "employee": "EMP-011",
+    "department": "HR",
+    "project": "PRJ-006",
+    "activity_type": "task completion",
+    "content": "Progress update on Nexora Onboarding: review implementation - atlas analytics",
+    "related_task": "TASK-002"
+  },
+  {
+    "timestamp": "2026-08-20T15:28:00+00:00",
+    "employee": "EMP-018",
+    "department": "Finance",
+    "project": "PRJ-007",
+    "activity_type": "GitHub pull request",
+    "content": "Progress update on FY27 Planning: validate stakeholder feedback - customer insights",
+    "related_task": "TASK-003"
+  },
+  {
+    "timestamp": "2026-08-20T16:35:00+00:00",
+    "employee": "EMP-019",
+    "department": "Engineering",
+    "project": "PRJ-008",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Identity Refresh: prepare launch checklist - q3 launch campaign",
+    "related_task": "TASK-004"
+  },
+  {
+    "timestamp": "2026-08-21T09:30:00+00:00",
+    "employee": "EMP-011",
+    "department": "HR",
+    "project": "PRJ-012",
+    "activity_type": "Jira task update",
+    "content": "Progress update on People Operations: define acceptance criteria - fy27 planning",
+    "related_task": "TASK-007"
+  },
+  {
+    "timestamp": "2026-08-21T09:41:00+00:00",
+    "employee": "EMP-003",
+    "department": "Marketing",
+    "project": "PRJ-004",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Q3 Launch Campaign: resolve dependency - renewal health",
+    "related_task": "TASK-059"
+  },
+  {
+    "timestamp": "2026-08-21T10:13:00+00:00",
+    "employee": "EMP-007",
+    "department": "Engineering",
+    "project": "PRJ-001",
+    "activity_type": "Slack message",
+    "content": "Progress update on Payments Reliability: review implementation - identity refresh",
+    "related_task": "TASK-008"
+  },
+  {
+    "timestamp": "2026-08-21T10:34:00+00:00",
+    "employee": "EMP-010",
+    "department": "Sales",
+    "project": "PRJ-005",
+    "activity_type": "Jira task update",
+    "content": "Progress update on Enterprise Expansion: publish weekly update - people operations",
+    "related_task": "TASK-060"
+  },
+  {
+    "timestamp": "2026-08-21T11:00:00+00:00",
+    "employee": "EMP-017",
+    "department": "HR",
+    "project": "PRJ-006",
+    "activity_type": "Slack message",
+    "content": "Progress update on Nexora Onboarding: define acceptance criteria - payments reliability",
+    "related_task": "TASK-001"
+  },
+  {
+    "timestamp": "2026-08-21T12:05:00+00:00",
+    "employee": "EMP-024",
+    "department": "Finance",
+    "project": "PRJ-007",
+    "activity_type": "Meeting",
+    "content": "Progress update on FY27 Planning: review implementation - atlas analytics",
+    "related_task": "TASK-002"
+  },
+  {
+    "timestamp": "2026-08-21T13:15:00+00:00",
+    "employee": "EMP-013",
+    "department": "Engineering",
+    "project": "PRJ-008",
+    "activity_type": "Email",
+    "content": "Progress update on Identity Refresh: validate stakeholder feedback - customer insights",
+    "related_task": "TASK-003"
+  },
+  {
+    "timestamp": "2026-08-21T14:10:00+00:00",
+    "employee": "EMP-008",
+    "department": "Product",
+    "project": "PRJ-009",
+    "activity_type": "task completion",
+    "content": "Progress update on Mobile Workspace: prepare launch checklist - q3 launch campaign",
+    "related_task": "TASK-004"
+  },
+  {
+    "timestamp": "2026-08-21T15:26:00+00:00",
+    "employee": "EMP-015",
+    "department": "Marketing",
+    "project": "PRJ-010",
+    "activity_type": "GitHub pull request",
+    "content": "Progress update on Partner Webinar: resolve dependency - enterprise expansion",
+    "related_task": "TASK-005"
+  },
+  {
+    "timestamp": "2026-08-21T16:31:00+00:00",
+    "employee": "EMP-022",
+    "department": "Sales",
+    "project": "PRJ-011",
+    "activity_type": "GitHub commit",
+    "content": "Progress update on Renewal Health: publish weekly update - nexora onboarding",
+    "related_task": "TASK-006"
+  }
+]

@@ -1,0 +1,3259 @@
+[
+  {
+    "id": "SLK-0035",
+    "source": "slack",
+    "timestamp": "2026-07-22T09:00:00",
+    "sender": "EMP-056",
+    "content": "Completed the review for Budget Planning FY26. Ready for next steps.",
+    "department": "Finance",
+    "project_id": "PRJ-008",
+    "recipients": null,
+    "channel": "finance-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0035",
+        "channel": "finance-general",
+        "sender": "EMP-056",
+        "timestamp": "2026-07-22T09:00:00",
+        "message": "Completed the review for Budget Planning FY26. Ready for next steps.",
+        "department": "Finance",
+        "project_id": "PRJ-008",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0001",
+    "source": "slack",
+    "timestamp": "2026-07-22T10:00:00",
+    "sender": "EMP-001",
+    "content": "Starting work on the webhook retry logic for Payments. Should be straightforward.",
+    "department": "Engineering",
+    "project_id": "PRJ-001",
+    "recipients": null,
+    "channel": "engineering-payments",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0001",
+        "channel": "engineering-payments",
+        "sender": "EMP-001",
+        "timestamp": "2026-07-22T10:00:00",
+        "message": "Starting work on the webhook retry logic for Payments. Should be straightforward.",
+        "department": "Engineering",
+        "project_id": "PRJ-001",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0031",
+    "source": "slack",
+    "timestamp": "2026-07-22T10:00:00",
+    "sender": "EMP-005",
+    "content": "Quick update on HR Onboarding System \u2014 making progress on my assigned items.",
+    "department": "HR",
+    "project_id": "PRJ-007",
+    "recipients": null,
+    "channel": "hr-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0031",
+        "channel": "hr-general",
+        "sender": "EMP-005",
+        "timestamp": "2026-07-22T10:00:00",
+        "message": "Quick update on HR Onboarding System \u2014 making progress on my assigned items.",
+        "department": "HR",
+        "project_id": "PRJ-007",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0032",
+    "source": "slack",
+    "timestamp": "2026-07-22T14:00:00",
+    "sender": "EMP-028",
+    "content": "Can we sync on Q3 Brand Campaign priorities for this week?",
+    "department": "Marketing",
+    "project_id": "PRJ-003",
+    "recipients": null,
+    "channel": "marketing-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0032",
+        "channel": "marketing-general",
+        "sender": "EMP-028",
+        "timestamp": "2026-07-22T14:00:00",
+        "message": "Can we sync on Q3 Brand Campaign priorities for this week?",
+        "department": "Marketing",
+        "project_id": "PRJ-003",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0034",
+    "source": "slack",
+    "timestamp": "2026-07-22T15:00:00",
+    "sender": "EMP-022",
+    "content": "Completed the review for Mobile App v2. Ready for next steps.",
+    "department": "Product",
+    "project_id": "PRJ-002",
+    "recipients": null,
+    "channel": "product-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0034",
+        "channel": "product-general",
+        "sender": "EMP-022",
+        "timestamp": "2026-07-22T15:00:00",
+        "message": "Completed the review for Mobile App v2. Ready for next steps.",
+        "department": "Product",
+        "project_id": "PRJ-002",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0033",
+    "source": "slack",
+    "timestamp": "2026-07-22T17:00:00",
+    "sender": "EMP-036",
+    "content": "Product wants the Enterprise Sales Pipeline feature before the September release.",
+    "department": "Sales",
+    "project_id": "PRJ-004",
+    "recipients": null,
+    "channel": "sales-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0033",
+        "channel": "sales-general",
+        "sender": "EMP-036",
+        "timestamp": "2026-07-22T17:00:00",
+        "message": "Product wants the Enterprise Sales Pipeline feature before the September release.",
+        "department": "Sales",
+        "project_id": "PRJ-004",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0038",
+    "source": "slack",
+    "timestamp": "2026-07-23T10:00:00",
+    "sender": "EMP-023",
+    "content": "Completed the review for Customer Analytics Portal. Ready for next steps.",
+    "department": "Product",
+    "project_id": "PRJ-006",
+    "recipients": null,
+    "channel": "product-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0038",
+        "channel": "product-general",
+        "sender": "EMP-023",
+        "timestamp": "2026-07-23T10:00:00",
+        "message": "Completed the review for Customer Analytics Portal. Ready for next steps.",
+        "department": "Product",
+        "project_id": "PRJ-006",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0011",
+    "source": "slack",
+    "timestamp": "2026-07-23T11:00:00",
+    "sender": "EMP-003",
+    "content": "Q3 brand campaign creative assets are behind schedule. Design team hasn't delivered the hero banners.",
+    "department": "Marketing",
+    "project_id": "PRJ-003",
+    "recipients": null,
+    "channel": "marketing-campaigns",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0011",
+        "channel": "marketing-campaigns",
+        "sender": "EMP-003",
+        "timestamp": "2026-07-23T11:00:00",
+        "message": "Q3 brand campaign creative assets are behind schedule. Design team hasn't delivered the hero banners.",
+        "department": "Marketing",
+        "project_id": "PRJ-003",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0037",
+    "source": "slack",
+    "timestamp": "2026-07-23T12:00:00",
+    "sender": "EMP-010",
+    "content": "Quick update on Security Compliance Audit \u2014 making progress on my assigned items.",
+    "department": "Engineering",
+    "project_id": "PRJ-011",
+    "recipients": null,
+    "channel": "engineering-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0037",
+        "channel": "engineering-general",
+        "sender": "EMP-010",
+        "timestamp": "2026-07-23T12:00:00",
+        "message": "Quick update on Security Compliance Audit \u2014 making progress on my assigned items.",
+        "department": "Engineering",
+        "project_id": "PRJ-011",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0039",
+    "source": "slack",
+    "timestamp": "2026-07-23T15:00:00",
+    "sender": "EMP-037",
+    "content": "Product wants the Enterprise Sales Pipeline feature before the September release.",
+    "department": "Sales",
+    "project_id": "PRJ-004",
+    "recipients": null,
+    "channel": "sales-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0039",
+        "channel": "sales-general",
+        "sender": "EMP-037",
+        "timestamp": "2026-07-23T15:00:00",
+        "message": "Product wants the Enterprise Sales Pipeline feature before the September release.",
+        "department": "Sales",
+        "project_id": "PRJ-004",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0036",
+    "source": "slack",
+    "timestamp": "2026-07-23T17:00:00",
+    "sender": "EMP-023",
+    "content": "Can we sync on Mobile App v2 priorities for this week?",
+    "department": "Product",
+    "project_id": "PRJ-002",
+    "recipients": null,
+    "channel": "product-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0036",
+        "channel": "product-general",
+        "sender": "EMP-023",
+        "timestamp": "2026-07-23T17:00:00",
+        "message": "Can we sync on Mobile App v2 priorities for this week?",
+        "department": "Product",
+        "project_id": "PRJ-002",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0040",
+    "source": "slack",
+    "timestamp": "2026-07-24T09:00:00",
+    "sender": "EMP-039",
+    "content": "Can we sync on Partner Integration Hub priorities for this week?",
+    "department": "Sales",
+    "project_id": "PRJ-010",
+    "recipients": null,
+    "channel": "sales-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0040",
+        "channel": "sales-general",
+        "sender": "EMP-039",
+        "timestamp": "2026-07-24T09:00:00",
+        "message": "Can we sync on Partner Integration Hub priorities for this week?",
+        "department": "Sales",
+        "project_id": "PRJ-010",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0002",
+    "source": "slack",
+    "timestamp": "2026-07-24T14:00:00",
+    "sender": "EMP-001",
+    "content": "I've finished the retry logic but deployment is still blocked. Can't push to staging without infra.",
+    "department": "Engineering",
+    "project_id": "PRJ-001",
+    "recipients": null,
+    "channel": "engineering-payments",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0002",
+        "channel": "engineering-payments",
+        "sender": "EMP-001",
+        "timestamp": "2026-07-24T14:00:00",
+        "message": "I've finished the retry logic but deployment is still blocked. Can't push to staging without infra.",
+        "department": "Engineering",
+        "project_id": "PRJ-001",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0041",
+    "source": "slack",
+    "timestamp": "2026-07-24T14:00:00",
+    "sender": "EMP-018",
+    "content": "Completed the review for Customer Analytics Portal. Ready for next steps.",
+    "department": "Product",
+    "project_id": "PRJ-006",
+    "recipients": null,
+    "channel": "product-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0041",
+        "channel": "product-general",
+        "sender": "EMP-018",
+        "timestamp": "2026-07-24T14:00:00",
+        "message": "Completed the review for Customer Analytics Portal. Ready for next steps.",
+        "department": "Product",
+        "project_id": "PRJ-006",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "EML-0003",
+    "source": "gmail",
+    "timestamp": "2026-07-24T15:00:00",
+    "sender": "EMP-001",
+    "content": "Hi Amit, I need the staging queue configured for Payments webhook testing. Can someone from infra confirm whether the staging queue is ready?",
+    "department": "Engineering",
+    "project_id": "PRJ-001",
+    "recipients": [
+      "EMP-002"
+    ],
+    "channel": null,
+    "subject": "Payments webhook - staging deployment needed",
+    "metadata": {
+      "original": {
+        "id": "EML-0003",
+        "sender": "EMP-001",
+        "recipients": [
+          "EMP-002"
+        ],
+        "timestamp": "2026-07-24T15:00:00",
+        "subject": "Payments webhook - staging deployment needed",
+        "body": "Hi Amit, I need the staging queue configured for Payments webhook testing. Can someone from infra confirm whether the staging queue is ready?",
+        "department": "Engineering",
+        "project_id": "PRJ-001"
+      }
+    }
+  },
+  {
+    "id": "SLK-0028",
+    "source": "slack",
+    "timestamp": "2026-07-24T16:00:00",
+    "sender": "EMP-001",
+    "content": "Only I have access to the legacy payment processor config.",
+    "department": "Engineering",
+    "project_id": "PRJ-001",
+    "recipients": null,
+    "channel": "engineering-payments",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0028",
+        "channel": "engineering-payments",
+        "sender": "EMP-001",
+        "timestamp": "2026-07-24T16:00:00",
+        "message": "Only I have access to the legacy payment processor config.",
+        "department": "Engineering",
+        "project_id": "PRJ-001",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "EML-0004",
+    "source": "gmail",
+    "timestamp": "2026-07-25T09:00:00",
+    "sender": "EMP-002",
+    "content": "Rahul, infrastructure deployment for the staging queue is still pending. We're waiting on the security review before we can deploy. Should be done by end of week.",
+    "department": "Engineering",
+    "project_id": "PRJ-001",
+    "recipients": [
+      "EMP-001"
+    ],
+    "channel": null,
+    "subject": "Re: Payments webhook - staging deployment needed",
+    "metadata": {
+      "original": {
+        "id": "EML-0004",
+        "sender": "EMP-002",
+        "recipients": [
+          "EMP-001"
+        ],
+        "timestamp": "2026-07-25T09:00:00",
+        "subject": "Re: Payments webhook - staging deployment needed",
+        "body": "Rahul, infrastructure deployment for the staging queue is still pending. We're waiting on the security review before we can deploy. Should be done by end of week.",
+        "department": "Engineering",
+        "project_id": "PRJ-001"
+      }
+    }
+  },
+  {
+    "id": "EML-0012",
+    "source": "gmail",
+    "timestamp": "2026-07-25T10:00:00",
+    "sender": "EMP-003",
+    "content": "Sneha, we need to discuss pushing the campaign launch. Creative assets for the hero section and social templates are still incomplete. Can we move launch to Monday next week?",
+    "department": "Marketing",
+    "project_id": "PRJ-003",
+    "recipients": [
+      "EMP-004"
+    ],
+    "channel": null,
+    "subject": "Q3 Campaign - creative delay",
+    "metadata": {
+      "original": {
+        "id": "EML-0012",
+        "sender": "EMP-003",
+        "recipients": [
+          "EMP-004"
+        ],
+        "timestamp": "2026-07-25T10:00:00",
+        "subject": "Q3 Campaign - creative delay",
+        "body": "Sneha, we need to discuss pushing the campaign launch. Creative assets for the hero section and social templates are still incomplete. Can we move launch to Monday next week?",
+        "department": "Marketing",
+        "project_id": "PRJ-003"
+      }
+    }
+  },
+  {
+    "id": "SLK-0043",
+    "source": "slack",
+    "timestamp": "2026-07-25T10:00:00",
+    "sender": "EMP-010",
+    "content": "Product wants the Payments Platform feature before the September release.",
+    "department": "Engineering",
+    "project_id": "PRJ-001",
+    "recipients": null,
+    "channel": "engineering-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0043",
+        "channel": "engineering-general",
+        "sender": "EMP-010",
+        "timestamp": "2026-07-25T10:00:00",
+        "message": "Product wants the Payments Platform feature before the September release.",
+        "department": "Engineering",
+        "project_id": "PRJ-001",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0015",
+    "source": "slack",
+    "timestamp": "2026-07-25T11:00:00",
+    "sender": "EMP-005",
+    "content": "Starting scoping for the analytics dashboard \u2014 real-time metrics, user funnels, retention charts.",
+    "department": "Engineering",
+    "project_id": "PRJ-005",
+    "recipients": null,
+    "channel": "engineering-data",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0015",
+        "channel": "engineering-data",
+        "sender": "EMP-005",
+        "timestamp": "2026-07-25T11:00:00",
+        "message": "Starting scoping for the analytics dashboard \u2014 real-time metrics, user funnels, retention charts.",
+        "department": "Engineering",
+        "project_id": "PRJ-005",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0042",
+    "source": "slack",
+    "timestamp": "2026-07-25T15:00:00",
+    "sender": "EMP-012",
+    "content": "Quick update on Analytics Dashboard \u2014 making progress on my assigned items.",
+    "department": "Engineering",
+    "project_id": "PRJ-005",
+    "recipients": null,
+    "channel": "engineering-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0042",
+        "channel": "engineering-general",
+        "sender": "EMP-012",
+        "timestamp": "2026-07-25T15:00:00",
+        "message": "Quick update on Analytics Dashboard \u2014 making progress on my assigned items.",
+        "department": "Engineering",
+        "project_id": "PRJ-005",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0046",
+    "source": "slack",
+    "timestamp": "2026-07-26T09:00:00",
+    "sender": "EMP-050",
+    "content": "Can we sync on HR Onboarding System priorities for this week?",
+    "department": "HR",
+    "project_id": "PRJ-007",
+    "recipients": null,
+    "channel": "hr-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0046",
+        "channel": "hr-general",
+        "sender": "EMP-050",
+        "timestamp": "2026-07-26T09:00:00",
+        "message": "Can we sync on HR Onboarding System priorities for this week?",
+        "department": "HR",
+        "project_id": "PRJ-007",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "MTG-0005",
+    "source": "meeting",
+    "timestamp": "2026-07-26T11:00:00",
+    "sender": "meeting",
+    "content": "Engineering standup. Rahul: Payments webhook is blocked on infrastructure deployment. Amit: Security review is the gating item. Vikram: This puts the launch timeline at risk.",
+    "department": "Engineering",
+    "project_id": "PRJ-001",
+    "recipients": null,
+    "channel": null,
+    "subject": null,
+    "metadata": {
+      "participants": [
+        "EMP-001",
+        "EMP-002",
+        "EMP-005"
+      ],
+      "original": {
+        "id": "MTG-0005",
+        "date": "2026-07-26T11:00:00",
+        "participants": [
+          "EMP-001",
+          "EMP-002",
+          "EMP-005"
+        ],
+        "department": "Engineering",
+        "project_id": "PRJ-001",
+        "transcript": "Engineering standup. Rahul: Payments webhook is blocked on infrastructure deployment. Amit: Security review is the gating item. Vikram: This puts the launch timeline at risk."
+      }
+    }
+  },
+  {
+    "id": "SLK-0045",
+    "source": "slack",
+    "timestamp": "2026-07-26T13:00:00",
+    "sender": "EMP-011",
+    "content": "Completed the review for API Gateway Upgrade. Ready for next steps.",
+    "department": "Engineering",
+    "project_id": "PRJ-009",
+    "recipients": null,
+    "channel": "engineering-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0045",
+        "channel": "engineering-general",
+        "sender": "EMP-011",
+        "timestamp": "2026-07-26T13:00:00",
+        "message": "Completed the review for API Gateway Upgrade. Ready for next steps.",
+        "department": "Engineering",
+        "project_id": "PRJ-009",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "JIR-0006",
+    "source": "jira",
+    "timestamp": "2026-07-26T14:00:00",
+    "sender": "EMP-001",
+    "content": "Blocked: waiting for infrastructure to deploy webhook changes",
+    "department": "Engineering",
+    "project_id": "PRJ-001",
+    "recipients": null,
+    "channel": null,
+    "subject": null,
+    "metadata": {
+      "task_id": "PAY-183",
+      "status": "blocked",
+      "original": {
+        "id": "JIR-0006",
+        "task_id": "PAY-183",
+        "assignee": "EMP-001",
+        "timestamp": "2026-07-26T14:00:00",
+        "comment": "Blocked: waiting for infrastructure to deploy webhook changes",
+        "department": "Engineering",
+        "project_id": "PRJ-001",
+        "status": "blocked",
+        "summary": "Blocked: waiting for infrastructure to deploy webhook changes"
+      }
+    }
+  },
+  {
+    "id": "SLK-0016",
+    "source": "slack",
+    "timestamp": "2026-07-26T15:00:00",
+    "sender": "EMP-006",
+    "content": "Product team is planning a customer analytics portal with funnel analysis and retention views. Overlapping with what engineering might be building?",
+    "department": "Product",
+    "project_id": "PRJ-006",
+    "recipients": null,
+    "channel": "product-growth",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0016",
+        "channel": "product-growth",
+        "sender": "EMP-006",
+        "timestamp": "2026-07-26T15:00:00",
+        "message": "Product team is planning a customer analytics portal with funnel analysis and retention views. Overlapping with what engineering might be building?",
+        "department": "Product",
+        "project_id": "PRJ-006",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0044",
+    "source": "slack",
+    "timestamp": "2026-07-26T16:00:00",
+    "sender": "EMP-025",
+    "content": "Completed the review for Content Management Revamp. Ready for next steps.",
+    "department": "Marketing",
+    "project_id": "PRJ-012",
+    "recipients": null,
+    "channel": "marketing-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0044",
+        "channel": "marketing-general",
+        "sender": "EMP-025",
+        "timestamp": "2026-07-26T16:00:00",
+        "message": "Completed the review for Content Management Revamp. Ready for next steps.",
+        "department": "Marketing",
+        "project_id": "PRJ-012",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0017",
+    "source": "slack",
+    "timestamp": "2026-07-27T10:00:00",
+    "sender": "EMP-005",
+    "content": "Didn't realize Product was also building analytics dashboards. We should sync to avoid duplicate work.",
+    "department": "Engineering",
+    "project_id": "PRJ-005",
+    "recipients": null,
+    "channel": "engineering-data",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0017",
+        "channel": "engineering-data",
+        "sender": "EMP-005",
+        "timestamp": "2026-07-27T10:00:00",
+        "message": "Didn't realize Product was also building analytics dashboards. We should sync to avoid duplicate work.",
+        "department": "Engineering",
+        "project_id": "PRJ-005",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0047",
+    "source": "slack",
+    "timestamp": "2026-07-27T10:00:00",
+    "sender": "EMP-049",
+    "content": "Completed the review for HR Onboarding System. Ready for next steps.",
+    "department": "HR",
+    "project_id": "PRJ-007",
+    "recipients": null,
+    "channel": "hr-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0047",
+        "channel": "hr-general",
+        "sender": "EMP-049",
+        "timestamp": "2026-07-27T10:00:00",
+        "message": "Completed the review for HR Onboarding System. Ready for next steps.",
+        "department": "HR",
+        "project_id": "PRJ-007",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0049",
+    "source": "slack",
+    "timestamp": "2026-07-27T13:00:00",
+    "sender": "EMP-029",
+    "content": "Can we sync on Content Management Revamp priorities for this week?",
+    "department": "Marketing",
+    "project_id": "PRJ-012",
+    "recipients": null,
+    "channel": "marketing-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0049",
+        "channel": "marketing-general",
+        "sender": "EMP-029",
+        "timestamp": "2026-07-27T13:00:00",
+        "message": "Can we sync on Content Management Revamp priorities for this week?",
+        "department": "Marketing",
+        "project_id": "PRJ-012",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0013",
+    "source": "slack",
+    "timestamp": "2026-07-27T14:00:00",
+    "sender": "EMP-004",
+    "content": "Let's push the campaign launch to Monday. Design is still working on the hero banners.",
+    "department": "Marketing",
+    "project_id": "PRJ-003",
+    "recipients": null,
+    "channel": "marketing-campaigns",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0013",
+        "channel": "marketing-campaigns",
+        "sender": "EMP-004",
+        "timestamp": "2026-07-27T14:00:00",
+        "message": "Let's push the campaign launch to Monday. Design is still working on the hero banners.",
+        "department": "Marketing",
+        "project_id": "PRJ-003",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0048",
+    "source": "slack",
+    "timestamp": "2026-07-27T16:00:00",
+    "sender": "EMP-029",
+    "content": "Product wants the Content Management Revamp feature before the September release.",
+    "department": "Marketing",
+    "project_id": "PRJ-012",
+    "recipients": null,
+    "channel": "marketing-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0048",
+        "channel": "marketing-general",
+        "sender": "EMP-029",
+        "timestamp": "2026-07-27T16:00:00",
+        "message": "Product wants the Content Management Revamp feature before the September release.",
+        "department": "Marketing",
+        "project_id": "PRJ-012",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0050",
+    "source": "slack",
+    "timestamp": "2026-07-28T10:00:00",
+    "sender": "EMP-023",
+    "content": "Completed the review for Customer Analytics Portal. Ready for next steps.",
+    "department": "Product",
+    "project_id": "PRJ-006",
+    "recipients": null,
+    "channel": "product-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0050",
+        "channel": "product-general",
+        "sender": "EMP-023",
+        "timestamp": "2026-07-28T10:00:00",
+        "message": "Completed the review for Customer Analytics Portal. Ready for next steps.",
+        "department": "Product",
+        "project_id": "PRJ-006",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "MTG-0014",
+    "source": "meeting",
+    "timestamp": "2026-07-28T10:00:00",
+    "sender": "meeting",
+    "content": "Campaign planning meeting. Decision: launch moved from Thursday to Monday due to incomplete creative assets. Ananya to prioritize hero banner delivery by Friday.",
+    "department": "Marketing",
+    "project_id": "PRJ-003",
+    "recipients": null,
+    "channel": null,
+    "subject": null,
+    "metadata": {
+      "participants": [
+        "EMP-003",
+        "EMP-004",
+        "EMP-006"
+      ],
+      "original": {
+        "id": "MTG-0014",
+        "date": "2026-07-28T10:00:00",
+        "participants": [
+          "EMP-003",
+          "EMP-004",
+          "EMP-006"
+        ],
+        "department": "Marketing",
+        "project_id": "PRJ-003",
+        "transcript": "Campaign planning meeting. Decision: launch moved from Thursday to Monday due to incomplete creative assets. Ananya to prioritize hero banner delivery by Friday."
+      }
+    }
+  },
+  {
+    "id": "SLK-0019",
+    "source": "slack",
+    "timestamp": "2026-07-28T11:00:00",
+    "sender": "EMP-001",
+    "content": "Proposal: use asynchronous processing for the Payments notification workflow instead of sync calls.",
+    "department": "Engineering",
+    "project_id": "PRJ-001",
+    "recipients": null,
+    "channel": "engineering-platform",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0019",
+        "channel": "engineering-platform",
+        "sender": "EMP-001",
+        "timestamp": "2026-07-28T11:00:00",
+        "message": "Proposal: use asynchronous processing for the Payments notification workflow instead of sync calls.",
+        "department": "Engineering",
+        "project_id": "PRJ-001",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0051",
+    "source": "slack",
+    "timestamp": "2026-07-28T17:00:00",
+    "sender": "EMP-044",
+    "content": "Completed the review for HR Onboarding System. Ready for next steps.",
+    "department": "HR",
+    "project_id": "PRJ-007",
+    "recipients": null,
+    "channel": "hr-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0051",
+        "channel": "hr-general",
+        "sender": "EMP-044",
+        "timestamp": "2026-07-28T17:00:00",
+        "message": "Completed the review for HR Onboarding System. Ready for next steps.",
+        "department": "HR",
+        "project_id": "PRJ-007",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "EML-0020",
+    "source": "gmail",
+    "timestamp": "2026-07-29T09:00:00",
+    "sender": "EMP-001",
+    "content": "We agreed to use asynchronous processing for the Payments notification workflow. This will improve reliability and decouple the webhook handler from downstream services.",
+    "department": "Engineering",
+    "project_id": "PRJ-001",
+    "recipients": [
+      "EMP-005",
+      "EMP-007"
+    ],
+    "channel": null,
+    "subject": "Decision needed: async processing for Payments notifications",
+    "metadata": {
+      "original": {
+        "id": "EML-0020",
+        "sender": "EMP-001",
+        "recipients": [
+          "EMP-005",
+          "EMP-007"
+        ],
+        "timestamp": "2026-07-29T09:00:00",
+        "subject": "Decision needed: async processing for Payments notifications",
+        "body": "We agreed to use asynchronous processing for the Payments notification workflow. This will improve reliability and decouple the webhook handler from downstream services.",
+        "department": "Engineering",
+        "project_id": "PRJ-001"
+      }
+    }
+  },
+  {
+    "id": "SLK-0052",
+    "source": "slack",
+    "timestamp": "2026-07-29T09:00:00",
+    "sender": "EMP-015",
+    "content": "Quick update on Security Compliance Audit \u2014 making progress on my assigned items.",
+    "department": "Engineering",
+    "project_id": "PRJ-011",
+    "recipients": null,
+    "channel": "engineering-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0052",
+        "channel": "engineering-general",
+        "sender": "EMP-015",
+        "timestamp": "2026-07-29T09:00:00",
+        "message": "Quick update on Security Compliance Audit \u2014 making progress on my assigned items.",
+        "department": "Engineering",
+        "project_id": "PRJ-011",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0053",
+    "source": "slack",
+    "timestamp": "2026-07-29T12:00:00",
+    "sender": "EMP-014",
+    "content": "Can we sync on API Gateway Upgrade priorities for this week?",
+    "department": "Engineering",
+    "project_id": "PRJ-009",
+    "recipients": null,
+    "channel": "engineering-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0053",
+        "channel": "engineering-general",
+        "sender": "EMP-014",
+        "timestamp": "2026-07-29T12:00:00",
+        "message": "Can we sync on API Gateway Upgrade priorities for this week?",
+        "department": "Engineering",
+        "project_id": "PRJ-009",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "MTG-0018",
+    "source": "meeting",
+    "timestamp": "2026-07-29T14:00:00",
+    "sender": "meeting",
+    "content": "Cross-team sync on analytics. Identified overlap between Engineering's Analytics Dashboard and Product's Customer Analytics Portal. Agreed to consolidate requirements.",
+    "department": "Product",
+    "project_id": "PRJ-006",
+    "recipients": null,
+    "channel": null,
+    "subject": null,
+    "metadata": {
+      "participants": [
+        "EMP-005",
+        "EMP-006",
+        "EMP-007"
+      ],
+      "original": {
+        "id": "MTG-0018",
+        "date": "2026-07-29T14:00:00",
+        "participants": [
+          "EMP-005",
+          "EMP-006",
+          "EMP-007"
+        ],
+        "department": "Product",
+        "project_id": "PRJ-006",
+        "transcript": "Cross-team sync on analytics. Identified overlap between Engineering's Analytics Dashboard and Product's Customer Analytics Portal. Agreed to consolidate requirements."
+      }
+    }
+  },
+  {
+    "id": "SLK-0007",
+    "source": "slack",
+    "timestamp": "2026-07-30T10:00:00",
+    "sender": "EMP-002",
+    "content": "Staging queue deployment is complete. Rahul, you should be unblocked now.",
+    "department": "Engineering",
+    "project_id": "PRJ-001",
+    "recipients": null,
+    "channel": "engineering-infra",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0007",
+        "channel": "engineering-infra",
+        "sender": "EMP-002",
+        "timestamp": "2026-07-30T10:00:00",
+        "message": "Staging queue deployment is complete. Rahul, you should be unblocked now.",
+        "department": "Engineering",
+        "project_id": "PRJ-001",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0054",
+    "source": "slack",
+    "timestamp": "2026-07-30T10:00:00",
+    "sender": "EMP-019",
+    "content": "Quick update on Customer Analytics Portal \u2014 making progress on my assigned items.",
+    "department": "Product",
+    "project_id": "PRJ-006",
+    "recipients": null,
+    "channel": "product-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0054",
+        "channel": "product-general",
+        "sender": "EMP-019",
+        "timestamp": "2026-07-30T10:00:00",
+        "message": "Quick update on Customer Analytics Portal \u2014 making progress on my assigned items.",
+        "department": "Product",
+        "project_id": "PRJ-006",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0057",
+    "source": "slack",
+    "timestamp": "2026-07-30T10:00:00",
+    "sender": "EMP-054",
+    "content": "Flagging a dependency on another team for Budget Planning FY26.",
+    "department": "Finance",
+    "project_id": "PRJ-008",
+    "recipients": null,
+    "channel": "finance-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0057",
+        "channel": "finance-general",
+        "sender": "EMP-054",
+        "timestamp": "2026-07-30T10:00:00",
+        "message": "Flagging a dependency on another team for Budget Planning FY26.",
+        "department": "Finance",
+        "project_id": "PRJ-008",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0055",
+    "source": "slack",
+    "timestamp": "2026-07-30T11:00:00",
+    "sender": "EMP-032",
+    "content": "Can we sync on Content Management Revamp priorities for this week?",
+    "department": "Marketing",
+    "project_id": "PRJ-012",
+    "recipients": null,
+    "channel": "marketing-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0055",
+        "channel": "marketing-general",
+        "sender": "EMP-032",
+        "timestamp": "2026-07-30T11:00:00",
+        "message": "Can we sync on Content Management Revamp priorities for this week?",
+        "department": "Marketing",
+        "project_id": "PRJ-012",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "MTG-0021",
+    "source": "meeting",
+    "timestamp": "2026-07-30T15:00:00",
+    "sender": "meeting",
+    "content": "Architecture review. Decision confirmed: Payments notifications will use async message queue processing. Rahul to implement. Target: next sprint.",
+    "department": "Engineering",
+    "project_id": "PRJ-001",
+    "recipients": null,
+    "channel": null,
+    "subject": null,
+    "metadata": {
+      "participants": [
+        "EMP-001",
+        "EMP-005",
+        "EMP-007"
+      ],
+      "original": {
+        "id": "MTG-0021",
+        "date": "2026-07-30T15:00:00",
+        "participants": [
+          "EMP-001",
+          "EMP-005",
+          "EMP-007"
+        ],
+        "department": "Engineering",
+        "project_id": "PRJ-001",
+        "transcript": "Architecture review. Decision confirmed: Payments notifications will use async message queue processing. Rahul to implement. Target: next sprint."
+      }
+    }
+  },
+  {
+    "id": "SLK-0056",
+    "source": "slack",
+    "timestamp": "2026-07-30T17:00:00",
+    "sender": "EMP-025",
+    "content": "Product wants the Q3 Brand Campaign feature before the September release.",
+    "department": "Marketing",
+    "project_id": "PRJ-003",
+    "recipients": null,
+    "channel": "marketing-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0056",
+        "channel": "marketing-general",
+        "sender": "EMP-025",
+        "timestamp": "2026-07-30T17:00:00",
+        "message": "Product wants the Q3 Brand Campaign feature before the September release.",
+        "department": "Marketing",
+        "project_id": "PRJ-003",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "EML-0022",
+    "source": "gmail",
+    "timestamp": "2026-07-31T09:00:00",
+    "sender": "EMP-015",
+    "content": "Welcome aboard! I'll take ownership of the onboarding checklist for you. Day 1: HR orientation at 10am. Day 2: Engineering team intro. Please complete the compliance training.",
+    "department": "HR",
+    "project_id": "PRJ-007",
+    "recipients": [
+      "EMP-060"
+    ],
+    "channel": null,
+    "subject": "Welcome to Nexora \u2014 onboarding checklist",
+    "metadata": {
+      "original": {
+        "id": "EML-0022",
+        "sender": "EMP-015",
+        "recipients": [
+          "EMP-060"
+        ],
+        "timestamp": "2026-07-31T09:00:00",
+        "subject": "Welcome to Nexora \u2014 onboarding checklist",
+        "body": "Welcome aboard! I'll take ownership of the onboarding checklist for you. Day 1: HR orientation at 10am. Day 2: Engineering team intro. Please complete the compliance training.",
+        "department": "HR",
+        "project_id": "PRJ-007"
+      }
+    }
+  },
+  {
+    "id": "SLK-0029",
+    "source": "slack",
+    "timestamp": "2026-07-31T11:00:00",
+    "sender": "EMP-001",
+    "content": "Another question about the payment processor \u2014 I'm the only one who knows this system.",
+    "department": "Engineering",
+    "project_id": "PRJ-001",
+    "recipients": null,
+    "channel": "engineering-payments",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0029",
+        "channel": "engineering-payments",
+        "sender": "EMP-001",
+        "timestamp": "2026-07-31T11:00:00",
+        "message": "Another question about the payment processor \u2014 I'm the only one who knows this system.",
+        "department": "Engineering",
+        "project_id": "PRJ-001",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0059",
+    "source": "slack",
+    "timestamp": "2026-07-31T15:00:00",
+    "sender": "EMP-056",
+    "content": "Product wants the Budget Planning FY26 feature before the September release.",
+    "department": "Finance",
+    "project_id": "PRJ-008",
+    "recipients": null,
+    "channel": "finance-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0059",
+        "channel": "finance-general",
+        "sender": "EMP-056",
+        "timestamp": "2026-07-31T15:00:00",
+        "message": "Product wants the Budget Planning FY26 feature before the September release.",
+        "department": "Finance",
+        "project_id": "PRJ-008",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0058",
+    "source": "slack",
+    "timestamp": "2026-07-31T16:00:00",
+    "sender": "EMP-028",
+    "content": "Quick update on Q3 Brand Campaign \u2014 making progress on my assigned items.",
+    "department": "Marketing",
+    "project_id": "PRJ-003",
+    "recipients": null,
+    "channel": "marketing-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0058",
+        "channel": "marketing-general",
+        "sender": "EMP-028",
+        "timestamp": "2026-07-31T16:00:00",
+        "message": "Quick update on Q3 Brand Campaign \u2014 making progress on my assigned items.",
+        "department": "Marketing",
+        "project_id": "PRJ-003",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "MTG-0023",
+    "source": "meeting",
+    "timestamp": "2026-08-01T10:00:00",
+    "sender": "meeting",
+    "content": "Onboarding session for Kamala Sinha. Covered company policies, tools access, and team introductions. New hire assigned to Platform team under Engineering.",
+    "department": "HR",
+    "project_id": "PRJ-007",
+    "recipients": null,
+    "channel": null,
+    "subject": null,
+    "metadata": {
+      "participants": [
+        "EMP-015",
+        "EMP-060",
+        "EMP-001"
+      ],
+      "original": {
+        "id": "MTG-0023",
+        "date": "2026-08-01T10:00:00",
+        "participants": [
+          "EMP-015",
+          "EMP-060",
+          "EMP-001"
+        ],
+        "department": "HR",
+        "project_id": "PRJ-007",
+        "transcript": "Onboarding session for Kamala Sinha. Covered company policies, tools access, and team introductions. New hire assigned to Platform team under Engineering."
+      }
+    }
+  },
+  {
+    "id": "SLK-0063",
+    "source": "slack",
+    "timestamp": "2026-08-01T12:00:00",
+    "sender": "EMP-028",
+    "content": "Flagging a dependency on another team for Q3 Brand Campaign.",
+    "department": "Marketing",
+    "project_id": "PRJ-003",
+    "recipients": null,
+    "channel": "marketing-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0063",
+        "channel": "marketing-general",
+        "sender": "EMP-028",
+        "timestamp": "2026-08-01T12:00:00",
+        "message": "Flagging a dependency on another team for Q3 Brand Campaign.",
+        "department": "Marketing",
+        "project_id": "PRJ-003",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0060",
+    "source": "slack",
+    "timestamp": "2026-08-01T13:00:00",
+    "sender": "EMP-046",
+    "content": "Quick update on HR Onboarding System \u2014 making progress on my assigned items.",
+    "department": "HR",
+    "project_id": "PRJ-007",
+    "recipients": null,
+    "channel": "hr-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0060",
+        "channel": "hr-general",
+        "sender": "EMP-046",
+        "timestamp": "2026-08-01T13:00:00",
+        "message": "Quick update on HR Onboarding System \u2014 making progress on my assigned items.",
+        "department": "HR",
+        "project_id": "PRJ-007",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0061",
+    "source": "slack",
+    "timestamp": "2026-08-01T14:00:00",
+    "sender": "EMP-026",
+    "content": "Can we sync on Q3 Brand Campaign priorities for this week?",
+    "department": "Marketing",
+    "project_id": "PRJ-003",
+    "recipients": null,
+    "channel": "marketing-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0061",
+        "channel": "marketing-general",
+        "sender": "EMP-026",
+        "timestamp": "2026-08-01T14:00:00",
+        "message": "Can we sync on Q3 Brand Campaign priorities for this week?",
+        "department": "Marketing",
+        "project_id": "PRJ-003",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0062",
+    "source": "slack",
+    "timestamp": "2026-08-01T14:00:00",
+    "sender": "EMP-052",
+    "content": "Quick update on Budget Planning FY26 \u2014 making progress on my assigned items.",
+    "department": "Finance",
+    "project_id": "PRJ-008",
+    "recipients": null,
+    "channel": "finance-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0062",
+        "channel": "finance-general",
+        "sender": "EMP-052",
+        "timestamp": "2026-08-01T14:00:00",
+        "message": "Quick update on Budget Planning FY26 \u2014 making progress on my assigned items.",
+        "department": "Finance",
+        "project_id": "PRJ-008",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "JIR-0008",
+    "source": "jira",
+    "timestamp": "2026-08-01T16:00:00",
+    "sender": "EMP-001",
+    "content": "Infrastructure dependency resolved. Resuming webhook work.",
+    "department": "Engineering",
+    "project_id": "PRJ-001",
+    "recipients": null,
+    "channel": null,
+    "subject": null,
+    "metadata": {
+      "task_id": "PAY-183",
+      "status": "in_progress",
+      "original": {
+        "id": "JIR-0008",
+        "task_id": "PAY-183",
+        "assignee": "EMP-001",
+        "timestamp": "2026-08-01T16:00:00",
+        "comment": "Infrastructure dependency resolved. Resuming webhook work.",
+        "department": "Engineering",
+        "project_id": "PRJ-001",
+        "status": "in_progress",
+        "summary": "Infrastructure dependency resolved. Resuming webhook work."
+      }
+    }
+  },
+  {
+    "id": "SLK-0064",
+    "source": "slack",
+    "timestamp": "2026-08-01T17:00:00",
+    "sender": "EMP-038",
+    "content": "Quick update on Partner Integration Hub \u2014 making progress on my assigned items.",
+    "department": "Sales",
+    "project_id": "PRJ-010",
+    "recipients": null,
+    "channel": "sales-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0064",
+        "channel": "sales-general",
+        "sender": "EMP-038",
+        "timestamp": "2026-08-01T17:00:00",
+        "message": "Quick update on Partner Integration Hub \u2014 making progress on my assigned items.",
+        "department": "Sales",
+        "project_id": "PRJ-010",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0024",
+    "source": "slack",
+    "timestamp": "2026-08-02T09:00:00",
+    "sender": "EMP-002",
+    "content": "API Gateway upgrade is at risk \u2014 performance tests failing on the new routing layer.",
+    "department": "Engineering",
+    "project_id": "PRJ-009",
+    "recipients": null,
+    "channel": "engineering-infra",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0024",
+        "channel": "engineering-infra",
+        "sender": "EMP-002",
+        "timestamp": "2026-08-02T09:00:00",
+        "message": "API Gateway upgrade is at risk \u2014 performance tests failing on the new routing layer.",
+        "department": "Engineering",
+        "project_id": "PRJ-009",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0066",
+    "source": "slack",
+    "timestamp": "2026-08-02T10:00:00",
+    "sender": "EMP-022",
+    "content": "Product wants the Mobile App v2 feature before the September release.",
+    "department": "Product",
+    "project_id": "PRJ-002",
+    "recipients": null,
+    "channel": "product-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0066",
+        "channel": "product-general",
+        "sender": "EMP-022",
+        "timestamp": "2026-08-02T10:00:00",
+        "message": "Product wants the Mobile App v2 feature before the September release.",
+        "department": "Product",
+        "project_id": "PRJ-002",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0069",
+    "source": "slack",
+    "timestamp": "2026-08-02T11:00:00",
+    "sender": "EMP-016",
+    "content": "Completed the review for Mobile App v2. Ready for next steps.",
+    "department": "Product",
+    "project_id": "PRJ-002",
+    "recipients": null,
+    "channel": "product-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0069",
+        "channel": "product-general",
+        "sender": "EMP-016",
+        "timestamp": "2026-08-02T11:00:00",
+        "message": "Completed the review for Mobile App v2. Ready for next steps.",
+        "department": "Product",
+        "project_id": "PRJ-002",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0065",
+    "source": "slack",
+    "timestamp": "2026-08-02T14:00:00",
+    "sender": "EMP-056",
+    "content": "Can we sync on Budget Planning FY26 priorities for this week?",
+    "department": "Finance",
+    "project_id": "PRJ-008",
+    "recipients": null,
+    "channel": "finance-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0065",
+        "channel": "finance-general",
+        "sender": "EMP-056",
+        "timestamp": "2026-08-02T14:00:00",
+        "message": "Can we sync on Budget Planning FY26 priorities for this week?",
+        "department": "Finance",
+        "project_id": "PRJ-008",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0068",
+    "source": "slack",
+    "timestamp": "2026-08-02T14:00:00",
+    "sender": "EMP-013",
+    "content": "Can we sync on API Gateway Upgrade priorities for this week?",
+    "department": "Engineering",
+    "project_id": "PRJ-009",
+    "recipients": null,
+    "channel": "engineering-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0068",
+        "channel": "engineering-general",
+        "sender": "EMP-013",
+        "timestamp": "2026-08-02T14:00:00",
+        "message": "Can we sync on API Gateway Upgrade priorities for this week?",
+        "department": "Engineering",
+        "project_id": "PRJ-009",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0067",
+    "source": "slack",
+    "timestamp": "2026-08-02T17:00:00",
+    "sender": "EMP-041",
+    "content": "Product wants the Enterprise Sales Pipeline feature before the September release.",
+    "department": "Sales",
+    "project_id": "PRJ-004",
+    "recipients": null,
+    "channel": "sales-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0067",
+        "channel": "sales-general",
+        "sender": "EMP-041",
+        "timestamp": "2026-08-02T17:00:00",
+        "message": "Product wants the Enterprise Sales Pipeline feature before the September release.",
+        "department": "Sales",
+        "project_id": "PRJ-004",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0070",
+    "source": "slack",
+    "timestamp": "2026-08-03T10:00:00",
+    "sender": "EMP-012",
+    "content": "Can we sync on Analytics Dashboard priorities for this week?",
+    "department": "Engineering",
+    "project_id": "PRJ-005",
+    "recipients": null,
+    "channel": "engineering-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0070",
+        "channel": "engineering-general",
+        "sender": "EMP-012",
+        "timestamp": "2026-08-03T10:00:00",
+        "message": "Can we sync on Analytics Dashboard priorities for this week?",
+        "department": "Engineering",
+        "project_id": "PRJ-005",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0072",
+    "source": "slack",
+    "timestamp": "2026-08-03T14:00:00",
+    "sender": "EMP-049",
+    "content": "Completed the review for HR Onboarding System. Ready for next steps.",
+    "department": "HR",
+    "project_id": "PRJ-007",
+    "recipients": null,
+    "channel": "hr-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0072",
+        "channel": "hr-general",
+        "sender": "EMP-049",
+        "timestamp": "2026-08-03T14:00:00",
+        "message": "Completed the review for HR Onboarding System. Ready for next steps.",
+        "department": "HR",
+        "project_id": "PRJ-007",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0071",
+    "source": "slack",
+    "timestamp": "2026-08-03T16:00:00",
+    "sender": "EMP-050",
+    "content": "Product wants the HR Onboarding System feature before the September release.",
+    "department": "HR",
+    "project_id": "PRJ-007",
+    "recipients": null,
+    "channel": "hr-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0071",
+        "channel": "hr-general",
+        "sender": "EMP-050",
+        "timestamp": "2026-08-03T16:00:00",
+        "message": "Product wants the HR Onboarding System feature before the September release.",
+        "department": "HR",
+        "project_id": "PRJ-007",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0009",
+    "source": "slack",
+    "timestamp": "2026-08-03T17:00:00",
+    "sender": "EMP-001",
+    "content": "Webhook retry logic deployed and tested. PR merged. Payments webhook reliability is done.",
+    "department": "Engineering",
+    "project_id": "PRJ-001",
+    "recipients": null,
+    "channel": "engineering-payments",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0009",
+        "channel": "engineering-payments",
+        "sender": "EMP-001",
+        "timestamp": "2026-08-03T17:00:00",
+        "message": "Webhook retry logic deployed and tested. PR merged. Payments webhook reliability is done.",
+        "department": "Engineering",
+        "project_id": "PRJ-001",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "JIR-0010",
+    "source": "jira",
+    "timestamp": "2026-08-03T18:00:00",
+    "sender": "EMP-001",
+    "content": "Completed: webhook retry logic merged to main.",
+    "department": "Engineering",
+    "project_id": "PRJ-001",
+    "recipients": null,
+    "channel": null,
+    "subject": null,
+    "metadata": {
+      "task_id": "PAY-183",
+      "status": "done",
+      "original": {
+        "id": "JIR-0010",
+        "task_id": "PAY-183",
+        "assignee": "EMP-001",
+        "timestamp": "2026-08-03T18:00:00",
+        "comment": "Completed: webhook retry logic merged to main.",
+        "department": "Engineering",
+        "project_id": "PRJ-001",
+        "status": "done",
+        "summary": "Completed: webhook retry logic merged to main."
+      }
+    }
+  },
+  {
+    "id": "JIR-0025",
+    "source": "jira",
+    "timestamp": "2026-08-04T11:00:00",
+    "sender": "EMP-002",
+    "content": "Project at risk: performance test failures on routing layer",
+    "department": "Engineering",
+    "project_id": "PRJ-009",
+    "recipients": null,
+    "channel": null,
+    "subject": null,
+    "metadata": {
+      "task_id": "API-042",
+      "status": "blocked",
+      "original": {
+        "id": "JIR-0025",
+        "task_id": "API-042",
+        "assignee": "EMP-002",
+        "timestamp": "2026-08-04T11:00:00",
+        "comment": "Project at risk: performance test failures on routing layer",
+        "department": "Engineering",
+        "project_id": "PRJ-009",
+        "status": "blocked",
+        "summary": "Project at risk: performance test failures on routing layer"
+      }
+    }
+  },
+  {
+    "id": "SLK-0074",
+    "source": "slack",
+    "timestamp": "2026-08-04T13:00:00",
+    "sender": "EMP-041",
+    "content": "Product wants the Partner Integration Hub feature before the September release.",
+    "department": "Sales",
+    "project_id": "PRJ-010",
+    "recipients": null,
+    "channel": "sales-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0074",
+        "channel": "sales-general",
+        "sender": "EMP-041",
+        "timestamp": "2026-08-04T13:00:00",
+        "message": "Product wants the Partner Integration Hub feature before the September release.",
+        "department": "Sales",
+        "project_id": "PRJ-010",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0073",
+    "source": "slack",
+    "timestamp": "2026-08-04T16:00:00",
+    "sender": "EMP-029",
+    "content": "Flagging a dependency on another team for Q3 Brand Campaign.",
+    "department": "Marketing",
+    "project_id": "PRJ-003",
+    "recipients": null,
+    "channel": "marketing-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0073",
+        "channel": "marketing-general",
+        "sender": "EMP-029",
+        "timestamp": "2026-08-04T16:00:00",
+        "message": "Flagging a dependency on another team for Q3 Brand Campaign.",
+        "department": "Marketing",
+        "project_id": "PRJ-003",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0075",
+    "source": "slack",
+    "timestamp": "2026-08-04T17:00:00",
+    "sender": "EMP-004",
+    "content": "Quick update on Partner Integration Hub \u2014 making progress on my assigned items.",
+    "department": "Sales",
+    "project_id": "PRJ-010",
+    "recipients": null,
+    "channel": "sales-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0075",
+        "channel": "sales-general",
+        "sender": "EMP-004",
+        "timestamp": "2026-08-04T17:00:00",
+        "message": "Quick update on Partner Integration Hub \u2014 making progress on my assigned items.",
+        "department": "Sales",
+        "project_id": "PRJ-010",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0076",
+    "source": "slack",
+    "timestamp": "2026-08-05T09:00:00",
+    "sender": "EMP-030",
+    "content": "Quick update on Content Management Revamp \u2014 making progress on my assigned items.",
+    "department": "Marketing",
+    "project_id": "PRJ-012",
+    "recipients": null,
+    "channel": "marketing-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0076",
+        "channel": "marketing-general",
+        "sender": "EMP-030",
+        "timestamp": "2026-08-05T09:00:00",
+        "message": "Quick update on Content Management Revamp \u2014 making progress on my assigned items.",
+        "department": "Marketing",
+        "project_id": "PRJ-012",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0030",
+    "source": "slack",
+    "timestamp": "2026-08-05T10:00:00",
+    "sender": "EMP-005",
+    "content": "We need to document the payment processor setup. Rahul is a single point of failure here.",
+    "department": "Engineering",
+    "project_id": "PRJ-001",
+    "recipients": null,
+    "channel": "engineering-platform",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0030",
+        "channel": "engineering-platform",
+        "sender": "EMP-005",
+        "timestamp": "2026-08-05T10:00:00",
+        "message": "We need to document the payment processor setup. Rahul is a single point of failure here.",
+        "department": "Engineering",
+        "project_id": "PRJ-001",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0077",
+    "source": "slack",
+    "timestamp": "2026-08-05T10:00:00",
+    "sender": "EMP-024",
+    "content": "Quick update on Customer Analytics Portal \u2014 making progress on my assigned items.",
+    "department": "Product",
+    "project_id": "PRJ-006",
+    "recipients": null,
+    "channel": "product-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0077",
+        "channel": "product-general",
+        "sender": "EMP-024",
+        "timestamp": "2026-08-05T10:00:00",
+        "message": "Quick update on Customer Analytics Portal \u2014 making progress on my assigned items.",
+        "department": "Product",
+        "project_id": "PRJ-006",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0078",
+    "source": "slack",
+    "timestamp": "2026-08-05T16:00:00",
+    "sender": "EMP-040",
+    "content": "Product wants the Partner Integration Hub feature before the September release.",
+    "department": "Sales",
+    "project_id": "PRJ-010",
+    "recipients": null,
+    "channel": "sales-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0078",
+        "channel": "sales-general",
+        "sender": "EMP-040",
+        "timestamp": "2026-08-05T16:00:00",
+        "message": "Product wants the Partner Integration Hub feature before the September release.",
+        "department": "Sales",
+        "project_id": "PRJ-010",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0079",
+    "source": "slack",
+    "timestamp": "2026-08-05T16:00:00",
+    "sender": "EMP-036",
+    "content": "Product wants the Enterprise Sales Pipeline feature before the September release.",
+    "department": "Sales",
+    "project_id": "PRJ-004",
+    "recipients": null,
+    "channel": "sales-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0079",
+        "channel": "sales-general",
+        "sender": "EMP-036",
+        "timestamp": "2026-08-05T16:00:00",
+        "message": "Product wants the Enterprise Sales Pipeline feature before the September release.",
+        "department": "Sales",
+        "project_id": "PRJ-004",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0081",
+    "source": "slack",
+    "timestamp": "2026-08-06T10:00:00",
+    "sender": "EMP-004",
+    "content": "Completed the review for Partner Integration Hub. Ready for next steps.",
+    "department": "Sales",
+    "project_id": "PRJ-010",
+    "recipients": null,
+    "channel": "sales-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0081",
+        "channel": "sales-general",
+        "sender": "EMP-004",
+        "timestamp": "2026-08-06T10:00:00",
+        "message": "Completed the review for Partner Integration Hub. Ready for next steps.",
+        "department": "Sales",
+        "project_id": "PRJ-010",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0026",
+    "source": "slack",
+    "timestamp": "2026-08-06T14:00:00",
+    "sender": "EMP-002",
+    "content": "Found the routing bottleneck \u2014 connection pool misconfiguration. Fix deployed.",
+    "department": "Engineering",
+    "project_id": "PRJ-009",
+    "recipients": null,
+    "channel": "engineering-infra",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0026",
+        "channel": "engineering-infra",
+        "sender": "EMP-002",
+        "timestamp": "2026-08-06T14:00:00",
+        "message": "Found the routing bottleneck \u2014 connection pool misconfiguration. Fix deployed.",
+        "department": "Engineering",
+        "project_id": "PRJ-009",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0080",
+    "source": "slack",
+    "timestamp": "2026-08-06T17:00:00",
+    "sender": "EMP-021",
+    "content": "Can we sync on Customer Analytics Portal priorities for this week?",
+    "department": "Product",
+    "project_id": "PRJ-006",
+    "recipients": null,
+    "channel": "product-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0080",
+        "channel": "product-general",
+        "sender": "EMP-021",
+        "timestamp": "2026-08-06T17:00:00",
+        "message": "Can we sync on Customer Analytics Portal priorities for this week?",
+        "department": "Product",
+        "project_id": "PRJ-006",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0082",
+    "source": "slack",
+    "timestamp": "2026-08-06T17:00:00",
+    "sender": "EMP-046",
+    "content": "Can we sync on HR Onboarding System priorities for this week?",
+    "department": "HR",
+    "project_id": "PRJ-007",
+    "recipients": null,
+    "channel": "hr-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0082",
+        "channel": "hr-general",
+        "sender": "EMP-046",
+        "timestamp": "2026-08-06T17:00:00",
+        "message": "Can we sync on HR Onboarding System priorities for this week?",
+        "department": "HR",
+        "project_id": "PRJ-007",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0084",
+    "source": "slack",
+    "timestamp": "2026-08-07T14:00:00",
+    "sender": "EMP-034",
+    "content": "Completed the review for Enterprise Sales Pipeline. Ready for next steps.",
+    "department": "Sales",
+    "project_id": "PRJ-004",
+    "recipients": null,
+    "channel": "sales-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0084",
+        "channel": "sales-general",
+        "sender": "EMP-034",
+        "timestamp": "2026-08-07T14:00:00",
+        "message": "Completed the review for Enterprise Sales Pipeline. Ready for next steps.",
+        "department": "Sales",
+        "project_id": "PRJ-004",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0083",
+    "source": "slack",
+    "timestamp": "2026-08-07T16:00:00",
+    "sender": "EMP-016",
+    "content": "Product wants the Customer Analytics Portal feature before the September release.",
+    "department": "Product",
+    "project_id": "PRJ-006",
+    "recipients": null,
+    "channel": "product-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0083",
+        "channel": "product-general",
+        "sender": "EMP-016",
+        "timestamp": "2026-08-07T16:00:00",
+        "message": "Product wants the Customer Analytics Portal feature before the September release.",
+        "department": "Product",
+        "project_id": "PRJ-006",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0086",
+    "source": "slack",
+    "timestamp": "2026-08-08T10:00:00",
+    "sender": "EMP-004",
+    "content": "Completed the review for Partner Integration Hub. Ready for next steps.",
+    "department": "Sales",
+    "project_id": "PRJ-010",
+    "recipients": null,
+    "channel": "sales-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0086",
+        "channel": "sales-general",
+        "sender": "EMP-004",
+        "timestamp": "2026-08-08T10:00:00",
+        "message": "Completed the review for Partner Integration Hub. Ready for next steps.",
+        "department": "Sales",
+        "project_id": "PRJ-010",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0087",
+    "source": "slack",
+    "timestamp": "2026-08-08T13:00:00",
+    "sender": "EMP-007",
+    "content": "Completed the review for Security Compliance Audit. Ready for next steps.",
+    "department": "Engineering",
+    "project_id": "PRJ-011",
+    "recipients": null,
+    "channel": "engineering-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0087",
+        "channel": "engineering-general",
+        "sender": "EMP-007",
+        "timestamp": "2026-08-08T13:00:00",
+        "message": "Completed the review for Security Compliance Audit. Ready for next steps.",
+        "department": "Engineering",
+        "project_id": "PRJ-011",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0085",
+    "source": "slack",
+    "timestamp": "2026-08-08T14:00:00",
+    "sender": "EMP-025",
+    "content": "Product wants the Content Management Revamp feature before the September release.",
+    "department": "Marketing",
+    "project_id": "PRJ-012",
+    "recipients": null,
+    "channel": "marketing-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0085",
+        "channel": "marketing-general",
+        "sender": "EMP-025",
+        "timestamp": "2026-08-08T14:00:00",
+        "message": "Product wants the Content Management Revamp feature before the September release.",
+        "department": "Marketing",
+        "project_id": "PRJ-012",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0088",
+    "source": "slack",
+    "timestamp": "2026-08-08T14:00:00",
+    "sender": "EMP-047",
+    "content": "Quick update on HR Onboarding System \u2014 making progress on my assigned items.",
+    "department": "HR",
+    "project_id": "PRJ-007",
+    "recipients": null,
+    "channel": "hr-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0088",
+        "channel": "hr-general",
+        "sender": "EMP-047",
+        "timestamp": "2026-08-08T14:00:00",
+        "message": "Quick update on HR Onboarding System \u2014 making progress on my assigned items.",
+        "department": "HR",
+        "project_id": "PRJ-007",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "JIR-0027",
+    "source": "jira",
+    "timestamp": "2026-08-08T16:00:00",
+    "sender": "EMP-002",
+    "content": "Performance tests passing. Project back on track.",
+    "department": "Engineering",
+    "project_id": "PRJ-009",
+    "recipients": null,
+    "channel": null,
+    "subject": null,
+    "metadata": {
+      "task_id": "API-042",
+      "status": "done",
+      "original": {
+        "id": "JIR-0027",
+        "task_id": "API-042",
+        "assignee": "EMP-002",
+        "timestamp": "2026-08-08T16:00:00",
+        "comment": "Performance tests passing. Project back on track.",
+        "department": "Engineering",
+        "project_id": "PRJ-009",
+        "status": "done",
+        "summary": "Performance tests passing. Project back on track."
+      }
+    }
+  },
+  {
+    "id": "SLK-0091",
+    "source": "slack",
+    "timestamp": "2026-08-09T11:00:00",
+    "sender": "EMP-025",
+    "content": "Product wants the Content Management Revamp feature before the September release.",
+    "department": "Marketing",
+    "project_id": "PRJ-012",
+    "recipients": null,
+    "channel": "marketing-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0091",
+        "channel": "marketing-general",
+        "sender": "EMP-025",
+        "timestamp": "2026-08-09T11:00:00",
+        "message": "Product wants the Content Management Revamp feature before the September release.",
+        "department": "Marketing",
+        "project_id": "PRJ-012",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0089",
+    "source": "slack",
+    "timestamp": "2026-08-09T13:00:00",
+    "sender": "EMP-059",
+    "content": "Flagging a dependency on another team for Budget Planning FY26.",
+    "department": "Finance",
+    "project_id": "PRJ-008",
+    "recipients": null,
+    "channel": "finance-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0089",
+        "channel": "finance-general",
+        "sender": "EMP-059",
+        "timestamp": "2026-08-09T13:00:00",
+        "message": "Flagging a dependency on another team for Budget Planning FY26.",
+        "department": "Finance",
+        "project_id": "PRJ-008",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0090",
+    "source": "slack",
+    "timestamp": "2026-08-09T13:00:00",
+    "sender": "EMP-009",
+    "content": "Product wants the Payments Platform feature before the September release.",
+    "department": "Engineering",
+    "project_id": "PRJ-001",
+    "recipients": null,
+    "channel": "engineering-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0090",
+        "channel": "engineering-general",
+        "sender": "EMP-009",
+        "timestamp": "2026-08-09T13:00:00",
+        "message": "Product wants the Payments Platform feature before the September release.",
+        "department": "Engineering",
+        "project_id": "PRJ-001",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0093",
+    "source": "slack",
+    "timestamp": "2026-08-10T13:00:00",
+    "sender": "EMP-002",
+    "content": "Can we sync on Customer Analytics Portal priorities for this week?",
+    "department": "Product",
+    "project_id": "PRJ-006",
+    "recipients": null,
+    "channel": "product-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0093",
+        "channel": "product-general",
+        "sender": "EMP-002",
+        "timestamp": "2026-08-10T13:00:00",
+        "message": "Can we sync on Customer Analytics Portal priorities for this week?",
+        "department": "Product",
+        "project_id": "PRJ-006",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0092",
+    "source": "slack",
+    "timestamp": "2026-08-10T17:00:00",
+    "sender": "EMP-042",
+    "content": "Completed the review for Partner Integration Hub. Ready for next steps.",
+    "department": "Sales",
+    "project_id": "PRJ-010",
+    "recipients": null,
+    "channel": "sales-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0092",
+        "channel": "sales-general",
+        "sender": "EMP-042",
+        "timestamp": "2026-08-10T17:00:00",
+        "message": "Completed the review for Partner Integration Hub. Ready for next steps.",
+        "department": "Sales",
+        "project_id": "PRJ-010",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0095",
+    "source": "slack",
+    "timestamp": "2026-08-11T10:00:00",
+    "sender": "EMP-009",
+    "content": "Completed the review for Analytics Dashboard. Ready for next steps.",
+    "department": "Engineering",
+    "project_id": "PRJ-005",
+    "recipients": null,
+    "channel": "engineering-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0095",
+        "channel": "engineering-general",
+        "sender": "EMP-009",
+        "timestamp": "2026-08-11T10:00:00",
+        "message": "Completed the review for Analytics Dashboard. Ready for next steps.",
+        "department": "Engineering",
+        "project_id": "PRJ-005",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0094",
+    "source": "slack",
+    "timestamp": "2026-08-11T12:00:00",
+    "sender": "EMP-022",
+    "content": "Can we sync on Customer Analytics Portal priorities for this week?",
+    "department": "Product",
+    "project_id": "PRJ-006",
+    "recipients": null,
+    "channel": "product-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0094",
+        "channel": "product-general",
+        "sender": "EMP-022",
+        "timestamp": "2026-08-11T12:00:00",
+        "message": "Can we sync on Customer Analytics Portal priorities for this week?",
+        "department": "Product",
+        "project_id": "PRJ-006",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0096",
+    "source": "slack",
+    "timestamp": "2026-08-11T17:00:00",
+    "sender": "EMP-055",
+    "content": "Product wants the Budget Planning FY26 feature before the September release.",
+    "department": "Finance",
+    "project_id": "PRJ-008",
+    "recipients": null,
+    "channel": "finance-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0096",
+        "channel": "finance-general",
+        "sender": "EMP-055",
+        "timestamp": "2026-08-11T17:00:00",
+        "message": "Product wants the Budget Planning FY26 feature before the September release.",
+        "department": "Finance",
+        "project_id": "PRJ-008",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0097",
+    "source": "slack",
+    "timestamp": "2026-08-12T11:00:00",
+    "sender": "EMP-043",
+    "content": "Product wants the HR Onboarding System feature before the September release.",
+    "department": "HR",
+    "project_id": "PRJ-007",
+    "recipients": null,
+    "channel": "hr-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0097",
+        "channel": "hr-general",
+        "sender": "EMP-043",
+        "timestamp": "2026-08-12T11:00:00",
+        "message": "Product wants the HR Onboarding System feature before the September release.",
+        "department": "HR",
+        "project_id": "PRJ-007",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0098",
+    "source": "slack",
+    "timestamp": "2026-08-12T11:00:00",
+    "sender": "EMP-025",
+    "content": "Can we sync on Q3 Brand Campaign priorities for this week?",
+    "department": "Marketing",
+    "project_id": "PRJ-003",
+    "recipients": null,
+    "channel": "marketing-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0098",
+        "channel": "marketing-general",
+        "sender": "EMP-025",
+        "timestamp": "2026-08-12T11:00:00",
+        "message": "Can we sync on Q3 Brand Campaign priorities for this week?",
+        "department": "Marketing",
+        "project_id": "PRJ-003",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0099",
+    "source": "slack",
+    "timestamp": "2026-08-13T09:00:00",
+    "sender": "EMP-047",
+    "content": "Flagging a dependency on another team for HR Onboarding System.",
+    "department": "HR",
+    "project_id": "PRJ-007",
+    "recipients": null,
+    "channel": "hr-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0099",
+        "channel": "hr-general",
+        "sender": "EMP-047",
+        "timestamp": "2026-08-13T09:00:00",
+        "message": "Flagging a dependency on another team for HR Onboarding System.",
+        "department": "HR",
+        "project_id": "PRJ-007",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0101",
+    "source": "slack",
+    "timestamp": "2026-08-13T12:00:00",
+    "sender": "EMP-019",
+    "content": "Product wants the Customer Analytics Portal feature before the September release.",
+    "department": "Product",
+    "project_id": "PRJ-006",
+    "recipients": null,
+    "channel": "product-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0101",
+        "channel": "product-general",
+        "sender": "EMP-019",
+        "timestamp": "2026-08-13T12:00:00",
+        "message": "Product wants the Customer Analytics Portal feature before the September release.",
+        "department": "Product",
+        "project_id": "PRJ-006",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0100",
+    "source": "slack",
+    "timestamp": "2026-08-13T16:00:00",
+    "sender": "EMP-024",
+    "content": "Product wants the Mobile App v2 feature before the September release.",
+    "department": "Product",
+    "project_id": "PRJ-002",
+    "recipients": null,
+    "channel": "product-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0100",
+        "channel": "product-general",
+        "sender": "EMP-024",
+        "timestamp": "2026-08-13T16:00:00",
+        "message": "Product wants the Mobile App v2 feature before the September release.",
+        "department": "Product",
+        "project_id": "PRJ-002",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0102",
+    "source": "slack",
+    "timestamp": "2026-08-14T12:00:00",
+    "sender": "EMP-020",
+    "content": "Completed the review for Customer Analytics Portal. Ready for next steps.",
+    "department": "Product",
+    "project_id": "PRJ-006",
+    "recipients": null,
+    "channel": "product-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0102",
+        "channel": "product-general",
+        "sender": "EMP-020",
+        "timestamp": "2026-08-14T12:00:00",
+        "message": "Completed the review for Customer Analytics Portal. Ready for next steps.",
+        "department": "Product",
+        "project_id": "PRJ-006",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0103",
+    "source": "slack",
+    "timestamp": "2026-08-14T16:00:00",
+    "sender": "EMP-044",
+    "content": "Completed the review for HR Onboarding System. Ready for next steps.",
+    "department": "HR",
+    "project_id": "PRJ-007",
+    "recipients": null,
+    "channel": "hr-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0103",
+        "channel": "hr-general",
+        "sender": "EMP-044",
+        "timestamp": "2026-08-14T16:00:00",
+        "message": "Completed the review for HR Onboarding System. Ready for next steps.",
+        "department": "HR",
+        "project_id": "PRJ-007",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0104",
+    "source": "slack",
+    "timestamp": "2026-08-14T17:00:00",
+    "sender": "EMP-050",
+    "content": "Product wants the HR Onboarding System feature before the September release.",
+    "department": "HR",
+    "project_id": "PRJ-007",
+    "recipients": null,
+    "channel": "hr-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0104",
+        "channel": "hr-general",
+        "sender": "EMP-050",
+        "timestamp": "2026-08-14T17:00:00",
+        "message": "Product wants the HR Onboarding System feature before the September release.",
+        "department": "HR",
+        "project_id": "PRJ-007",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0105",
+    "source": "slack",
+    "timestamp": "2026-08-15T11:00:00",
+    "sender": "EMP-011",
+    "content": "Completed the review for Analytics Dashboard. Ready for next steps.",
+    "department": "Engineering",
+    "project_id": "PRJ-005",
+    "recipients": null,
+    "channel": "engineering-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0105",
+        "channel": "engineering-general",
+        "sender": "EMP-011",
+        "timestamp": "2026-08-15T11:00:00",
+        "message": "Completed the review for Analytics Dashboard. Ready for next steps.",
+        "department": "Engineering",
+        "project_id": "PRJ-005",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0108",
+    "source": "slack",
+    "timestamp": "2026-08-15T11:00:00",
+    "sender": "EMP-019",
+    "content": "Completed the review for Mobile App v2. Ready for next steps.",
+    "department": "Product",
+    "project_id": "PRJ-002",
+    "recipients": null,
+    "channel": "product-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0108",
+        "channel": "product-general",
+        "sender": "EMP-019",
+        "timestamp": "2026-08-15T11:00:00",
+        "message": "Completed the review for Mobile App v2. Ready for next steps.",
+        "department": "Product",
+        "project_id": "PRJ-002",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0106",
+    "source": "slack",
+    "timestamp": "2026-08-15T14:00:00",
+    "sender": "EMP-004",
+    "content": "Product wants the Partner Integration Hub feature before the September release.",
+    "department": "Sales",
+    "project_id": "PRJ-010",
+    "recipients": null,
+    "channel": "sales-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0106",
+        "channel": "sales-general",
+        "sender": "EMP-004",
+        "timestamp": "2026-08-15T14:00:00",
+        "message": "Product wants the Partner Integration Hub feature before the September release.",
+        "department": "Sales",
+        "project_id": "PRJ-010",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0109",
+    "source": "slack",
+    "timestamp": "2026-08-15T15:00:00",
+    "sender": "EMP-029",
+    "content": "Quick update on Q3 Brand Campaign \u2014 making progress on my assigned items.",
+    "department": "Marketing",
+    "project_id": "PRJ-003",
+    "recipients": null,
+    "channel": "marketing-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0109",
+        "channel": "marketing-general",
+        "sender": "EMP-029",
+        "timestamp": "2026-08-15T15:00:00",
+        "message": "Quick update on Q3 Brand Campaign \u2014 making progress on my assigned items.",
+        "department": "Marketing",
+        "project_id": "PRJ-003",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0107",
+    "source": "slack",
+    "timestamp": "2026-08-15T17:00:00",
+    "sender": "EMP-060",
+    "content": "Quick update on Budget Planning FY26 \u2014 making progress on my assigned items.",
+    "department": "Finance",
+    "project_id": "PRJ-008",
+    "recipients": null,
+    "channel": "finance-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0107",
+        "channel": "finance-general",
+        "sender": "EMP-060",
+        "timestamp": "2026-08-15T17:00:00",
+        "message": "Quick update on Budget Planning FY26 \u2014 making progress on my assigned items.",
+        "department": "Finance",
+        "project_id": "PRJ-008",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0110",
+    "source": "slack",
+    "timestamp": "2026-08-16T14:00:00",
+    "sender": "EMP-053",
+    "content": "Quick update on Budget Planning FY26 \u2014 making progress on my assigned items.",
+    "department": "Finance",
+    "project_id": "PRJ-008",
+    "recipients": null,
+    "channel": "finance-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0110",
+        "channel": "finance-general",
+        "sender": "EMP-053",
+        "timestamp": "2026-08-16T14:00:00",
+        "message": "Quick update on Budget Planning FY26 \u2014 making progress on my assigned items.",
+        "department": "Finance",
+        "project_id": "PRJ-008",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0111",
+    "source": "slack",
+    "timestamp": "2026-08-16T15:00:00",
+    "sender": "EMP-027",
+    "content": "Product wants the Q3 Brand Campaign feature before the September release.",
+    "department": "Marketing",
+    "project_id": "PRJ-003",
+    "recipients": null,
+    "channel": "marketing-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0111",
+        "channel": "marketing-general",
+        "sender": "EMP-027",
+        "timestamp": "2026-08-16T15:00:00",
+        "message": "Product wants the Q3 Brand Campaign feature before the September release.",
+        "department": "Marketing",
+        "project_id": "PRJ-003",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0112",
+    "source": "slack",
+    "timestamp": "2026-08-16T15:00:00",
+    "sender": "EMP-024",
+    "content": "Quick update on Mobile App v2 \u2014 making progress on my assigned items.",
+    "department": "Product",
+    "project_id": "PRJ-002",
+    "recipients": null,
+    "channel": "product-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0112",
+        "channel": "product-general",
+        "sender": "EMP-024",
+        "timestamp": "2026-08-16T15:00:00",
+        "message": "Quick update on Mobile App v2 \u2014 making progress on my assigned items.",
+        "department": "Product",
+        "project_id": "PRJ-002",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0114",
+    "source": "slack",
+    "timestamp": "2026-08-17T11:00:00",
+    "sender": "EMP-054",
+    "content": "Can we sync on Budget Planning FY26 priorities for this week?",
+    "department": "Finance",
+    "project_id": "PRJ-008",
+    "recipients": null,
+    "channel": "finance-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0114",
+        "channel": "finance-general",
+        "sender": "EMP-054",
+        "timestamp": "2026-08-17T11:00:00",
+        "message": "Can we sync on Budget Planning FY26 priorities for this week?",
+        "department": "Finance",
+        "project_id": "PRJ-008",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0113",
+    "source": "slack",
+    "timestamp": "2026-08-17T14:00:00",
+    "sender": "EMP-015",
+    "content": "Quick update on Payments Platform \u2014 making progress on my assigned items.",
+    "department": "Engineering",
+    "project_id": "PRJ-001",
+    "recipients": null,
+    "channel": "engineering-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0113",
+        "channel": "engineering-general",
+        "sender": "EMP-015",
+        "timestamp": "2026-08-17T14:00:00",
+        "message": "Quick update on Payments Platform \u2014 making progress on my assigned items.",
+        "department": "Engineering",
+        "project_id": "PRJ-001",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0115",
+    "source": "slack",
+    "timestamp": "2026-08-17T16:00:00",
+    "sender": "EMP-003",
+    "content": "Can we sync on Content Management Revamp priorities for this week?",
+    "department": "Marketing",
+    "project_id": "PRJ-012",
+    "recipients": null,
+    "channel": "marketing-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0115",
+        "channel": "marketing-general",
+        "sender": "EMP-003",
+        "timestamp": "2026-08-17T16:00:00",
+        "message": "Can we sync on Content Management Revamp priorities for this week?",
+        "department": "Marketing",
+        "project_id": "PRJ-012",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0116",
+    "source": "slack",
+    "timestamp": "2026-08-17T16:00:00",
+    "sender": "EMP-049",
+    "content": "Product wants the HR Onboarding System feature before the September release.",
+    "department": "HR",
+    "project_id": "PRJ-007",
+    "recipients": null,
+    "channel": "hr-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0116",
+        "channel": "hr-general",
+        "sender": "EMP-049",
+        "timestamp": "2026-08-17T16:00:00",
+        "message": "Product wants the HR Onboarding System feature before the September release.",
+        "department": "HR",
+        "project_id": "PRJ-007",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0117",
+    "source": "slack",
+    "timestamp": "2026-08-18T09:00:00",
+    "sender": "EMP-058",
+    "content": "Completed the review for Budget Planning FY26. Ready for next steps.",
+    "department": "Finance",
+    "project_id": "PRJ-008",
+    "recipients": null,
+    "channel": "finance-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0117",
+        "channel": "finance-general",
+        "sender": "EMP-058",
+        "timestamp": "2026-08-18T09:00:00",
+        "message": "Completed the review for Budget Planning FY26. Ready for next steps.",
+        "department": "Finance",
+        "project_id": "PRJ-008",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0118",
+    "source": "slack",
+    "timestamp": "2026-08-18T17:00:00",
+    "sender": "EMP-014",
+    "content": "Product wants the Analytics Dashboard feature before the September release.",
+    "department": "Engineering",
+    "project_id": "PRJ-005",
+    "recipients": null,
+    "channel": "engineering-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0118",
+        "channel": "engineering-general",
+        "sender": "EMP-014",
+        "timestamp": "2026-08-18T17:00:00",
+        "message": "Product wants the Analytics Dashboard feature before the September release.",
+        "department": "Engineering",
+        "project_id": "PRJ-005",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0121",
+    "source": "slack",
+    "timestamp": "2026-08-19T10:00:00",
+    "sender": "EMP-041",
+    "content": "Quick update on Partner Integration Hub \u2014 making progress on my assigned items.",
+    "department": "Sales",
+    "project_id": "PRJ-010",
+    "recipients": null,
+    "channel": "sales-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0121",
+        "channel": "sales-general",
+        "sender": "EMP-041",
+        "timestamp": "2026-08-19T10:00:00",
+        "message": "Quick update on Partner Integration Hub \u2014 making progress on my assigned items.",
+        "department": "Sales",
+        "project_id": "PRJ-010",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0123",
+    "source": "slack",
+    "timestamp": "2026-08-19T11:00:00",
+    "sender": "EMP-041",
+    "content": "Completed the review for Enterprise Sales Pipeline. Ready for next steps.",
+    "department": "Sales",
+    "project_id": "PRJ-004",
+    "recipients": null,
+    "channel": "sales-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0123",
+        "channel": "sales-general",
+        "sender": "EMP-041",
+        "timestamp": "2026-08-19T11:00:00",
+        "message": "Completed the review for Enterprise Sales Pipeline. Ready for next steps.",
+        "department": "Sales",
+        "project_id": "PRJ-004",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0119",
+    "source": "slack",
+    "timestamp": "2026-08-19T12:00:00",
+    "sender": "EMP-008",
+    "content": "Completed the review for API Gateway Upgrade. Ready for next steps.",
+    "department": "Engineering",
+    "project_id": "PRJ-009",
+    "recipients": null,
+    "channel": "engineering-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0119",
+        "channel": "engineering-general",
+        "sender": "EMP-008",
+        "timestamp": "2026-08-19T12:00:00",
+        "message": "Completed the review for API Gateway Upgrade. Ready for next steps.",
+        "department": "Engineering",
+        "project_id": "PRJ-009",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0120",
+    "source": "slack",
+    "timestamp": "2026-08-19T12:00:00",
+    "sender": "EMP-008",
+    "content": "Flagging a dependency on another team for Payments Platform.",
+    "department": "Engineering",
+    "project_id": "PRJ-001",
+    "recipients": null,
+    "channel": "engineering-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0120",
+        "channel": "engineering-general",
+        "sender": "EMP-008",
+        "timestamp": "2026-08-19T12:00:00",
+        "message": "Flagging a dependency on another team for Payments Platform.",
+        "department": "Engineering",
+        "project_id": "PRJ-001",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0122",
+    "source": "slack",
+    "timestamp": "2026-08-19T17:00:00",
+    "sender": "EMP-054",
+    "content": "Quick update on Budget Planning FY26 \u2014 making progress on my assigned items.",
+    "department": "Finance",
+    "project_id": "PRJ-008",
+    "recipients": null,
+    "channel": "finance-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0122",
+        "channel": "finance-general",
+        "sender": "EMP-054",
+        "timestamp": "2026-08-19T17:00:00",
+        "message": "Quick update on Budget Planning FY26 \u2014 making progress on my assigned items.",
+        "department": "Finance",
+        "project_id": "PRJ-008",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0125",
+    "source": "slack",
+    "timestamp": "2026-08-20T10:00:00",
+    "sender": "EMP-027",
+    "content": "Product wants the Q3 Brand Campaign feature before the September release.",
+    "department": "Marketing",
+    "project_id": "PRJ-003",
+    "recipients": null,
+    "channel": "marketing-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0125",
+        "channel": "marketing-general",
+        "sender": "EMP-027",
+        "timestamp": "2026-08-20T10:00:00",
+        "message": "Product wants the Q3 Brand Campaign feature before the September release.",
+        "department": "Marketing",
+        "project_id": "PRJ-003",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0124",
+    "source": "slack",
+    "timestamp": "2026-08-20T12:00:00",
+    "sender": "EMP-001",
+    "content": "Product wants the API Gateway Upgrade feature before the September release.",
+    "department": "Engineering",
+    "project_id": "PRJ-009",
+    "recipients": null,
+    "channel": "engineering-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0124",
+        "channel": "engineering-general",
+        "sender": "EMP-001",
+        "timestamp": "2026-08-20T12:00:00",
+        "message": "Product wants the API Gateway Upgrade feature before the September release.",
+        "department": "Engineering",
+        "project_id": "PRJ-009",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0128",
+    "source": "slack",
+    "timestamp": "2026-08-20T14:00:00",
+    "sender": "EMP-003",
+    "content": "Completed the review for Content Management Revamp. Ready for next steps.",
+    "department": "Marketing",
+    "project_id": "PRJ-012",
+    "recipients": null,
+    "channel": "marketing-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0128",
+        "channel": "marketing-general",
+        "sender": "EMP-003",
+        "timestamp": "2026-08-20T14:00:00",
+        "message": "Completed the review for Content Management Revamp. Ready for next steps.",
+        "department": "Marketing",
+        "project_id": "PRJ-012",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0127",
+    "source": "slack",
+    "timestamp": "2026-08-20T15:00:00",
+    "sender": "EMP-033",
+    "content": "Flagging a dependency on another team for Q3 Brand Campaign.",
+    "department": "Marketing",
+    "project_id": "PRJ-003",
+    "recipients": null,
+    "channel": "marketing-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0127",
+        "channel": "marketing-general",
+        "sender": "EMP-033",
+        "timestamp": "2026-08-20T15:00:00",
+        "message": "Flagging a dependency on another team for Q3 Brand Campaign.",
+        "department": "Marketing",
+        "project_id": "PRJ-003",
+        "thread_id": null
+      }
+    }
+  },
+  {
+    "id": "SLK-0126",
+    "source": "slack",
+    "timestamp": "2026-08-20T17:00:00",
+    "sender": "EMP-024",
+    "content": "Product wants the Mobile App v2 feature before the September release.",
+    "department": "Product",
+    "project_id": "PRJ-002",
+    "recipients": null,
+    "channel": "product-general",
+    "subject": null,
+    "metadata": {
+      "thread_id": null,
+      "original": {
+        "id": "SLK-0126",
+        "channel": "product-general",
+        "sender": "EMP-024",
+        "timestamp": "2026-08-20T17:00:00",
+        "message": "Product wants the Mobile App v2 feature before the September release.",
+        "department": "Product",
+        "project_id": "PRJ-002",
+        "thread_id": null
+      }
+    }
+  }
+]

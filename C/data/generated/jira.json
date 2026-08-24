@@ -1,0 +1,57 @@
+[
+  {
+    "id": "JIR-0006",
+    "task_id": "PAY-183",
+    "assignee": "EMP-001",
+    "timestamp": "2026-07-26T14:00:00",
+    "comment": "Blocked: waiting for infrastructure to deploy webhook changes",
+    "department": "Engineering",
+    "project_id": "PRJ-001",
+    "status": "blocked",
+    "summary": "Blocked: waiting for infrastructure to deploy webhook changes"
+  },
+  {
+    "id": "JIR-0008",
+    "task_id": "PAY-183",
+    "assignee": "EMP-001",
+    "timestamp": "2026-08-01T16:00:00",
+    "comment": "Infrastructure dependency resolved. Resuming webhook work.",
+    "department": "Engineering",
+    "project_id": "PRJ-001",
+    "status": "in_progress",
+    "summary": "Infrastructure dependency resolved. Resuming webhook work."
+  },
+  {
+    "id": "JIR-0010",
+    "task_id": "PAY-183",
+    "assignee": "EMP-001",
+    "timestamp": "2026-08-03T18:00:00",
+    "comment": "Completed: webhook retry logic merged to main.",
+    "department": "Engineering",
+    "project_id": "PRJ-001",
+    "status": "done",
+    "summary": "Completed: webhook retry logic merged to main."
+  },
+  {
+    "id": "JIR-0025",
+    "task_id": "API-042",
+    "assignee": "EMP-002",
+    "timestamp": "2026-08-04T11:00:00",
+    "comment": "Project at risk: performance test failures on routing layer",
+    "department": "Engineering",
+    "project_id": "PRJ-009",
+    "status": "blocked",
+    "summary": "Project at risk: performance test failures on routing layer"
+  },
+  {
+    "id": "JIR-0027",
+    "task_id": "API-042",
+    "assignee": "EMP-002",
+    "timestamp": "2026-08-08T16:00:00",
+    "comment": "Performance tests passing. Project back on track.",
+    "department": "Engineering",
+    "project_id": "PRJ-009",
+    "status": "done",
+    "summary": "Performance tests passing. Project back on track."
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "name": "Nexora - Chat Request",
+  "nodes": [
+    {
+      "parameters": {},
+      "name": "Webhook",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 1,
+      "position": [250, 300],
+      "webhookId": "nexora-chat"
+    },
+    {
+      "parameters": {
+        "command": "python -c \"import sys,json; from src.agents.base_agent import get_agent; q=sys.argv[1]; r=sys.argv[2]; print(json.dumps(get_agent(r).ask(q)))\" {{$json.question}} {{$json.role}}"
+      },
+      "name": "Agent Response",
+      "type": "n8n-nodes-base.executeCommand",
+      "typeVersion": 1,
+      "position": [450, 300]
+    }
+  ],
+  "connections": {
+    "Webhook": {
+      "main": [[{"node": "Agent Response", "type": "main", "index": 0}]]
+    }
+  }
+}

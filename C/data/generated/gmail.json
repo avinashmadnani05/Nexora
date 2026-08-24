@@ -1,0 +1,63 @@
+[
+  {
+    "id": "EML-0003",
+    "sender": "EMP-001",
+    "recipients": [
+      "EMP-002"
+    ],
+    "timestamp": "2026-07-24T15:00:00",
+    "subject": "Payments webhook - staging deployment needed",
+    "body": "Hi Amit, I need the staging queue configured for Payments webhook testing. Can someone from infra confirm whether the staging queue is ready?",
+    "department": "Engineering",
+    "project_id": "PRJ-001"
+  },
+  {
+    "id": "EML-0004",
+    "sender": "EMP-002",
+    "recipients": [
+      "EMP-001"
+    ],
+    "timestamp": "2026-07-25T09:00:00",
+    "subject": "Re: Payments webhook - staging deployment needed",
+    "body": "Rahul, infrastructure deployment for the staging queue is still pending. We're waiting on the security review before we can deploy. Should be done by end of week.",
+    "department": "Engineering",
+    "project_id": "PRJ-001"
+  },
+  {
+    "id": "EML-0012",
+    "sender": "EMP-003",
+    "recipients": [
+      "EMP-004"
+    ],
+    "timestamp": "2026-07-25T10:00:00",
+    "subject": "Q3 Campaign - creative delay",
+    "body": "Sneha, we need to discuss pushing the campaign launch. Creative assets for the hero section and social templates are still incomplete. Can we move launch to Monday next week?",
+    "department": "Marketing",
+    "project_id": "PRJ-003"
+  },
+  {
+    "id": "EML-0020",
+    "sender": "EMP-001",
+    "recipients": [
+      "EMP-005",
+      "EMP-007"
+    ],
+    "timestamp": "2026-07-29T09:00:00",
+    "subject": "Decision needed: async processing for Payments notifications",
+    "body": "We agreed to use asynchronous processing for the Payments notification workflow. This will improve reliability and decouple the webhook handler from downstream services.",
+    "department": "Engineering",
+    "project_id": "PRJ-001"
+  },
+  {
+    "id": "EML-0022",
+    "sender": "EMP-015",
+    "recipients": [
+      "EMP-060"
+    ],
+    "timestamp": "2026-07-31T09:00:00",
+    "subject": "Welcome to Nexora \u2014 onboarding checklist",
+    "body": "Welcome aboard! I'll take ownership of the onboarding checklist for you. Day 1: HR orientation at 10am. Day 2: Engineering team intro. Please complete the compliance training.",
+    "department": "HR",
+    "project_id": "PRJ-007"
+  }
+]

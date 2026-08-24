@@ -1,0 +1,3342 @@
+{
+  "company": {
+    "name": "Nexora Technologies",
+    "employees_count": 60
+  },
+  "employees": [
+    {
+      "id": "EMP-001",
+      "name": "Rahul Sharma",
+      "department": "Engineering",
+      "team": "Platform",
+      "role": "Engineering Manager",
+      "manager": null,
+      "skills": [
+        "leadership",
+        "strategy"
+      ]
+    },
+    {
+      "id": "EMP-002",
+      "name": "Amit Patel",
+      "department": "Product",
+      "team": "Core Product",
+      "role": "Product Manager",
+      "manager": null,
+      "skills": [
+        "leadership",
+        "strategy"
+      ]
+    },
+    {
+      "id": "EMP-003",
+      "name": "Priya Gupta",
+      "department": "Marketing",
+      "team": "Brand",
+      "role": "Marketing Manager",
+      "manager": null,
+      "skills": [
+        "leadership",
+        "strategy"
+      ]
+    },
+    {
+      "id": "EMP-004",
+      "name": "Sneha Singh",
+      "department": "Sales",
+      "team": "Enterprise",
+      "role": "Sales Manager",
+      "manager": null,
+      "skills": [
+        "leadership",
+        "strategy"
+      ]
+    },
+    {
+      "id": "EMP-005",
+      "name": "Vikram Kumar",
+      "department": "HR",
+      "team": "Talent",
+      "role": "HR Manager",
+      "manager": null,
+      "skills": [
+        "leadership",
+        "strategy"
+      ]
+    },
+    {
+      "id": "EMP-006",
+      "name": "Ananya Reddy",
+      "department": "Finance",
+      "team": "FP&A",
+      "role": "Finance Manager",
+      "manager": null,
+      "skills": [
+        "leadership",
+        "strategy"
+      ]
+    },
+    {
+      "id": "EMP-007",
+      "name": "Karan Nair",
+      "department": "Engineering",
+      "team": "Platform",
+      "role": "Software Engineer",
+      "manager": "EMP-001",
+      "skills": [
+        "python",
+        "react",
+        "communication"
+      ]
+    },
+    {
+      "id": "EMP-008",
+      "name": "Meera Iyer",
+      "department": "Engineering",
+      "team": "Payments",
+      "role": "Senior Engineer",
+      "manager": "EMP-001",
+      "skills": [
+        "analytics",
+        "sales",
+        "communication"
+      ]
+    },
+    {
+      "id": "EMP-009",
+      "name": "Arjun Menon",
+      "department": "Engineering",
+      "team": "Infrastructure",
+      "role": "Staff Engineer",
+      "manager": "EMP-001",
+      "skills": [
+        "sql",
+        "react",
+        "analytics"
+      ]
+    },
+    {
+      "id": "EMP-010",
+      "name": "Divya Joshi",
+      "department": "Engineering",
+      "team": "Mobile",
+      "role": "Engineering Manager",
+      "manager": "EMP-001",
+      "skills": [
+        "communication",
+        "sales",
+        "design"
+      ]
+    },
+    {
+      "id": "EMP-011",
+      "name": "Rohan Desai",
+      "department": "Engineering",
+      "team": "Data",
+      "role": "DevOps Engineer",
+      "manager": "EMP-001",
+      "skills": [
+        "python",
+        "communication",
+        "sql"
+      ]
+    },
+    {
+      "id": "EMP-012",
+      "name": "Neha Rao",
+      "department": "Engineering",
+      "team": "Platform",
+      "role": "Software Engineer",
+      "manager": "EMP-001",
+      "skills": [
+        "communication",
+        "sql",
+        "sales"
+      ]
+    },
+    {
+      "id": "EMP-013",
+      "name": "Sanjay Verma",
+      "department": "Engineering",
+      "team": "Payments",
+      "role": "Senior Engineer",
+      "manager": "EMP-001",
+      "skills": [
+        "sales",
+        "python",
+        "react"
+      ]
+    },
+    {
+      "id": "EMP-014",
+      "name": "Kavita Malhotra",
+      "department": "Engineering",
+      "team": "Infrastructure",
+      "role": "Staff Engineer",
+      "manager": "EMP-001",
+      "skills": [
+        "sql",
+        "communication",
+        "sales"
+      ]
+    },
+    {
+      "id": "EMP-015",
+      "name": "Deepak Kapoor",
+      "department": "Engineering",
+      "team": "Mobile",
+      "role": "Engineering Manager",
+      "manager": "EMP-001",
+      "skills": [
+        "sql",
+        "sales",
+        "communication"
+      ]
+    },
+    {
+      "id": "EMP-016",
+      "name": "Pooja Chopra",
+      "department": "Product",
+      "team": "Core Product",
+      "role": "Product Manager",
+      "manager": "EMP-002",
+      "skills": [
+        "design",
+        "analytics",
+        "python"
+      ]
+    },
+    {
+      "id": "EMP-017",
+      "name": "Nikhil Banerjee",
+      "department": "Product",
+      "team": "Growth",
+      "role": "Senior PM",
+      "manager": "EMP-002",
+      "skills": [
+        "communication",
+        "python",
+        "sql"
+      ]
+    },
+    {
+      "id": "EMP-018",
+      "name": "Shreya Mukherjee",
+      "department": "Product",
+      "team": "Enterprise",
+      "role": "Product Analyst",
+      "manager": "EMP-002",
+      "skills": [
+        "sql",
+        "design",
+        "python"
+      ]
+    },
+    {
+      "id": "EMP-019",
+      "name": "Aditya Das",
+      "department": "Product",
+      "team": "Core Product",
+      "role": "Director of Product",
+      "manager": "EMP-002",
+      "skills": [
+        "design",
+        "communication",
+        "analytics"
+      ]
+    },
+    {
+      "id": "EMP-020",
+      "name": "Ritu Pillai",
+      "department": "Product",
+      "team": "Growth",
+      "role": "Product Manager",
+      "manager": "EMP-002",
+      "skills": [
+        "design",
+        "python",
+        "analytics"
+      ]
+    },
+    {
+      "id": "EMP-021",
+      "name": "Manish Shetty",
+      "department": "Product",
+      "team": "Enterprise",
+      "role": "Senior PM",
+      "manager": "EMP-002",
+      "skills": [
+        "communication",
+        "design",
+        "python"
+      ]
+    },
+    {
+      "id": "EMP-022",
+      "name": "Swati Kulkarni",
+      "department": "Product",
+      "team": "Core Product",
+      "role": "Product Analyst",
+      "manager": "EMP-002",
+      "skills": [
+        "react",
+        "analytics",
+        "sql"
+      ]
+    },
+    {
+      "id": "EMP-023",
+      "name": "Gaurav Mehta",
+      "department": "Product",
+      "team": "Growth",
+      "role": "Director of Product",
+      "manager": "EMP-002",
+      "skills": [
+        "analytics",
+        "communication",
+        "sales"
+      ]
+    },
+    {
+      "id": "EMP-024",
+      "name": "Tanvi Shah",
+      "department": "Product",
+      "team": "Enterprise",
+      "role": "Product Manager",
+      "manager": "EMP-002",
+      "skills": [
+        "design",
+        "python",
+        "react"
+      ]
+    },
+    {
+      "id": "EMP-025",
+      "name": "Rajesh Agarwal",
+      "department": "Marketing",
+      "team": "Brand",
+      "role": "Marketing Manager",
+      "manager": "EMP-003",
+      "skills": [
+        "sql",
+        "analytics",
+        "react"
+      ]
+    },
+    {
+      "id": "EMP-026",
+      "name": "Isha Bose",
+      "department": "Marketing",
+      "team": "Growth Marketing",
+      "role": "Content Strategist",
+      "manager": "EMP-003",
+      "skills": [
+        "sql",
+        "communication",
+        "sales"
+      ]
+    },
+    {
+      "id": "EMP-027",
+      "name": "Varun Chatterjee",
+      "department": "Marketing",
+      "team": "Content",
+      "role": "Campaign Manager",
+      "manager": "EMP-003",
+      "skills": [
+        "python",
+        "design",
+        "analytics"
+      ]
+    },
+    {
+      "id": "EMP-028",
+      "name": "Anjali Dutta",
+      "department": "Marketing",
+      "team": "Brand",
+      "role": "Designer",
+      "manager": "EMP-003",
+      "skills": [
+        "design",
+        "react",
+        "sales"
+      ]
+    },
+    {
+      "id": "EMP-029",
+      "name": "Suresh Ghosh",
+      "department": "Marketing",
+      "team": "Growth Marketing",
+      "role": "Marketing Manager",
+      "manager": "EMP-003",
+      "skills": [
+        "sql",
+        "analytics",
+        "python"
+      ]
+    },
+    {
+      "id": "EMP-030",
+      "name": "Preeti Sinha",
+      "department": "Marketing",
+      "team": "Content",
+      "role": "Content Strategist",
+      "manager": "EMP-003",
+      "skills": [
+        "analytics",
+        "communication",
+        "python"
+      ]
+    },
+    {
+      "id": "EMP-031",
+      "name": "Harish Sharma",
+      "department": "Marketing",
+      "team": "Brand",
+      "role": "Campaign Manager",
+      "manager": "EMP-003",
+      "skills": [
+        "react",
+        "python",
+        "communication"
+      ]
+    },
+    {
+      "id": "EMP-032",
+      "name": "Nidhi Patel",
+      "department": "Marketing",
+      "team": "Growth Marketing",
+      "role": "Designer",
+      "manager": "EMP-003",
+      "skills": [
+        "python",
+        "sales",
+        "react"
+      ]
+    },
+    {
+      "id": "EMP-033",
+      "name": "Ashok Gupta",
+      "department": "Marketing",
+      "team": "Content",
+      "role": "Marketing Manager",
+      "manager": "EMP-003",
+      "skills": [
+        "communication",
+        "sales",
+        "sql"
+      ]
+    },
+    {
+      "id": "EMP-034",
+      "name": "Komal Singh",
+      "department": "Sales",
+      "team": "Enterprise",
+      "role": "Account Executive",
+      "manager": "EMP-004",
+      "skills": [
+        "analytics",
+        "sales",
+        "sql"
+      ]
+    },
+    {
+      "id": "EMP-035",
+      "name": "Ravi Kumar",
+      "department": "Sales",
+      "team": "SMB",
+      "role": "Sales Manager",
+      "manager": "EMP-004",
+      "skills": [
+        "communication",
+        "design",
+        "sales"
+      ]
+    },
+    {
+      "id": "EMP-036",
+      "name": "Sunita Reddy",
+      "department": "Sales",
+      "team": "Partnerships",
+      "role": "SDR",
+      "manager": "EMP-004",
+      "skills": [
+        "react",
+        "communication",
+        "analytics"
+      ]
+    },
+    {
+      "id": "EMP-037",
+      "name": "Mohit Nair",
+      "department": "Sales",
+      "team": "Enterprise",
+      "role": "Sales Director",
+      "manager": "EMP-004",
+      "skills": [
+        "react",
+        "communication",
+        "design"
+      ]
+    },
+    {
+      "id": "EMP-038",
+      "name": "Rekha Iyer",
+      "department": "Sales",
+      "team": "SMB",
+      "role": "Account Executive",
+      "manager": "EMP-004",
+      "skills": [
+        "analytics",
+        "design",
+        "react"
+      ]
+    },
+    {
+      "id": "EMP-039",
+      "name": "Vinod Menon",
+      "department": "Sales",
+      "team": "Partnerships",
+      "role": "Sales Manager",
+      "manager": "EMP-004",
+      "skills": [
+        "design",
+        "python",
+        "sql"
+      ]
+    },
+    {
+      "id": "EMP-040",
+      "name": "Lakshmi Joshi",
+      "department": "Sales",
+      "team": "Enterprise",
+      "role": "SDR",
+      "manager": "EMP-004",
+      "skills": [
+        "design",
+        "communication",
+        "sql"
+      ]
+    },
+    {
+      "id": "EMP-041",
+      "name": "Pradeep Desai",
+      "department": "Sales",
+      "team": "SMB",
+      "role": "Sales Director",
+      "manager": "EMP-004",
+      "skills": [
+        "design",
+        "analytics",
+        "sql"
+      ]
+    },
+    {
+      "id": "EMP-042",
+      "name": "Geeta Rao",
+      "department": "Sales",
+      "team": "Partnerships",
+      "role": "Account Executive",
+      "manager": "EMP-004",
+      "skills": [
+        "design",
+        "python",
+        "sql"
+      ]
+    },
+    {
+      "id": "EMP-043",
+      "name": "Sunil Verma",
+      "department": "HR",
+      "team": "Talent",
+      "role": "HR Manager",
+      "manager": "EMP-005",
+      "skills": [
+        "sales",
+        "sql",
+        "analytics"
+      ]
+    },
+    {
+      "id": "EMP-044",
+      "name": "Madhuri Malhotra",
+      "department": "HR",
+      "team": "People Ops",
+      "role": "Recruiter",
+      "manager": "EMP-005",
+      "skills": [
+        "analytics",
+        "sales",
+        "communication"
+      ]
+    },
+    {
+      "id": "EMP-045",
+      "name": "Anil Kapoor",
+      "department": "HR",
+      "team": "Talent",
+      "role": "People Partner",
+      "manager": "EMP-005",
+      "skills": [
+        "design",
+        "react",
+        "communication"
+      ]
+    },
+    {
+      "id": "EMP-046",
+      "name": "Sarita Chopra",
+      "department": "HR",
+      "team": "People Ops",
+      "role": "HR Manager",
+      "manager": "EMP-005",
+      "skills": [
+        "analytics",
+        "communication",
+        "sql"
+      ]
+    },
+    {
+      "id": "EMP-047",
+      "name": "Dinesh Banerjee",
+      "department": "HR",
+      "team": "Talent",
+      "role": "Recruiter",
+      "manager": "EMP-005",
+      "skills": [
+        "sql",
+        "analytics",
+        "sales"
+      ]
+    },
+    {
+      "id": "EMP-048",
+      "name": "Uma Mukherjee",
+      "department": "HR",
+      "team": "People Ops",
+      "role": "People Partner",
+      "manager": "EMP-005",
+      "skills": [
+        "communication",
+        "design",
+        "sql"
+      ]
+    },
+    {
+      "id": "EMP-049",
+      "name": "Ramesh Das",
+      "department": "HR",
+      "team": "Talent",
+      "role": "HR Manager",
+      "manager": "EMP-005",
+      "skills": [
+        "design",
+        "react",
+        "sales"
+      ]
+    },
+    {
+      "id": "EMP-050",
+      "name": "Padma Pillai",
+      "department": "HR",
+      "team": "People Ops",
+      "role": "Recruiter",
+      "manager": "EMP-005",
+      "skills": [
+        "analytics",
+        "communication",
+        "react"
+      ]
+    },
+    {
+      "id": "EMP-051",
+      "name": "Krishna Shetty",
+      "department": "HR",
+      "team": "Talent",
+      "role": "People Partner",
+      "manager": "EMP-005",
+      "skills": [
+        "design",
+        "communication",
+        "python"
+      ]
+    },
+    {
+      "id": "EMP-052",
+      "name": "Radha Kulkarni",
+      "department": "Finance",
+      "team": "FP&A",
+      "role": "Financial Analyst",
+      "manager": "EMP-006",
+      "skills": [
+        "sql",
+        "sales",
+        "communication"
+      ]
+    },
+    {
+      "id": "EMP-053",
+      "name": "Balaji Mehta",
+      "department": "Finance",
+      "team": "Accounting",
+      "role": "Controller",
+      "manager": "EMP-006",
+      "skills": [
+        "sales",
+        "communication",
+        "design"
+      ]
+    },
+    {
+      "id": "EMP-054",
+      "name": "Latha Shah",
+      "department": "Finance",
+      "team": "FP&A",
+      "role": "Finance Manager",
+      "manager": "EMP-006",
+      "skills": [
+        "sales",
+        "design",
+        "react"
+      ]
+    },
+    {
+      "id": "EMP-055",
+      "name": "Srinivas Agarwal",
+      "department": "Finance",
+      "team": "Accounting",
+      "role": "Financial Analyst",
+      "manager": "EMP-006",
+      "skills": [
+        "communication",
+        "python",
+        "react"
+      ]
+    },
+    {
+      "id": "EMP-056",
+      "name": "Vijaya Bose",
+      "department": "Finance",
+      "team": "FP&A",
+      "role": "Controller",
+      "manager": "EMP-006",
+      "skills": [
+        "analytics",
+        "design",
+        "sql"
+      ]
+    },
+    {
+      "id": "EMP-057",
+      "name": "Chandra Chatterjee",
+      "department": "Finance",
+      "team": "Accounting",
+      "role": "Finance Manager",
+      "manager": "EMP-006",
+      "skills": [
+        "design",
+        "python",
+        "communication"
+      ]
+    },
+    {
+      "id": "EMP-058",
+      "name": "Indira Dutta",
+      "department": "Finance",
+      "team": "FP&A",
+      "role": "Financial Analyst",
+      "manager": "EMP-006",
+      "skills": [
+        "python",
+        "analytics",
+        "communication"
+      ]
+    },
+    {
+      "id": "EMP-059",
+      "name": "Murali Ghosh",
+      "department": "Finance",
+      "team": "Accounting",
+      "role": "Controller",
+      "manager": "EMP-006",
+      "skills": [
+        "python",
+        "sales",
+        "react"
+      ]
+    },
+    {
+      "id": "EMP-060",
+      "name": "Kamala Sinha",
+      "department": "Finance",
+      "team": "FP&A",
+      "role": "Finance Manager",
+      "manager": "EMP-006",
+      "skills": [
+        "communication",
+        "sales",
+        "react"
+      ]
+    }
+  ],
+  "departments": [
+    {
+      "id": "DEPT-1",
+      "name": "Engineering"
+    },
+    {
+      "id": "DEPT-2",
+      "name": "Product"
+    },
+    {
+      "id": "DEPT-3",
+      "name": "Marketing"
+    },
+    {
+      "id": "DEPT-4",
+      "name": "Sales"
+    },
+    {
+      "id": "DEPT-5",
+      "name": "HR"
+    },
+    {
+      "id": "DEPT-6",
+      "name": "Finance"
+    }
+  ],
+  "teams": [
+    {
+      "id": "TEAM-ENG-1",
+      "name": "Platform",
+      "department": "Engineering"
+    },
+    {
+      "id": "TEAM-ENG-2",
+      "name": "Payments",
+      "department": "Engineering"
+    },
+    {
+      "id": "TEAM-ENG-3",
+      "name": "Infrastructure",
+      "department": "Engineering"
+    },
+    {
+      "id": "TEAM-ENG-4",
+      "name": "Mobile",
+      "department": "Engineering"
+    },
+    {
+      "id": "TEAM-ENG-5",
+      "name": "Data",
+      "department": "Engineering"
+    },
+    {
+      "id": "TEAM-PRO-1",
+      "name": "Core Product",
+      "department": "Product"
+    },
+    {
+      "id": "TEAM-PRO-2",
+      "name": "Growth",
+      "department": "Product"
+    },
+    {
+      "id": "TEAM-PRO-3",
+      "name": "Enterprise",
+      "department": "Product"
+    },
+    {
+      "id": "TEAM-MAR-1",
+      "name": "Brand",
+      "department": "Marketing"
+    },
+    {
+      "id": "TEAM-MAR-2",
+      "name": "Growth Marketing",
+      "department": "Marketing"
+    },
+    {
+      "id": "TEAM-MAR-3",
+      "name": "Content",
+      "department": "Marketing"
+    },
+    {
+      "id": "TEAM-SAL-1",
+      "name": "Enterprise",
+      "department": "Sales"
+    },
+    {
+      "id": "TEAM-SAL-2",
+      "name": "SMB",
+      "department": "Sales"
+    },
+    {
+      "id": "TEAM-SAL-3",
+      "name": "Partnerships",
+      "department": "Sales"
+    },
+    {
+      "id": "TEAM-HR-1",
+      "name": "Talent",
+      "department": "HR"
+    },
+    {
+      "id": "TEAM-HR-2",
+      "name": "People Ops",
+      "department": "HR"
+    },
+    {
+      "id": "TEAM-FIN-1",
+      "name": "FP&A",
+      "department": "Finance"
+    },
+    {
+      "id": "TEAM-FIN-2",
+      "name": "Accounting",
+      "department": "Finance"
+    }
+  ],
+  "projects": [
+    {
+      "id": "PRJ-001",
+      "name": "Payments Platform",
+      "department": "Engineering",
+      "status": "in_progress",
+      "owner": "EMP-001",
+      "members": [
+        "EMP-001",
+        "EMP-007",
+        "EMP-008",
+        "EMP-009",
+        "EMP-010"
+      ],
+      "progress": 34,
+      "start_date": "2026-07-01",
+      "deadline": "2026-08-30"
+    },
+    {
+      "id": "PRJ-002",
+      "name": "Mobile App v2",
+      "department": "Product",
+      "status": "in_progress",
+      "owner": "EMP-002",
+      "members": [
+        "EMP-002",
+        "EMP-016",
+        "EMP-017",
+        "EMP-018",
+        "EMP-019"
+      ],
+      "progress": 60,
+      "start_date": "2026-07-01",
+      "deadline": "2026-08-30"
+    },
+    {
+      "id": "PRJ-003",
+      "name": "Q3 Brand Campaign",
+      "department": "Marketing",
+      "status": "in_progress",
+      "owner": "EMP-003",
+      "members": [
+        "EMP-003",
+        "EMP-025",
+        "EMP-026",
+        "EMP-027",
+        "EMP-028"
+      ],
+      "progress": 46,
+      "start_date": "2026-07-01",
+      "deadline": "2026-08-30"
+    },
+    {
+      "id": "PRJ-004",
+      "name": "Enterprise Sales Pipeline",
+      "department": "Sales",
+      "status": "in_progress",
+      "owner": "EMP-004",
+      "members": [
+        "EMP-004",
+        "EMP-034",
+        "EMP-035",
+        "EMP-036",
+        "EMP-037"
+      ],
+      "progress": 51,
+      "start_date": "2026-07-01",
+      "deadline": "2026-08-30"
+    },
+    {
+      "id": "PRJ-005",
+      "name": "Analytics Dashboard",
+      "department": "Engineering",
+      "status": "in_progress",
+      "owner": "EMP-001",
+      "members": [
+        "EMP-001",
+        "EMP-007",
+        "EMP-008",
+        "EMP-009",
+        "EMP-010"
+      ],
+      "progress": 69,
+      "start_date": "2026-07-01",
+      "deadline": "2026-08-30"
+    },
+    {
+      "id": "PRJ-006",
+      "name": "Customer Analytics Portal",
+      "department": "Product",
+      "status": "in_progress",
+      "owner": "EMP-002",
+      "members": [
+        "EMP-002",
+        "EMP-016",
+        "EMP-017",
+        "EMP-018",
+        "EMP-019"
+      ],
+      "progress": 55,
+      "start_date": "2026-07-01",
+      "deadline": "2026-08-30"
+    },
+    {
+      "id": "PRJ-007",
+      "name": "HR Onboarding System",
+      "department": "HR",
+      "status": "in_progress",
+      "owner": "EMP-005",
+      "members": [
+        "EMP-005",
+        "EMP-043",
+        "EMP-044",
+        "EMP-045",
+        "EMP-046"
+      ],
+      "progress": 35,
+      "start_date": "2026-07-01",
+      "deadline": "2026-08-30"
+    },
+    {
+      "id": "PRJ-008",
+      "name": "Budget Planning FY26",
+      "department": "Finance",
+      "status": "in_progress",
+      "owner": "EMP-006",
+      "members": [
+        "EMP-006",
+        "EMP-052",
+        "EMP-053",
+        "EMP-054",
+        "EMP-055"
+      ],
+      "progress": 51,
+      "start_date": "2026-07-01",
+      "deadline": "2026-08-30"
+    },
+    {
+      "id": "PRJ-009",
+      "name": "API Gateway Upgrade",
+      "department": "Engineering",
+      "status": "in_progress",
+      "owner": "EMP-001",
+      "members": [
+        "EMP-001",
+        "EMP-007",
+        "EMP-008",
+        "EMP-009",
+        "EMP-010"
+      ],
+      "progress": 64,
+      "start_date": "2026-07-01",
+      "deadline": "2026-08-30"
+    },
+    {
+      "id": "PRJ-010",
+      "name": "Partner Integration Hub",
+      "department": "Sales",
+      "status": "in_progress",
+      "owner": "EMP-004",
+      "members": [
+        "EMP-004",
+        "EMP-034",
+        "EMP-035",
+        "EMP-036",
+        "EMP-037"
+      ],
+      "progress": 54,
+      "start_date": "2026-07-01",
+      "deadline": "2026-08-30"
+    },
+    {
+      "id": "PRJ-011",
+      "name": "Security Compliance Audit",
+      "department": "Engineering",
+      "status": "in_progress",
+      "owner": "EMP-001",
+      "members": [
+        "EMP-001",
+        "EMP-007",
+        "EMP-008",
+        "EMP-009",
+        "EMP-010"
+      ],
+      "progress": 50,
+      "start_date": "2026-07-01",
+      "deadline": "2026-08-30"
+    },
+    {
+      "id": "PRJ-012",
+      "name": "Content Management Revamp",
+      "department": "Marketing",
+      "status": "in_progress",
+      "owner": "EMP-003",
+      "members": [
+        "EMP-003",
+        "EMP-025",
+        "EMP-026",
+        "EMP-027",
+        "EMP-028"
+      ],
+      "progress": 70,
+      "start_date": "2026-07-01",
+      "deadline": "2026-08-30"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "TSK-001",
+      "name": "Payments Platform task 1",
+      "project_id": "PRJ-001",
+      "assignee": "EMP-013",
+      "status": "open",
+      "priority": "high",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-002",
+      "name": "Payments Platform task 2",
+      "project_id": "PRJ-001",
+      "assignee": "EMP-007",
+      "status": "in_progress",
+      "priority": "high",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-003",
+      "name": "Payments Platform task 3",
+      "project_id": "PRJ-001",
+      "assignee": "EMP-010",
+      "status": "in_progress",
+      "priority": "high",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-004",
+      "name": "Payments Platform task 4",
+      "project_id": "PRJ-001",
+      "assignee": "EMP-007",
+      "status": "blocked",
+      "priority": "low",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-005",
+      "name": "Payments Platform task 5",
+      "project_id": "PRJ-001",
+      "assignee": "EMP-007",
+      "status": "blocked",
+      "priority": "low",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-006",
+      "name": "Payments Platform task 6",
+      "project_id": "PRJ-001",
+      "assignee": "EMP-010",
+      "status": "open",
+      "priority": "low",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-007",
+      "name": "Payments Platform task 7",
+      "project_id": "PRJ-001",
+      "assignee": "EMP-011",
+      "status": "open",
+      "priority": "medium",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-008",
+      "name": "Payments Platform task 8",
+      "project_id": "PRJ-001",
+      "assignee": "EMP-011",
+      "status": "done",
+      "priority": "medium",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-009",
+      "name": "Payments Platform task 9",
+      "project_id": "PRJ-001",
+      "assignee": "EMP-008",
+      "status": "in_progress",
+      "priority": "high",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-010",
+      "name": "Mobile App v2 task 1",
+      "project_id": "PRJ-002",
+      "assignee": "EMP-024",
+      "status": "in_progress",
+      "priority": "low",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-011",
+      "name": "Mobile App v2 task 2",
+      "project_id": "PRJ-002",
+      "assignee": "EMP-017",
+      "status": "open",
+      "priority": "high",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-012",
+      "name": "Mobile App v2 task 3",
+      "project_id": "PRJ-002",
+      "assignee": "EMP-021",
+      "status": "in_progress",
+      "priority": "medium",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-013",
+      "name": "Mobile App v2 task 4",
+      "project_id": "PRJ-002",
+      "assignee": "EMP-024",
+      "status": "in_progress",
+      "priority": "low",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-014",
+      "name": "Mobile App v2 task 5",
+      "project_id": "PRJ-002",
+      "assignee": "EMP-022",
+      "status": "done",
+      "priority": "medium",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-015",
+      "name": "Mobile App v2 task 6",
+      "project_id": "PRJ-002",
+      "assignee": "EMP-019",
+      "status": "open",
+      "priority": "medium",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-016",
+      "name": "Mobile App v2 task 7",
+      "project_id": "PRJ-002",
+      "assignee": "EMP-019",
+      "status": "in_progress",
+      "priority": "low",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-017",
+      "name": "Q3 Brand Campaign task 1",
+      "project_id": "PRJ-003",
+      "assignee": "EMP-029",
+      "status": "done",
+      "priority": "high",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-018",
+      "name": "Q3 Brand Campaign task 2",
+      "project_id": "PRJ-003",
+      "assignee": "EMP-030",
+      "status": "done",
+      "priority": "medium",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-019",
+      "name": "Q3 Brand Campaign task 3",
+      "project_id": "PRJ-003",
+      "assignee": "EMP-028",
+      "status": "in_progress",
+      "priority": "medium",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-020",
+      "name": "Q3 Brand Campaign task 4",
+      "project_id": "PRJ-003",
+      "assignee": "EMP-031",
+      "status": "open",
+      "priority": "low",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-021",
+      "name": "Q3 Brand Campaign task 5",
+      "project_id": "PRJ-003",
+      "assignee": "EMP-030",
+      "status": "done",
+      "priority": "high",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-022",
+      "name": "Q3 Brand Campaign task 6",
+      "project_id": "PRJ-003",
+      "assignee": "EMP-028",
+      "status": "done",
+      "priority": "low",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-023",
+      "name": "Q3 Brand Campaign task 7",
+      "project_id": "PRJ-003",
+      "assignee": "EMP-030",
+      "status": "done",
+      "priority": "low",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-024",
+      "name": "Enterprise Sales Pipeline task 1",
+      "project_id": "PRJ-004",
+      "assignee": "EMP-004",
+      "status": "blocked",
+      "priority": "medium",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-025",
+      "name": "Enterprise Sales Pipeline task 2",
+      "project_id": "PRJ-004",
+      "assignee": "EMP-036",
+      "status": "done",
+      "priority": "low",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-026",
+      "name": "Enterprise Sales Pipeline task 3",
+      "project_id": "PRJ-004",
+      "assignee": "EMP-036",
+      "status": "done",
+      "priority": "high",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-027",
+      "name": "Enterprise Sales Pipeline task 4",
+      "project_id": "PRJ-004",
+      "assignee": "EMP-035",
+      "status": "open",
+      "priority": "high",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-028",
+      "name": "Enterprise Sales Pipeline task 5",
+      "project_id": "PRJ-004",
+      "assignee": "EMP-004",
+      "status": "done",
+      "priority": "medium",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-029",
+      "name": "Enterprise Sales Pipeline task 6",
+      "project_id": "PRJ-004",
+      "assignee": "EMP-004",
+      "status": "done",
+      "priority": "high",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-030",
+      "name": "Enterprise Sales Pipeline task 7",
+      "project_id": "PRJ-004",
+      "assignee": "EMP-035",
+      "status": "open",
+      "priority": "medium",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-031",
+      "name": "Enterprise Sales Pipeline task 8",
+      "project_id": "PRJ-004",
+      "assignee": "EMP-038",
+      "status": "blocked",
+      "priority": "low",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-032",
+      "name": "Analytics Dashboard task 1",
+      "project_id": "PRJ-005",
+      "assignee": "EMP-008",
+      "status": "done",
+      "priority": "high",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-033",
+      "name": "Analytics Dashboard task 2",
+      "project_id": "PRJ-005",
+      "assignee": "EMP-014",
+      "status": "done",
+      "priority": "low",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-034",
+      "name": "Analytics Dashboard task 3",
+      "project_id": "PRJ-005",
+      "assignee": "EMP-010",
+      "status": "blocked",
+      "priority": "medium",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-035",
+      "name": "Analytics Dashboard task 4",
+      "project_id": "PRJ-005",
+      "assignee": "EMP-011",
+      "status": "open",
+      "priority": "medium",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-036",
+      "name": "Analytics Dashboard task 5",
+      "project_id": "PRJ-005",
+      "assignee": "EMP-007",
+      "status": "in_progress",
+      "priority": "low",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-037",
+      "name": "Customer Analytics Portal task 1",
+      "project_id": "PRJ-006",
+      "assignee": "EMP-021",
+      "status": "done",
+      "priority": "low",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-038",
+      "name": "Customer Analytics Portal task 2",
+      "project_id": "PRJ-006",
+      "assignee": "EMP-021",
+      "status": "open",
+      "priority": "medium",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-039",
+      "name": "Customer Analytics Portal task 3",
+      "project_id": "PRJ-006",
+      "assignee": "EMP-023",
+      "status": "open",
+      "priority": "medium",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-040",
+      "name": "Customer Analytics Portal task 4",
+      "project_id": "PRJ-006",
+      "assignee": "EMP-020",
+      "status": "done",
+      "priority": "high",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-041",
+      "name": "Customer Analytics Portal task 5",
+      "project_id": "PRJ-006",
+      "assignee": "EMP-021",
+      "status": "done",
+      "priority": "low",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-042",
+      "name": "Customer Analytics Portal task 6",
+      "project_id": "PRJ-006",
+      "assignee": "EMP-018",
+      "status": "blocked",
+      "priority": "low",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-043",
+      "name": "Customer Analytics Portal task 7",
+      "project_id": "PRJ-006",
+      "assignee": "EMP-024",
+      "status": "done",
+      "priority": "high",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-044",
+      "name": "Customer Analytics Portal task 8",
+      "project_id": "PRJ-006",
+      "assignee": "EMP-018",
+      "status": "open",
+      "priority": "high",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-045",
+      "name": "Customer Analytics Portal task 9",
+      "project_id": "PRJ-006",
+      "assignee": "EMP-022",
+      "status": "done",
+      "priority": "high",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-046",
+      "name": "Customer Analytics Portal task 10",
+      "project_id": "PRJ-006",
+      "assignee": "EMP-021",
+      "status": "open",
+      "priority": "low",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-047",
+      "name": "HR Onboarding System task 1",
+      "project_id": "PRJ-007",
+      "assignee": "EMP-005",
+      "status": "done",
+      "priority": "medium",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-048",
+      "name": "HR Onboarding System task 2",
+      "project_id": "PRJ-007",
+      "assignee": "EMP-043",
+      "status": "open",
+      "priority": "low",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-049",
+      "name": "HR Onboarding System task 3",
+      "project_id": "PRJ-007",
+      "assignee": "EMP-050",
+      "status": "in_progress",
+      "priority": "medium",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-050",
+      "name": "HR Onboarding System task 4",
+      "project_id": "PRJ-007",
+      "assignee": "EMP-049",
+      "status": "done",
+      "priority": "high",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-051",
+      "name": "Budget Planning FY26 task 1",
+      "project_id": "PRJ-008",
+      "assignee": "EMP-059",
+      "status": "blocked",
+      "priority": "high",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-052",
+      "name": "Budget Planning FY26 task 2",
+      "project_id": "PRJ-008",
+      "assignee": "EMP-053",
+      "status": "blocked",
+      "priority": "high",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-053",
+      "name": "Budget Planning FY26 task 3",
+      "project_id": "PRJ-008",
+      "assignee": "EMP-052",
+      "status": "blocked",
+      "priority": "high",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-054",
+      "name": "Budget Planning FY26 task 4",
+      "project_id": "PRJ-008",
+      "assignee": "EMP-057",
+      "status": "done",
+      "priority": "low",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-055",
+      "name": "Budget Planning FY26 task 5",
+      "project_id": "PRJ-008",
+      "assignee": "EMP-056",
+      "status": "in_progress",
+      "priority": "medium",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-056",
+      "name": "Budget Planning FY26 task 6",
+      "project_id": "PRJ-008",
+      "assignee": "EMP-058",
+      "status": "in_progress",
+      "priority": "medium",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-057",
+      "name": "Budget Planning FY26 task 7",
+      "project_id": "PRJ-008",
+      "assignee": "EMP-052",
+      "status": "done",
+      "priority": "high",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-058",
+      "name": "Budget Planning FY26 task 8",
+      "project_id": "PRJ-008",
+      "assignee": "EMP-056",
+      "status": "open",
+      "priority": "medium",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-059",
+      "name": "Budget Planning FY26 task 9",
+      "project_id": "PRJ-008",
+      "assignee": "EMP-055",
+      "status": "in_progress",
+      "priority": "low",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-060",
+      "name": "API Gateway Upgrade task 1",
+      "project_id": "PRJ-009",
+      "assignee": "EMP-013",
+      "status": "open",
+      "priority": "high",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-061",
+      "name": "API Gateway Upgrade task 2",
+      "project_id": "PRJ-009",
+      "assignee": "EMP-009",
+      "status": "open",
+      "priority": "low",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-062",
+      "name": "API Gateway Upgrade task 3",
+      "project_id": "PRJ-009",
+      "assignee": "EMP-011",
+      "status": "in_progress",
+      "priority": "low",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-063",
+      "name": "API Gateway Upgrade task 4",
+      "project_id": "PRJ-009",
+      "assignee": "EMP-015",
+      "status": "in_progress",
+      "priority": "low",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-064",
+      "name": "API Gateway Upgrade task 5",
+      "project_id": "PRJ-009",
+      "assignee": "EMP-014",
+      "status": "in_progress",
+      "priority": "high",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-065",
+      "name": "API Gateway Upgrade task 6",
+      "project_id": "PRJ-009",
+      "assignee": "EMP-009",
+      "status": "in_progress",
+      "priority": "medium",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-066",
+      "name": "API Gateway Upgrade task 7",
+      "project_id": "PRJ-009",
+      "assignee": "EMP-008",
+      "status": "open",
+      "priority": "medium",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-067",
+      "name": "API Gateway Upgrade task 8",
+      "project_id": "PRJ-009",
+      "assignee": "EMP-008",
+      "status": "in_progress",
+      "priority": "high",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-068",
+      "name": "API Gateway Upgrade task 9",
+      "project_id": "PRJ-009",
+      "assignee": "EMP-010",
+      "status": "in_progress",
+      "priority": "low",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-069",
+      "name": "API Gateway Upgrade task 10",
+      "project_id": "PRJ-009",
+      "assignee": "EMP-001",
+      "status": "in_progress",
+      "priority": "low",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-070",
+      "name": "Partner Integration Hub task 1",
+      "project_id": "PRJ-010",
+      "assignee": "EMP-036",
+      "status": "done",
+      "priority": "low",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-071",
+      "name": "Partner Integration Hub task 2",
+      "project_id": "PRJ-010",
+      "assignee": "EMP-035",
+      "status": "done",
+      "priority": "low",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-072",
+      "name": "Partner Integration Hub task 3",
+      "project_id": "PRJ-010",
+      "assignee": "EMP-035",
+      "status": "blocked",
+      "priority": "high",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-073",
+      "name": "Partner Integration Hub task 4",
+      "project_id": "PRJ-010",
+      "assignee": "EMP-034",
+      "status": "open",
+      "priority": "medium",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-074",
+      "name": "Partner Integration Hub task 5",
+      "project_id": "PRJ-010",
+      "assignee": "EMP-040",
+      "status": "done",
+      "priority": "high",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-075",
+      "name": "Partner Integration Hub task 6",
+      "project_id": "PRJ-010",
+      "assignee": "EMP-042",
+      "status": "open",
+      "priority": "medium",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-076",
+      "name": "Security Compliance Audit task 1",
+      "project_id": "PRJ-011",
+      "assignee": "EMP-009",
+      "status": "open",
+      "priority": "high",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-077",
+      "name": "Security Compliance Audit task 2",
+      "project_id": "PRJ-011",
+      "assignee": "EMP-014",
+      "status": "done",
+      "priority": "medium",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-078",
+      "name": "Security Compliance Audit task 3",
+      "project_id": "PRJ-011",
+      "assignee": "EMP-001",
+      "status": "open",
+      "priority": "medium",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-079",
+      "name": "Security Compliance Audit task 4",
+      "project_id": "PRJ-011",
+      "assignee": "EMP-012",
+      "status": "blocked",
+      "priority": "high",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-080",
+      "name": "Security Compliance Audit task 5",
+      "project_id": "PRJ-011",
+      "assignee": "EMP-007",
+      "status": "blocked",
+      "priority": "high",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-081",
+      "name": "Security Compliance Audit task 6",
+      "project_id": "PRJ-011",
+      "assignee": "EMP-013",
+      "status": "open",
+      "priority": "low",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-082",
+      "name": "Security Compliance Audit task 7",
+      "project_id": "PRJ-011",
+      "assignee": "EMP-011",
+      "status": "in_progress",
+      "priority": "low",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-083",
+      "name": "Security Compliance Audit task 8",
+      "project_id": "PRJ-011",
+      "assignee": "EMP-008",
+      "status": "done",
+      "priority": "high",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-084",
+      "name": "Content Management Revamp task 1",
+      "project_id": "PRJ-012",
+      "assignee": "EMP-033",
+      "status": "done",
+      "priority": "medium",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-085",
+      "name": "Content Management Revamp task 2",
+      "project_id": "PRJ-012",
+      "assignee": "EMP-033",
+      "status": "done",
+      "priority": "medium",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-086",
+      "name": "Content Management Revamp task 3",
+      "project_id": "PRJ-012",
+      "assignee": "EMP-032",
+      "status": "blocked",
+      "priority": "low",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-087",
+      "name": "Content Management Revamp task 4",
+      "project_id": "PRJ-012",
+      "assignee": "EMP-025",
+      "status": "in_progress",
+      "priority": "medium",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-088",
+      "name": "Content Management Revamp task 5",
+      "project_id": "PRJ-012",
+      "assignee": "EMP-031",
+      "status": "in_progress",
+      "priority": "medium",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-089",
+      "name": "Content Management Revamp task 6",
+      "project_id": "PRJ-012",
+      "assignee": "EMP-029",
+      "status": "blocked",
+      "priority": "medium",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-090",
+      "name": "Content Management Revamp task 7",
+      "project_id": "PRJ-012",
+      "assignee": "EMP-030",
+      "status": "open",
+      "priority": "medium",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-091",
+      "name": "Content Management Revamp task 8",
+      "project_id": "PRJ-012",
+      "assignee": "EMP-030",
+      "status": "done",
+      "priority": "high",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "TSK-092",
+      "name": "Content Management Revamp task 9",
+      "project_id": "PRJ-012",
+      "assignee": "EMP-028",
+      "status": "done",
+      "priority": "low",
+      "created_at": "2026-07-01",
+      "updated_at": "2026-08-15"
+    }
+  ],
+  "gmail": [
+    {
+      "id": "EML-0003",
+      "sender": "EMP-001",
+      "recipients": [
+        "EMP-002"
+      ],
+      "timestamp": "2026-07-24T15:00:00",
+      "subject": "Payments webhook - staging deployment needed",
+      "body": "Hi Amit, I need the staging queue configured for Payments webhook testing. Can someone from infra confirm whether the staging queue is ready?",
+      "department": "Engineering",
+      "project_id": "PRJ-001"
+    },
+    {
+      "id": "EML-0004",
+      "sender": "EMP-002",
+      "recipients": [
+        "EMP-001"
+      ],
+      "timestamp": "2026-07-25T09:00:00",
+      "subject": "Re: Payments webhook - staging deployment needed",
+      "body": "Rahul, infrastructure deployment for the staging queue is still pending. We're waiting on the security review before we can deploy. Should be done by end of week.",
+      "department": "Engineering",
+      "project_id": "PRJ-001"
+    },
+    {
+      "id": "EML-0012",
+      "sender": "EMP-003",
+      "recipients": [
+        "EMP-004"
+      ],
+      "timestamp": "2026-07-25T10:00:00",
+      "subject": "Q3 Campaign - creative delay",
+      "body": "Sneha, we need to discuss pushing the campaign launch. Creative assets for the hero section and social templates are still incomplete. Can we move launch to Monday next week?",
+      "department": "Marketing",
+      "project_id": "PRJ-003"
+    },
+    {
+      "id": "EML-0020",
+      "sender": "EMP-001",
+      "recipients": [
+        "EMP-005",
+        "EMP-007"
+      ],
+      "timestamp": "2026-07-29T09:00:00",
+      "subject": "Decision needed: async processing for Payments notifications",
+      "body": "We agreed to use asynchronous processing for the Payments notification workflow. This will improve reliability and decouple the webhook handler from downstream services.",
+      "department": "Engineering",
+      "project_id": "PRJ-001"
+    },
+    {
+      "id": "EML-0022",
+      "sender": "EMP-015",
+      "recipients": [
+        "EMP-060"
+      ],
+      "timestamp": "2026-07-31T09:00:00",
+      "subject": "Welcome to Nexora \u2014 onboarding checklist",
+      "body": "Welcome aboard! I'll take ownership of the onboarding checklist for you. Day 1: HR orientation at 10am. Day 2: Engineering team intro. Please complete the compliance training.",
+      "department": "HR",
+      "project_id": "PRJ-007"
+    }
+  ],
+  "slack": [
+    {
+      "id": "SLK-0001",
+      "channel": "engineering-payments",
+      "sender": "EMP-001",
+      "timestamp": "2026-07-22T10:00:00",
+      "message": "Starting work on the webhook retry logic for Payments. Should be straightforward.",
+      "department": "Engineering",
+      "project_id": "PRJ-001",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0002",
+      "channel": "engineering-payments",
+      "sender": "EMP-001",
+      "timestamp": "2026-07-24T14:00:00",
+      "message": "I've finished the retry logic but deployment is still blocked. Can't push to staging without infra.",
+      "department": "Engineering",
+      "project_id": "PRJ-001",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0007",
+      "channel": "engineering-infra",
+      "sender": "EMP-002",
+      "timestamp": "2026-07-30T10:00:00",
+      "message": "Staging queue deployment is complete. Rahul, you should be unblocked now.",
+      "department": "Engineering",
+      "project_id": "PRJ-001",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0009",
+      "channel": "engineering-payments",
+      "sender": "EMP-001",
+      "timestamp": "2026-08-03T17:00:00",
+      "message": "Webhook retry logic deployed and tested. PR merged. Payments webhook reliability is done.",
+      "department": "Engineering",
+      "project_id": "PRJ-001",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0011",
+      "channel": "marketing-campaigns",
+      "sender": "EMP-003",
+      "timestamp": "2026-07-23T11:00:00",
+      "message": "Q3 brand campaign creative assets are behind schedule. Design team hasn't delivered the hero banners.",
+      "department": "Marketing",
+      "project_id": "PRJ-003",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0013",
+      "channel": "marketing-campaigns",
+      "sender": "EMP-004",
+      "timestamp": "2026-07-27T14:00:00",
+      "message": "Let's push the campaign launch to Monday. Design is still working on the hero banners.",
+      "department": "Marketing",
+      "project_id": "PRJ-003",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0015",
+      "channel": "engineering-data",
+      "sender": "EMP-005",
+      "timestamp": "2026-07-25T11:00:00",
+      "message": "Starting scoping for the analytics dashboard \u2014 real-time metrics, user funnels, retention charts.",
+      "department": "Engineering",
+      "project_id": "PRJ-005",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0016",
+      "channel": "product-growth",
+      "sender": "EMP-006",
+      "timestamp": "2026-07-26T15:00:00",
+      "message": "Product team is planning a customer analytics portal with funnel analysis and retention views. Overlapping with what engineering might be building?",
+      "department": "Product",
+      "project_id": "PRJ-006",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0017",
+      "channel": "engineering-data",
+      "sender": "EMP-005",
+      "timestamp": "2026-07-27T10:00:00",
+      "message": "Didn't realize Product was also building analytics dashboards. We should sync to avoid duplicate work.",
+      "department": "Engineering",
+      "project_id": "PRJ-005",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0019",
+      "channel": "engineering-platform",
+      "sender": "EMP-001",
+      "timestamp": "2026-07-28T11:00:00",
+      "message": "Proposal: use asynchronous processing for the Payments notification workflow instead of sync calls.",
+      "department": "Engineering",
+      "project_id": "PRJ-001",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0024",
+      "channel": "engineering-infra",
+      "sender": "EMP-002",
+      "timestamp": "2026-08-02T09:00:00",
+      "message": "API Gateway upgrade is at risk \u2014 performance tests failing on the new routing layer.",
+      "department": "Engineering",
+      "project_id": "PRJ-009",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0026",
+      "channel": "engineering-infra",
+      "sender": "EMP-002",
+      "timestamp": "2026-08-06T14:00:00",
+      "message": "Found the routing bottleneck \u2014 connection pool misconfiguration. Fix deployed.",
+      "department": "Engineering",
+      "project_id": "PRJ-009",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0028",
+      "channel": "engineering-payments",
+      "sender": "EMP-001",
+      "timestamp": "2026-07-24T16:00:00",
+      "message": "Only I have access to the legacy payment processor config.",
+      "department": "Engineering",
+      "project_id": "PRJ-001",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0029",
+      "channel": "engineering-payments",
+      "sender": "EMP-001",
+      "timestamp": "2026-07-31T11:00:00",
+      "message": "Another question about the payment processor \u2014 I'm the only one who knows this system.",
+      "department": "Engineering",
+      "project_id": "PRJ-001",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0030",
+      "channel": "engineering-platform",
+      "sender": "EMP-005",
+      "timestamp": "2026-08-05T10:00:00",
+      "message": "We need to document the payment processor setup. Rahul is a single point of failure here.",
+      "department": "Engineering",
+      "project_id": "PRJ-001",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0031",
+      "channel": "hr-general",
+      "sender": "EMP-005",
+      "timestamp": "2026-07-22T10:00:00",
+      "message": "Quick update on HR Onboarding System \u2014 making progress on my assigned items.",
+      "department": "HR",
+      "project_id": "PRJ-007",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0032",
+      "channel": "marketing-general",
+      "sender": "EMP-028",
+      "timestamp": "2026-07-22T14:00:00",
+      "message": "Can we sync on Q3 Brand Campaign priorities for this week?",
+      "department": "Marketing",
+      "project_id": "PRJ-003",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0033",
+      "channel": "sales-general",
+      "sender": "EMP-036",
+      "timestamp": "2026-07-22T17:00:00",
+      "message": "Product wants the Enterprise Sales Pipeline feature before the September release.",
+      "department": "Sales",
+      "project_id": "PRJ-004",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0034",
+      "channel": "product-general",
+      "sender": "EMP-022",
+      "timestamp": "2026-07-22T15:00:00",
+      "message": "Completed the review for Mobile App v2. Ready for next steps.",
+      "department": "Product",
+      "project_id": "PRJ-002",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0035",
+      "channel": "finance-general",
+      "sender": "EMP-056",
+      "timestamp": "2026-07-22T09:00:00",
+      "message": "Completed the review for Budget Planning FY26. Ready for next steps.",
+      "department": "Finance",
+      "project_id": "PRJ-008",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0036",
+      "channel": "product-general",
+      "sender": "EMP-023",
+      "timestamp": "2026-07-23T17:00:00",
+      "message": "Can we sync on Mobile App v2 priorities for this week?",
+      "department": "Product",
+      "project_id": "PRJ-002",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0037",
+      "channel": "engineering-general",
+      "sender": "EMP-010",
+      "timestamp": "2026-07-23T12:00:00",
+      "message": "Quick update on Security Compliance Audit \u2014 making progress on my assigned items.",
+      "department": "Engineering",
+      "project_id": "PRJ-011",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0038",
+      "channel": "product-general",
+      "sender": "EMP-023",
+      "timestamp": "2026-07-23T10:00:00",
+      "message": "Completed the review for Customer Analytics Portal. Ready for next steps.",
+      "department": "Product",
+      "project_id": "PRJ-006",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0039",
+      "channel": "sales-general",
+      "sender": "EMP-037",
+      "timestamp": "2026-07-23T15:00:00",
+      "message": "Product wants the Enterprise Sales Pipeline feature before the September release.",
+      "department": "Sales",
+      "project_id": "PRJ-004",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0040",
+      "channel": "sales-general",
+      "sender": "EMP-039",
+      "timestamp": "2026-07-24T09:00:00",
+      "message": "Can we sync on Partner Integration Hub priorities for this week?",
+      "department": "Sales",
+      "project_id": "PRJ-010",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0041",
+      "channel": "product-general",
+      "sender": "EMP-018",
+      "timestamp": "2026-07-24T14:00:00",
+      "message": "Completed the review for Customer Analytics Portal. Ready for next steps.",
+      "department": "Product",
+      "project_id": "PRJ-006",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0042",
+      "channel": "engineering-general",
+      "sender": "EMP-012",
+      "timestamp": "2026-07-25T15:00:00",
+      "message": "Quick update on Analytics Dashboard \u2014 making progress on my assigned items.",
+      "department": "Engineering",
+      "project_id": "PRJ-005",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0043",
+      "channel": "engineering-general",
+      "sender": "EMP-010",
+      "timestamp": "2026-07-25T10:00:00",
+      "message": "Product wants the Payments Platform feature before the September release.",
+      "department": "Engineering",
+      "project_id": "PRJ-001",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0044",
+      "channel": "marketing-general",
+      "sender": "EMP-025",
+      "timestamp": "2026-07-26T16:00:00",
+      "message": "Completed the review for Content Management Revamp. Ready for next steps.",
+      "department": "Marketing",
+      "project_id": "PRJ-012",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0045",
+      "channel": "engineering-general",
+      "sender": "EMP-011",
+      "timestamp": "2026-07-26T13:00:00",
+      "message": "Completed the review for API Gateway Upgrade. Ready for next steps.",
+      "department": "Engineering",
+      "project_id": "PRJ-009",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0046",
+      "channel": "hr-general",
+      "sender": "EMP-050",
+      "timestamp": "2026-07-26T09:00:00",
+      "message": "Can we sync on HR Onboarding System priorities for this week?",
+      "department": "HR",
+      "project_id": "PRJ-007",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0047",
+      "channel": "hr-general",
+      "sender": "EMP-049",
+      "timestamp": "2026-07-27T10:00:00",
+      "message": "Completed the review for HR Onboarding System. Ready for next steps.",
+      "department": "HR",
+      "project_id": "PRJ-007",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0048",
+      "channel": "marketing-general",
+      "sender": "EMP-029",
+      "timestamp": "2026-07-27T16:00:00",
+      "message": "Product wants the Content Management Revamp feature before the September release.",
+      "department": "Marketing",
+      "project_id": "PRJ-012",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0049",
+      "channel": "marketing-general",
+      "sender": "EMP-029",
+      "timestamp": "2026-07-27T13:00:00",
+      "message": "Can we sync on Content Management Revamp priorities for this week?",
+      "department": "Marketing",
+      "project_id": "PRJ-012",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0050",
+      "channel": "product-general",
+      "sender": "EMP-023",
+      "timestamp": "2026-07-28T10:00:00",
+      "message": "Completed the review for Customer Analytics Portal. Ready for next steps.",
+      "department": "Product",
+      "project_id": "PRJ-006",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0051",
+      "channel": "hr-general",
+      "sender": "EMP-044",
+      "timestamp": "2026-07-28T17:00:00",
+      "message": "Completed the review for HR Onboarding System. Ready for next steps.",
+      "department": "HR",
+      "project_id": "PRJ-007",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0052",
+      "channel": "engineering-general",
+      "sender": "EMP-015",
+      "timestamp": "2026-07-29T09:00:00",
+      "message": "Quick update on Security Compliance Audit \u2014 making progress on my assigned items.",
+      "department": "Engineering",
+      "project_id": "PRJ-011",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0053",
+      "channel": "engineering-general",
+      "sender": "EMP-014",
+      "timestamp": "2026-07-29T12:00:00",
+      "message": "Can we sync on API Gateway Upgrade priorities for this week?",
+      "department": "Engineering",
+      "project_id": "PRJ-009",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0054",
+      "channel": "product-general",
+      "sender": "EMP-019",
+      "timestamp": "2026-07-30T10:00:00",
+      "message": "Quick update on Customer Analytics Portal \u2014 making progress on my assigned items.",
+      "department": "Product",
+      "project_id": "PRJ-006",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0055",
+      "channel": "marketing-general",
+      "sender": "EMP-032",
+      "timestamp": "2026-07-30T11:00:00",
+      "message": "Can we sync on Content Management Revamp priorities for this week?",
+      "department": "Marketing",
+      "project_id": "PRJ-012",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0056",
+      "channel": "marketing-general",
+      "sender": "EMP-025",
+      "timestamp": "2026-07-30T17:00:00",
+      "message": "Product wants the Q3 Brand Campaign feature before the September release.",
+      "department": "Marketing",
+      "project_id": "PRJ-003",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0057",
+      "channel": "finance-general",
+      "sender": "EMP-054",
+      "timestamp": "2026-07-30T10:00:00",
+      "message": "Flagging a dependency on another team for Budget Planning FY26.",
+      "department": "Finance",
+      "project_id": "PRJ-008",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0058",
+      "channel": "marketing-general",
+      "sender": "EMP-028",
+      "timestamp": "2026-07-31T16:00:00",
+      "message": "Quick update on Q3 Brand Campaign \u2014 making progress on my assigned items.",
+      "department": "Marketing",
+      "project_id": "PRJ-003",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0059",
+      "channel": "finance-general",
+      "sender": "EMP-056",
+      "timestamp": "2026-07-31T15:00:00",
+      "message": "Product wants the Budget Planning FY26 feature before the September release.",
+      "department": "Finance",
+      "project_id": "PRJ-008",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0060",
+      "channel": "hr-general",
+      "sender": "EMP-046",
+      "timestamp": "2026-08-01T13:00:00",
+      "message": "Quick update on HR Onboarding System \u2014 making progress on my assigned items.",
+      "department": "HR",
+      "project_id": "PRJ-007",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0061",
+      "channel": "marketing-general",
+      "sender": "EMP-026",
+      "timestamp": "2026-08-01T14:00:00",
+      "message": "Can we sync on Q3 Brand Campaign priorities for this week?",
+      "department": "Marketing",
+      "project_id": "PRJ-003",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0062",
+      "channel": "finance-general",
+      "sender": "EMP-052",
+      "timestamp": "2026-08-01T14:00:00",
+      "message": "Quick update on Budget Planning FY26 \u2014 making progress on my assigned items.",
+      "department": "Finance",
+      "project_id": "PRJ-008",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0063",
+      "channel": "marketing-general",
+      "sender": "EMP-028",
+      "timestamp": "2026-08-01T12:00:00",
+      "message": "Flagging a dependency on another team for Q3 Brand Campaign.",
+      "department": "Marketing",
+      "project_id": "PRJ-003",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0064",
+      "channel": "sales-general",
+      "sender": "EMP-038",
+      "timestamp": "2026-08-01T17:00:00",
+      "message": "Quick update on Partner Integration Hub \u2014 making progress on my assigned items.",
+      "department": "Sales",
+      "project_id": "PRJ-010",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0065",
+      "channel": "finance-general",
+      "sender": "EMP-056",
+      "timestamp": "2026-08-02T14:00:00",
+      "message": "Can we sync on Budget Planning FY26 priorities for this week?",
+      "department": "Finance",
+      "project_id": "PRJ-008",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0066",
+      "channel": "product-general",
+      "sender": "EMP-022",
+      "timestamp": "2026-08-02T10:00:00",
+      "message": "Product wants the Mobile App v2 feature before the September release.",
+      "department": "Product",
+      "project_id": "PRJ-002",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0067",
+      "channel": "sales-general",
+      "sender": "EMP-041",
+      "timestamp": "2026-08-02T17:00:00",
+      "message": "Product wants the Enterprise Sales Pipeline feature before the September release.",
+      "department": "Sales",
+      "project_id": "PRJ-004",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0068",
+      "channel": "engineering-general",
+      "sender": "EMP-013",
+      "timestamp": "2026-08-02T14:00:00",
+      "message": "Can we sync on API Gateway Upgrade priorities for this week?",
+      "department": "Engineering",
+      "project_id": "PRJ-009",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0069",
+      "channel": "product-general",
+      "sender": "EMP-016",
+      "timestamp": "2026-08-02T11:00:00",
+      "message": "Completed the review for Mobile App v2. Ready for next steps.",
+      "department": "Product",
+      "project_id": "PRJ-002",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0070",
+      "channel": "engineering-general",
+      "sender": "EMP-012",
+      "timestamp": "2026-08-03T10:00:00",
+      "message": "Can we sync on Analytics Dashboard priorities for this week?",
+      "department": "Engineering",
+      "project_id": "PRJ-005",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0071",
+      "channel": "hr-general",
+      "sender": "EMP-050",
+      "timestamp": "2026-08-03T16:00:00",
+      "message": "Product wants the HR Onboarding System feature before the September release.",
+      "department": "HR",
+      "project_id": "PRJ-007",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0072",
+      "channel": "hr-general",
+      "sender": "EMP-049",
+      "timestamp": "2026-08-03T14:00:00",
+      "message": "Completed the review for HR Onboarding System. Ready for next steps.",
+      "department": "HR",
+      "project_id": "PRJ-007",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0073",
+      "channel": "marketing-general",
+      "sender": "EMP-029",
+      "timestamp": "2026-08-04T16:00:00",
+      "message": "Flagging a dependency on another team for Q3 Brand Campaign.",
+      "department": "Marketing",
+      "project_id": "PRJ-003",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0074",
+      "channel": "sales-general",
+      "sender": "EMP-041",
+      "timestamp": "2026-08-04T13:00:00",
+      "message": "Product wants the Partner Integration Hub feature before the September release.",
+      "department": "Sales",
+      "project_id": "PRJ-010",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0075",
+      "channel": "sales-general",
+      "sender": "EMP-004",
+      "timestamp": "2026-08-04T17:00:00",
+      "message": "Quick update on Partner Integration Hub \u2014 making progress on my assigned items.",
+      "department": "Sales",
+      "project_id": "PRJ-010",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0076",
+      "channel": "marketing-general",
+      "sender": "EMP-030",
+      "timestamp": "2026-08-05T09:00:00",
+      "message": "Quick update on Content Management Revamp \u2014 making progress on my assigned items.",
+      "department": "Marketing",
+      "project_id": "PRJ-012",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0077",
+      "channel": "product-general",
+      "sender": "EMP-024",
+      "timestamp": "2026-08-05T10:00:00",
+      "message": "Quick update on Customer Analytics Portal \u2014 making progress on my assigned items.",
+      "department": "Product",
+      "project_id": "PRJ-006",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0078",
+      "channel": "sales-general",
+      "sender": "EMP-040",
+      "timestamp": "2026-08-05T16:00:00",
+      "message": "Product wants the Partner Integration Hub feature before the September release.",
+      "department": "Sales",
+      "project_id": "PRJ-010",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0079",
+      "channel": "sales-general",
+      "sender": "EMP-036",
+      "timestamp": "2026-08-05T16:00:00",
+      "message": "Product wants the Enterprise Sales Pipeline feature before the September release.",
+      "department": "Sales",
+      "project_id": "PRJ-004",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0080",
+      "channel": "product-general",
+      "sender": "EMP-021",
+      "timestamp": "2026-08-06T17:00:00",
+      "message": "Can we sync on Customer Analytics Portal priorities for this week?",
+      "department": "Product",
+      "project_id": "PRJ-006",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0081",
+      "channel": "sales-general",
+      "sender": "EMP-004",
+      "timestamp": "2026-08-06T10:00:00",
+      "message": "Completed the review for Partner Integration Hub. Ready for next steps.",
+      "department": "Sales",
+      "project_id": "PRJ-010",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0082",
+      "channel": "hr-general",
+      "sender": "EMP-046",
+      "timestamp": "2026-08-06T17:00:00",
+      "message": "Can we sync on HR Onboarding System priorities for this week?",
+      "department": "HR",
+      "project_id": "PRJ-007",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0083",
+      "channel": "product-general",
+      "sender": "EMP-016",
+      "timestamp": "2026-08-07T16:00:00",
+      "message": "Product wants the Customer Analytics Portal feature before the September release.",
+      "department": "Product",
+      "project_id": "PRJ-006",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0084",
+      "channel": "sales-general",
+      "sender": "EMP-034",
+      "timestamp": "2026-08-07T14:00:00",
+      "message": "Completed the review for Enterprise Sales Pipeline. Ready for next steps.",
+      "department": "Sales",
+      "project_id": "PRJ-004",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0085",
+      "channel": "marketing-general",
+      "sender": "EMP-025",
+      "timestamp": "2026-08-08T14:00:00",
+      "message": "Product wants the Content Management Revamp feature before the September release.",
+      "department": "Marketing",
+      "project_id": "PRJ-012",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0086",
+      "channel": "sales-general",
+      "sender": "EMP-004",
+      "timestamp": "2026-08-08T10:00:00",
+      "message": "Completed the review for Partner Integration Hub. Ready for next steps.",
+      "department": "Sales",
+      "project_id": "PRJ-010",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0087",
+      "channel": "engineering-general",
+      "sender": "EMP-007",
+      "timestamp": "2026-08-08T13:00:00",
+      "message": "Completed the review for Security Compliance Audit. Ready for next steps.",
+      "department": "Engineering",
+      "project_id": "PRJ-011",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0088",
+      "channel": "hr-general",
+      "sender": "EMP-047",
+      "timestamp": "2026-08-08T14:00:00",
+      "message": "Quick update on HR Onboarding System \u2014 making progress on my assigned items.",
+      "department": "HR",
+      "project_id": "PRJ-007",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0089",
+      "channel": "finance-general",
+      "sender": "EMP-059",
+      "timestamp": "2026-08-09T13:00:00",
+      "message": "Flagging a dependency on another team for Budget Planning FY26.",
+      "department": "Finance",
+      "project_id": "PRJ-008",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0090",
+      "channel": "engineering-general",
+      "sender": "EMP-009",
+      "timestamp": "2026-08-09T13:00:00",
+      "message": "Product wants the Payments Platform feature before the September release.",
+      "department": "Engineering",
+      "project_id": "PRJ-001",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0091",
+      "channel": "marketing-general",
+      "sender": "EMP-025",
+      "timestamp": "2026-08-09T11:00:00",
+      "message": "Product wants the Content Management Revamp feature before the September release.",
+      "department": "Marketing",
+      "project_id": "PRJ-012",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0092",
+      "channel": "sales-general",
+      "sender": "EMP-042",
+      "timestamp": "2026-08-10T17:00:00",
+      "message": "Completed the review for Partner Integration Hub. Ready for next steps.",
+      "department": "Sales",
+      "project_id": "PRJ-010",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0093",
+      "channel": "product-general",
+      "sender": "EMP-002",
+      "timestamp": "2026-08-10T13:00:00",
+      "message": "Can we sync on Customer Analytics Portal priorities for this week?",
+      "department": "Product",
+      "project_id": "PRJ-006",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0094",
+      "channel": "product-general",
+      "sender": "EMP-022",
+      "timestamp": "2026-08-11T12:00:00",
+      "message": "Can we sync on Customer Analytics Portal priorities for this week?",
+      "department": "Product",
+      "project_id": "PRJ-006",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0095",
+      "channel": "engineering-general",
+      "sender": "EMP-009",
+      "timestamp": "2026-08-11T10:00:00",
+      "message": "Completed the review for Analytics Dashboard. Ready for next steps.",
+      "department": "Engineering",
+      "project_id": "PRJ-005",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0096",
+      "channel": "finance-general",
+      "sender": "EMP-055",
+      "timestamp": "2026-08-11T17:00:00",
+      "message": "Product wants the Budget Planning FY26 feature before the September release.",
+      "department": "Finance",
+      "project_id": "PRJ-008",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0097",
+      "channel": "hr-general",
+      "sender": "EMP-043",
+      "timestamp": "2026-08-12T11:00:00",
+      "message": "Product wants the HR Onboarding System feature before the September release.",
+      "department": "HR",
+      "project_id": "PRJ-007",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0098",
+      "channel": "marketing-general",
+      "sender": "EMP-025",
+      "timestamp": "2026-08-12T11:00:00",
+      "message": "Can we sync on Q3 Brand Campaign priorities for this week?",
+      "department": "Marketing",
+      "project_id": "PRJ-003",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0099",
+      "channel": "hr-general",
+      "sender": "EMP-047",
+      "timestamp": "2026-08-13T09:00:00",
+      "message": "Flagging a dependency on another team for HR Onboarding System.",
+      "department": "HR",
+      "project_id": "PRJ-007",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0100",
+      "channel": "product-general",
+      "sender": "EMP-024",
+      "timestamp": "2026-08-13T16:00:00",
+      "message": "Product wants the Mobile App v2 feature before the September release.",
+      "department": "Product",
+      "project_id": "PRJ-002",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0101",
+      "channel": "product-general",
+      "sender": "EMP-019",
+      "timestamp": "2026-08-13T12:00:00",
+      "message": "Product wants the Customer Analytics Portal feature before the September release.",
+      "department": "Product",
+      "project_id": "PRJ-006",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0102",
+      "channel": "product-general",
+      "sender": "EMP-020",
+      "timestamp": "2026-08-14T12:00:00",
+      "message": "Completed the review for Customer Analytics Portal. Ready for next steps.",
+      "department": "Product",
+      "project_id": "PRJ-006",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0103",
+      "channel": "hr-general",
+      "sender": "EMP-044",
+      "timestamp": "2026-08-14T16:00:00",
+      "message": "Completed the review for HR Onboarding System. Ready for next steps.",
+      "department": "HR",
+      "project_id": "PRJ-007",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0104",
+      "channel": "hr-general",
+      "sender": "EMP-050",
+      "timestamp": "2026-08-14T17:00:00",
+      "message": "Product wants the HR Onboarding System feature before the September release.",
+      "department": "HR",
+      "project_id": "PRJ-007",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0105",
+      "channel": "engineering-general",
+      "sender": "EMP-011",
+      "timestamp": "2026-08-15T11:00:00",
+      "message": "Completed the review for Analytics Dashboard. Ready for next steps.",
+      "department": "Engineering",
+      "project_id": "PRJ-005",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0106",
+      "channel": "sales-general",
+      "sender": "EMP-004",
+      "timestamp": "2026-08-15T14:00:00",
+      "message": "Product wants the Partner Integration Hub feature before the September release.",
+      "department": "Sales",
+      "project_id": "PRJ-010",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0107",
+      "channel": "finance-general",
+      "sender": "EMP-060",
+      "timestamp": "2026-08-15T17:00:00",
+      "message": "Quick update on Budget Planning FY26 \u2014 making progress on my assigned items.",
+      "department": "Finance",
+      "project_id": "PRJ-008",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0108",
+      "channel": "product-general",
+      "sender": "EMP-019",
+      "timestamp": "2026-08-15T11:00:00",
+      "message": "Completed the review for Mobile App v2. Ready for next steps.",
+      "department": "Product",
+      "project_id": "PRJ-002",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0109",
+      "channel": "marketing-general",
+      "sender": "EMP-029",
+      "timestamp": "2026-08-15T15:00:00",
+      "message": "Quick update on Q3 Brand Campaign \u2014 making progress on my assigned items.",
+      "department": "Marketing",
+      "project_id": "PRJ-003",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0110",
+      "channel": "finance-general",
+      "sender": "EMP-053",
+      "timestamp": "2026-08-16T14:00:00",
+      "message": "Quick update on Budget Planning FY26 \u2014 making progress on my assigned items.",
+      "department": "Finance",
+      "project_id": "PRJ-008",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0111",
+      "channel": "marketing-general",
+      "sender": "EMP-027",
+      "timestamp": "2026-08-16T15:00:00",
+      "message": "Product wants the Q3 Brand Campaign feature before the September release.",
+      "department": "Marketing",
+      "project_id": "PRJ-003",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0112",
+      "channel": "product-general",
+      "sender": "EMP-024",
+      "timestamp": "2026-08-16T15:00:00",
+      "message": "Quick update on Mobile App v2 \u2014 making progress on my assigned items.",
+      "department": "Product",
+      "project_id": "PRJ-002",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0113",
+      "channel": "engineering-general",
+      "sender": "EMP-015",
+      "timestamp": "2026-08-17T14:00:00",
+      "message": "Quick update on Payments Platform \u2014 making progress on my assigned items.",
+      "department": "Engineering",
+      "project_id": "PRJ-001",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0114",
+      "channel": "finance-general",
+      "sender": "EMP-054",
+      "timestamp": "2026-08-17T11:00:00",
+      "message": "Can we sync on Budget Planning FY26 priorities for this week?",
+      "department": "Finance",
+      "project_id": "PRJ-008",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0115",
+      "channel": "marketing-general",
+      "sender": "EMP-003",
+      "timestamp": "2026-08-17T16:00:00",
+      "message": "Can we sync on Content Management Revamp priorities for this week?",
+      "department": "Marketing",
+      "project_id": "PRJ-012",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0116",
+      "channel": "hr-general",
+      "sender": "EMP-049",
+      "timestamp": "2026-08-17T16:00:00",
+      "message": "Product wants the HR Onboarding System feature before the September release.",
+      "department": "HR",
+      "project_id": "PRJ-007",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0117",
+      "channel": "finance-general",
+      "sender": "EMP-058",
+      "timestamp": "2026-08-18T09:00:00",
+      "message": "Completed the review for Budget Planning FY26. Ready for next steps.",
+      "department": "Finance",
+      "project_id": "PRJ-008",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0118",
+      "channel": "engineering-general",
+      "sender": "EMP-014",
+      "timestamp": "2026-08-18T17:00:00",
+      "message": "Product wants the Analytics Dashboard feature before the September release.",
+      "department": "Engineering",
+      "project_id": "PRJ-005",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0119",
+      "channel": "engineering-general",
+      "sender": "EMP-008",
+      "timestamp": "2026-08-19T12:00:00",
+      "message": "Completed the review for API Gateway Upgrade. Ready for next steps.",
+      "department": "Engineering",
+      "project_id": "PRJ-009",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0120",
+      "channel": "engineering-general",
+      "sender": "EMP-008",
+      "timestamp": "2026-08-19T12:00:00",
+      "message": "Flagging a dependency on another team for Payments Platform.",
+      "department": "Engineering",
+      "project_id": "PRJ-001",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0121",
+      "channel": "sales-general",
+      "sender": "EMP-041",
+      "timestamp": "2026-08-19T10:00:00",
+      "message": "Quick update on Partner Integration Hub \u2014 making progress on my assigned items.",
+      "department": "Sales",
+      "project_id": "PRJ-010",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0122",
+      "channel": "finance-general",
+      "sender": "EMP-054",
+      "timestamp": "2026-08-19T17:00:00",
+      "message": "Quick update on Budget Planning FY26 \u2014 making progress on my assigned items.",
+      "department": "Finance",
+      "project_id": "PRJ-008",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0123",
+      "channel": "sales-general",
+      "sender": "EMP-041",
+      "timestamp": "2026-08-19T11:00:00",
+      "message": "Completed the review for Enterprise Sales Pipeline. Ready for next steps.",
+      "department": "Sales",
+      "project_id": "PRJ-004",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0124",
+      "channel": "engineering-general",
+      "sender": "EMP-001",
+      "timestamp": "2026-08-20T12:00:00",
+      "message": "Product wants the API Gateway Upgrade feature before the September release.",
+      "department": "Engineering",
+      "project_id": "PRJ-009",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0125",
+      "channel": "marketing-general",
+      "sender": "EMP-027",
+      "timestamp": "2026-08-20T10:00:00",
+      "message": "Product wants the Q3 Brand Campaign feature before the September release.",
+      "department": "Marketing",
+      "project_id": "PRJ-003",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0126",
+      "channel": "product-general",
+      "sender": "EMP-024",
+      "timestamp": "2026-08-20T17:00:00",
+      "message": "Product wants the Mobile App v2 feature before the September release.",
+      "department": "Product",
+      "project_id": "PRJ-002",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0127",
+      "channel": "marketing-general",
+      "sender": "EMP-033",
+      "timestamp": "2026-08-20T15:00:00",
+      "message": "Flagging a dependency on another team for Q3 Brand Campaign.",
+      "department": "Marketing",
+      "project_id": "PRJ-003",
+      "thread_id": null
+    },
+    {
+      "id": "SLK-0128",
+      "channel": "marketing-general",
+      "sender": "EMP-003",
+      "timestamp": "2026-08-20T14:00:00",
+      "message": "Completed the review for Content Management Revamp. Ready for next steps.",
+      "department": "Marketing",
+      "project_id": "PRJ-012",
+      "thread_id": null
+    }
+  ],
+  "meetings": [
+    {
+      "id": "MTG-0005",
+      "date": "2026-07-26T11:00:00",
+      "participants": [
+        "EMP-001",
+        "EMP-002",
+        "EMP-005"
+      ],
+      "department": "Engineering",
+      "project_id": "PRJ-001",
+      "transcript": "Engineering standup. Rahul: Payments webhook is blocked on infrastructure deployment. Amit: Security review is the gating item. Vikram: This puts the launch timeline at risk."
+    },
+    {
+      "id": "MTG-0014",
+      "date": "2026-07-28T10:00:00",
+      "participants": [
+        "EMP-003",
+        "EMP-004",
+        "EMP-006"
+      ],
+      "department": "Marketing",
+      "project_id": "PRJ-003",
+      "transcript": "Campaign planning meeting. Decision: launch moved from Thursday to Monday due to incomplete creative assets. Ananya to prioritize hero banner delivery by Friday."
+    },
+    {
+      "id": "MTG-0018",
+      "date": "2026-07-29T14:00:00",
+      "participants": [
+        "EMP-005",
+        "EMP-006",
+        "EMP-007"
+      ],
+      "department": "Product",
+      "project_id": "PRJ-006",
+      "transcript": "Cross-team sync on analytics. Identified overlap between Engineering's Analytics Dashboard and Product's Customer Analytics Portal. Agreed to consolidate requirements."
+    },
+    {
+      "id": "MTG-0021",
+      "date": "2026-07-30T15:00:00",
+      "participants": [
+        "EMP-001",
+        "EMP-005",
+        "EMP-007"
+      ],
+      "department": "Engineering",
+      "project_id": "PRJ-001",
+      "transcript": "Architecture review. Decision confirmed: Payments notifications will use async message queue processing. Rahul to implement. Target: next sprint."
+    },
+    {
+      "id": "MTG-0023",
+      "date": "2026-08-01T10:00:00",
+      "participants": [
+        "EMP-015",
+        "EMP-060",
+        "EMP-001"
+      ],
+      "department": "HR",
+      "project_id": "PRJ-007",
+      "transcript": "Onboarding session for Kamala Sinha. Covered company policies, tools access, and team introductions. New hire assigned to Platform team under Engineering."
+    }
+  ],
+  "jira": [
+    {
+      "id": "JIR-0006",
+      "task_id": "PAY-183",
+      "assignee": "EMP-001",
+      "timestamp": "2026-07-26T14:00:00",
+      "comment": "Blocked: waiting for infrastructure to deploy webhook changes",
+      "department": "Engineering",
+      "project_id": "PRJ-001",
+      "status": "blocked",
+      "summary": "Blocked: waiting for infrastructure to deploy webhook changes"
+    },
+    {
+      "id": "JIR-0008",
+      "task_id": "PAY-183",
+      "assignee": "EMP-001",
+      "timestamp": "2026-08-01T16:00:00",
+      "comment": "Infrastructure dependency resolved. Resuming webhook work.",
+      "department": "Engineering",
+      "project_id": "PRJ-001",
+      "status": "in_progress",
+      "summary": "Infrastructure dependency resolved. Resuming webhook work."
+    },
+    {
+      "id": "JIR-0010",
+      "task_id": "PAY-183",
+      "assignee": "EMP-001",
+      "timestamp": "2026-08-03T18:00:00",
+      "comment": "Completed: webhook retry logic merged to main.",
+      "department": "Engineering",
+      "project_id": "PRJ-001",
+      "status": "done",
+      "summary": "Completed: webhook retry logic merged to main."
+    },
+    {
+      "id": "JIR-0025",
+      "task_id": "API-042",
+      "assignee": "EMP-002",
+      "timestamp": "2026-08-04T11:00:00",
+      "comment": "Project at risk: performance test failures on routing layer",
+      "department": "Engineering",
+      "project_id": "PRJ-009",
+      "status": "blocked",
+      "summary": "Project at risk: performance test failures on routing layer"
+    },
+    {
+      "id": "JIR-0027",
+      "task_id": "API-042",
+      "assignee": "EMP-002",
+      "timestamp": "2026-08-08T16:00:00",
+      "comment": "Performance tests passing. Project back on track.",
+      "department": "Engineering",
+      "project_id": "PRJ-009",
+      "status": "done",
+      "summary": "Performance tests passing. Project back on track."
+    }
+  ]
+}

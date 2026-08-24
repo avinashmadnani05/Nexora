@@ -1,0 +1,62 @@
+[
+  {
+    "id": "MTG-0005",
+    "date": "2026-07-26T11:00:00",
+    "participants": [
+      "EMP-001",
+      "EMP-002",
+      "EMP-005"
+    ],
+    "department": "Engineering",
+    "project_id": "PRJ-001",
+    "transcript": "Engineering standup. Rahul: Payments webhook is blocked on infrastructure deployment. Amit: Security review is the gating item. Vikram: This puts the launch timeline at risk."
+  },
+  {
+    "id": "MTG-0014",
+    "date": "2026-07-28T10:00:00",
+    "participants": [
+      "EMP-003",
+      "EMP-004",
+      "EMP-006"
+    ],
+    "department": "Marketing",
+    "project_id": "PRJ-003",
+    "transcript": "Campaign planning meeting. Decision: launch moved from Thursday to Monday due to incomplete creative assets. Ananya to prioritize hero banner delivery by Friday."
+  },
+  {
+    "id": "MTG-0018",
+    "date": "2026-07-29T14:00:00",
+    "participants": [
+      "EMP-005",
+      "EMP-006",
+      "EMP-007"
+    ],
+    "department": "Product",
+    "project_id": "PRJ-006",
+    "transcript": "Cross-team sync on analytics. Identified overlap between Engineering's Analytics Dashboard and Product's Customer Analytics Portal. Agreed to consolidate requirements."
+  },
+  {
+    "id": "MTG-0021",
+    "date": "2026-07-30T15:00:00",
+    "participants": [
+      "EMP-001",
+      "EMP-005",
+      "EMP-007"
+    ],
+    "department": "Engineering",
+    "project_id": "PRJ-001",
+    "transcript": "Architecture review. Decision confirmed: Payments notifications will use async message queue processing. Rahul to implement. Target: next sprint."
+  },
+  {
+    "id": "MTG-0023",
+    "date": "2026-08-01T10:00:00",
+    "participants": [
+      "EMP-015",
+      "EMP-060",
+      "EMP-001"
+    ],
+    "department": "HR",
+    "project_id": "PRJ-007",
+    "transcript": "Onboarding session for Kamala Sinha. Covered company policies, tools access, and team introductions. New hire assigned to Platform team under Engineering."
+  }
+]

@@ -1,0 +1,776 @@
+[
+  {
+    "id": "EMP-001",
+    "name": "Rahul Sharma",
+    "department": "Engineering",
+    "team": "Platform",
+    "role": "Engineering Manager",
+    "manager": null,
+    "skills": [
+      "leadership",
+      "strategy"
+    ]
+  },
+  {
+    "id": "EMP-002",
+    "name": "Amit Patel",
+    "department": "Product",
+    "team": "Core Product",
+    "role": "Product Manager",
+    "manager": null,
+    "skills": [
+      "leadership",
+      "strategy"
+    ]
+  },
+  {
+    "id": "EMP-003",
+    "name": "Priya Gupta",
+    "department": "Marketing",
+    "team": "Brand",
+    "role": "Marketing Manager",
+    "manager": null,
+    "skills": [
+      "leadership",
+      "strategy"
+    ]
+  },
+  {
+    "id": "EMP-004",
+    "name": "Sneha Singh",
+    "department": "Sales",
+    "team": "Enterprise",
+    "role": "Sales Manager",
+    "manager": null,
+    "skills": [
+      "leadership",
+      "strategy"
+    ]
+  },
+  {
+    "id": "EMP-005",
+    "name": "Vikram Kumar",
+    "department": "HR",
+    "team": "Talent",
+    "role": "HR Manager",
+    "manager": null,
+    "skills": [
+      "leadership",
+      "strategy"
+    ]
+  },
+  {
+    "id": "EMP-006",
+    "name": "Ananya Reddy",
+    "department": "Finance",
+    "team": "FP&A",
+    "role": "Finance Manager",
+    "manager": null,
+    "skills": [
+      "leadership",
+      "strategy"
+    ]
+  },
+  {
+    "id": "EMP-007",
+    "name": "Karan Nair",
+    "department": "Engineering",
+    "team": "Platform",
+    "role": "Software Engineer",
+    "manager": "EMP-001",
+    "skills": [
+      "python",
+      "react",
+      "communication"
+    ]
+  },
+  {
+    "id": "EMP-008",
+    "name": "Meera Iyer",
+    "department": "Engineering",
+    "team": "Payments",
+    "role": "Senior Engineer",
+    "manager": "EMP-001",
+    "skills": [
+      "analytics",
+      "sales",
+      "communication"
+    ]
+  },
+  {
+    "id": "EMP-009",
+    "name": "Arjun Menon",
+    "department": "Engineering",
+    "team": "Infrastructure",
+    "role": "Staff Engineer",
+    "manager": "EMP-001",
+    "skills": [
+      "sql",
+      "react",
+      "analytics"
+    ]
+  },
+  {
+    "id": "EMP-010",
+    "name": "Divya Joshi",
+    "department": "Engineering",
+    "team": "Mobile",
+    "role": "Engineering Manager",
+    "manager": "EMP-001",
+    "skills": [
+      "communication",
+      "sales",
+      "design"
+    ]
+  },
+  {
+    "id": "EMP-011",
+    "name": "Rohan Desai",
+    "department": "Engineering",
+    "team": "Data",
+    "role": "DevOps Engineer",
+    "manager": "EMP-001",
+    "skills": [
+      "python",
+      "communication",
+      "sql"
+    ]
+  },
+  {
+    "id": "EMP-012",
+    "name": "Neha Rao",
+    "department": "Engineering",
+    "team": "Platform",
+    "role": "Software Engineer",
+    "manager": "EMP-001",
+    "skills": [
+      "communication",
+      "sql",
+      "sales"
+    ]
+  },
+  {
+    "id": "EMP-013",
+    "name": "Sanjay Verma",
+    "department": "Engineering",
+    "team": "Payments",
+    "role": "Senior Engineer",
+    "manager": "EMP-001",
+    "skills": [
+      "sales",
+      "python",
+      "react"
+    ]
+  },
+  {
+    "id": "EMP-014",
+    "name": "Kavita Malhotra",
+    "department": "Engineering",
+    "team": "Infrastructure",
+    "role": "Staff Engineer",
+    "manager": "EMP-001",
+    "skills": [
+      "sql",
+      "communication",
+      "sales"
+    ]
+  },
+  {
+    "id": "EMP-015",
+    "name": "Deepak Kapoor",
+    "department": "Engineering",
+    "team": "Mobile",
+    "role": "Engineering Manager",
+    "manager": "EMP-001",
+    "skills": [
+      "sql",
+      "sales",
+      "communication"
+    ]
+  },
+  {
+    "id": "EMP-016",
+    "name": "Pooja Chopra",
+    "department": "Product",
+    "team": "Core Product",
+    "role": "Product Manager",
+    "manager": "EMP-002",
+    "skills": [
+      "design",
+      "analytics",
+      "python"
+    ]
+  },
+  {
+    "id": "EMP-017",
+    "name": "Nikhil Banerjee",
+    "department": "Product",
+    "team": "Growth",
+    "role": "Senior PM",
+    "manager": "EMP-002",
+    "skills": [
+      "communication",
+      "python",
+      "sql"
+    ]
+  },
+  {
+    "id": "EMP-018",
+    "name": "Shreya Mukherjee",
+    "department": "Product",
+    "team": "Enterprise",
+    "role": "Product Analyst",
+    "manager": "EMP-002",
+    "skills": [
+      "sql",
+      "design",
+      "python"
+    ]
+  },
+  {
+    "id": "EMP-019",
+    "name": "Aditya Das",
+    "department": "Product",
+    "team": "Core Product",
+    "role": "Director of Product",
+    "manager": "EMP-002",
+    "skills": [
+      "design",
+      "communication",
+      "analytics"
+    ]
+  },
+  {
+    "id": "EMP-020",
+    "name": "Ritu Pillai",
+    "department": "Product",
+    "team": "Growth",
+    "role": "Product Manager",
+    "manager": "EMP-002",
+    "skills": [
+      "design",
+      "python",
+      "analytics"
+    ]
+  },
+  {
+    "id": "EMP-021",
+    "name": "Manish Shetty",
+    "department": "Product",
+    "team": "Enterprise",
+    "role": "Senior PM",
+    "manager": "EMP-002",
+    "skills": [
+      "communication",
+      "design",
+      "python"
+    ]
+  },
+  {
+    "id": "EMP-022",
+    "name": "Swati Kulkarni",
+    "department": "Product",
+    "team": "Core Product",
+    "role": "Product Analyst",
+    "manager": "EMP-002",
+    "skills": [
+      "react",
+      "analytics",
+      "sql"
+    ]
+  },
+  {
+    "id": "EMP-023",
+    "name": "Gaurav Mehta",
+    "department": "Product",
+    "team": "Growth",
+    "role": "Director of Product",
+    "manager": "EMP-002",
+    "skills": [
+      "analytics",
+      "communication",
+      "sales"
+    ]
+  },
+  {
+    "id": "EMP-024",
+    "name": "Tanvi Shah",
+    "department": "Product",
+    "team": "Enterprise",
+    "role": "Product Manager",
+    "manager": "EMP-002",
+    "skills": [
+      "design",
+      "python",
+      "react"
+    ]
+  },
+  {
+    "id": "EMP-025",
+    "name": "Rajesh Agarwal",
+    "department": "Marketing",
+    "team": "Brand",
+    "role": "Marketing Manager",
+    "manager": "EMP-003",
+    "skills": [
+      "sql",
+      "analytics",
+      "react"
+    ]
+  },
+  {
+    "id": "EMP-026",
+    "name": "Isha Bose",
+    "department": "Marketing",
+    "team": "Growth Marketing",
+    "role": "Content Strategist",
+    "manager": "EMP-003",
+    "skills": [
+      "sql",
+      "communication",
+      "sales"
+    ]
+  },
+  {
+    "id": "EMP-027",
+    "name": "Varun Chatterjee",
+    "department": "Marketing",
+    "team": "Content",
+    "role": "Campaign Manager",
+    "manager": "EMP-003",
+    "skills": [
+      "python",
+      "design",
+      "analytics"
+    ]
+  },
+  {
+    "id": "EMP-028",
+    "name": "Anjali Dutta",
+    "department": "Marketing",
+    "team": "Brand",
+    "role": "Designer",
+    "manager": "EMP-003",
+    "skills": [
+      "design",
+      "react",
+      "sales"
+    ]
+  },
+  {
+    "id": "EMP-029",
+    "name": "Suresh Ghosh",
+    "department": "Marketing",
+    "team": "Growth Marketing",
+    "role": "Marketing Manager",
+    "manager": "EMP-003",
+    "skills": [
+      "sql",
+      "analytics",
+      "python"
+    ]
+  },
+  {
+    "id": "EMP-030",
+    "name": "Preeti Sinha",
+    "department": "Marketing",
+    "team": "Content",
+    "role": "Content Strategist",
+    "manager": "EMP-003",
+    "skills": [
+      "analytics",
+      "communication",
+      "python"
+    ]
+  },
+  {
+    "id": "EMP-031",
+    "name": "Harish Sharma",
+    "department": "Marketing",
+    "team": "Brand",
+    "role": "Campaign Manager",
+    "manager": "EMP-003",
+    "skills": [
+      "react",
+      "python",
+      "communication"
+    ]
+  },
+  {
+    "id": "EMP-032",
+    "name": "Nidhi Patel",
+    "department": "Marketing",
+    "team": "Growth Marketing",
+    "role": "Designer",
+    "manager": "EMP-003",
+    "skills": [
+      "python",
+      "sales",
+      "react"
+    ]
+  },
+  {
+    "id": "EMP-033",
+    "name": "Ashok Gupta",
+    "department": "Marketing",
+    "team": "Content",
+    "role": "Marketing Manager",
+    "manager": "EMP-003",
+    "skills": [
+      "communication",
+      "sales",
+      "sql"
+    ]
+  },
+  {
+    "id": "EMP-034",
+    "name": "Komal Singh",
+    "department": "Sales",
+    "team": "Enterprise",
+    "role": "Account Executive",
+    "manager": "EMP-004",
+    "skills": [
+      "analytics",
+      "sales",
+      "sql"
+    ]
+  },
+  {
+    "id": "EMP-035",
+    "name": "Ravi Kumar",
+    "department": "Sales",
+    "team": "SMB",
+    "role": "Sales Manager",
+    "manager": "EMP-004",
+    "skills": [
+      "communication",
+      "design",
+      "sales"
+    ]
+  },
+  {
+    "id": "EMP-036",
+    "name": "Sunita Reddy",
+    "department": "Sales",
+    "team": "Partnerships",
+    "role": "SDR",
+    "manager": "EMP-004",
+    "skills": [
+      "react",
+      "communication",
+      "analytics"
+    ]
+  },
+  {
+    "id": "EMP-037",
+    "name": "Mohit Nair",
+    "department": "Sales",
+    "team": "Enterprise",
+    "role": "Sales Director",
+    "manager": "EMP-004",
+    "skills": [
+      "react",
+      "communication",
+      "design"
+    ]
+  },
+  {
+    "id": "EMP-038",
+    "name": "Rekha Iyer",
+    "department": "Sales",
+    "team": "SMB",
+    "role": "Account Executive",
+    "manager": "EMP-004",
+    "skills": [
+      "analytics",
+      "design",
+      "react"
+    ]
+  },
+  {
+    "id": "EMP-039",
+    "name": "Vinod Menon",
+    "department": "Sales",
+    "team": "Partnerships",
+    "role": "Sales Manager",
+    "manager": "EMP-004",
+    "skills": [
+      "design",
+      "python",
+      "sql"
+    ]
+  },
+  {
+    "id": "EMP-040",
+    "name": "Lakshmi Joshi",
+    "department": "Sales",
+    "team": "Enterprise",
+    "role": "SDR",
+    "manager": "EMP-004",
+    "skills": [
+      "design",
+      "communication",
+      "sql"
+    ]
+  },
+  {
+    "id": "EMP-041",
+    "name": "Pradeep Desai",
+    "department": "Sales",
+    "team": "SMB",
+    "role": "Sales Director",
+    "manager": "EMP-004",
+    "skills": [
+      "design",
+      "analytics",
+      "sql"
+    ]
+  },
+  {
+    "id": "EMP-042",
+    "name": "Geeta Rao",
+    "department": "Sales",
+    "team": "Partnerships",
+    "role": "Account Executive",
+    "manager": "EMP-004",
+    "skills": [
+      "design",
+      "python",
+      "sql"
+    ]
+  },
+  {
+    "id": "EMP-043",
+    "name": "Sunil Verma",
+    "department": "HR",
+    "team": "Talent",
+    "role": "HR Manager",
+    "manager": "EMP-005",
+    "skills": [
+      "sales",
+      "sql",
+      "analytics"
+    ]
+  },
+  {
+    "id": "EMP-044",
+    "name": "Madhuri Malhotra",
+    "department": "HR",
+    "team": "People Ops",
+    "role": "Recruiter",
+    "manager": "EMP-005",
+    "skills": [
+      "analytics",
+      "sales",
+      "communication"
+    ]
+  },
+  {
+    "id": "EMP-045",
+    "name": "Anil Kapoor",
+    "department": "HR",
+    "team": "Talent",
+    "role": "People Partner",
+    "manager": "EMP-005",
+    "skills": [
+      "design",
+      "react",
+      "communication"
+    ]
+  },
+  {
+    "id": "EMP-046",
+    "name": "Sarita Chopra",
+    "department": "HR",
+    "team": "People Ops",
+    "role": "HR Manager",
+    "manager": "EMP-005",
+    "skills": [
+      "analytics",
+      "communication",
+      "sql"
+    ]
+  },
+  {
+    "id": "EMP-047",
+    "name": "Dinesh Banerjee",
+    "department": "HR",
+    "team": "Talent",
+    "role": "Recruiter",
+    "manager": "EMP-005",
+    "skills": [
+      "sql",
+      "analytics",
+      "sales"
+    ]
+  },
+  {
+    "id": "EMP-048",
+    "name": "Uma Mukherjee",
+    "department": "HR",
+    "team": "People Ops",
+    "role": "People Partner",
+    "manager": "EMP-005",
+    "skills": [
+      "communication",
+      "design",
+      "sql"
+    ]
+  },
+  {
+    "id": "EMP-049",
+    "name": "Ramesh Das",
+    "department": "HR",
+    "team": "Talent",
+    "role": "HR Manager",
+    "manager": "EMP-005",
+    "skills": [
+      "design",
+      "react",
+      "sales"
+    ]
+  },
+  {
+    "id": "EMP-050",
+    "name": "Padma Pillai",
+    "department": "HR",
+    "team": "People Ops",
+    "role": "Recruiter",
+    "manager": "EMP-005",
+    "skills": [
+      "analytics",
+      "communication",
+      "react"
+    ]
+  },
+  {
+    "id": "EMP-051",
+    "name": "Krishna Shetty",
+    "department": "HR",
+    "team": "Talent",
+    "role": "People Partner",
+    "manager": "EMP-005",
+    "skills": [
+      "design",
+      "communication",
+      "python"
+    ]
+  },
+  {
+    "id": "EMP-052",
+    "name": "Radha Kulkarni",
+    "department": "Finance",
+    "team": "FP&A",
+    "role": "Financial Analyst",
+    "manager": "EMP-006",
+    "skills": [
+      "sql",
+      "sales",
+      "communication"
+    ]
+  },
+  {
+    "id": "EMP-053",
+    "name": "Balaji Mehta",
+    "department": "Finance",
+    "team": "Accounting",
+    "role": "Controller",
+    "manager": "EMP-006",
+    "skills": [
+      "sales",
+      "communication",
+      "design"
+    ]
+  },
+  {
+    "id": "EMP-054",
+    "name": "Latha Shah",
+    "department": "Finance",
+    "team": "FP&A",
+    "role": "Finance Manager",
+    "manager": "EMP-006",
+    "skills": [
+      "sales",
+      "design",
+      "react"
+    ]
+  },
+  {
+    "id": "EMP-055",
+    "name": "Srinivas Agarwal",
+    "department": "Finance",
+    "team": "Accounting",
+    "role": "Financial Analyst",
+    "manager": "EMP-006",
+    "skills": [
+      "communication",
+      "python",
+      "react"
+    ]
+  },
+  {
+    "id": "EMP-056",
+    "name": "Vijaya Bose",
+    "department": "Finance",
+    "team": "FP&A",
+    "role": "Controller",
+    "manager": "EMP-006",
+    "skills": [
+      "analytics",
+      "design",
+      "sql"
+    ]
+  },
+  {
+    "id": "EMP-057",
+    "name": "Chandra Chatterjee",
+    "department": "Finance",
+    "team": "Accounting",
+    "role": "Finance Manager",
+    "manager": "EMP-006",
+    "skills": [
+      "design",
+      "python",
+      "communication"
+    ]
+  },
+  {
+    "id": "EMP-058",
+    "name": "Indira Dutta",
+    "department": "Finance",
+    "team": "FP&A",
+    "role": "Financial Analyst",
+    "manager": "EMP-006",
+    "skills": [
+      "python",
+      "analytics",
+      "communication"
+    ]
+  },
+  {
+    "id": "EMP-059",
+    "name": "Murali Ghosh",
+    "department": "Finance",
+    "team": "Accounting",
+    "role": "Controller",
+    "manager": "EMP-006",
+    "skills": [
+      "python",
+      "sales",
+      "react"
+    ]
+  },
+  {
+    "id": "EMP-060",
+    "name": "Kamala Sinha",
+    "department": "Finance",
+    "team": "FP&A",
+    "role": "Finance Manager",
+    "manager": "EMP-006",
+    "skills": [
+      "communication",
+      "sales",
+      "react"
+    ]
+  }
+]

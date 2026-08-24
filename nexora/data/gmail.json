@@ -1,0 +1,165 @@
+[
+  {
+    "id": "EMAIL-0001",
+    "sender": "EMP-001",
+    "recipients": [
+      "EMP-019"
+    ],
+    "timestamp": "2026-07-25T19:00:00+00:00",
+    "subject": "Payment webhook deployment is waiting on infrastructure",
+    "body": "The webhook retry code is ready, but I cannot deploy it until the production queue policy is approved.",
+    "department": "Engineering",
+    "related_project": "PRJ-001",
+    "related_task": "TASK-001"
+  },
+  {
+    "id": "EMAIL-0002",
+    "sender": "EMP-019",
+    "recipients": [
+      "EMP-001"
+    ],
+    "timestamp": "2026-07-27T19:00:00+00:00",
+    "subject": "Infrastructure dependency update",
+    "body": "The queue policy is still pending review. I expect to deploy the infrastructure change tomorrow afternoon.",
+    "department": "Engineering",
+    "related_project": "PRJ-001",
+    "related_task": "TASK-001"
+  },
+  {
+    "id": "EMAIL-0003",
+    "sender": "EMP-019",
+    "recipients": [
+      "EMP-001"
+    ],
+    "timestamp": "2026-08-07T19:00:00+00:00",
+    "subject": "Queue policy deployed",
+    "body": "The shared retry queue and alert routing are now deployed in staging. Please run webhook verification.",
+    "department": "Engineering",
+    "related_project": "PRJ-001",
+    "related_task": "TASK-013"
+  },
+  {
+    "id": "EMAIL-0004",
+    "sender": "EMP-001",
+    "recipients": [
+      "EMP-007",
+      "EMP-019"
+    ],
+    "timestamp": "2026-08-10T19:00:00+00:00",
+    "subject": "Webhook retry ready for review",
+    "body": "Verification passed after the infrastructure deployment. The pull request is ready for review.",
+    "department": "Engineering",
+    "related_project": "PRJ-001",
+    "related_task": "TASK-001"
+  },
+  {
+    "id": "EMAIL-0005",
+    "sender": "EMP-003",
+    "recipients": [
+      "EMP-009",
+      "EMP-002"
+    ],
+    "timestamp": "2026-08-11T19:00:00+00:00",
+    "subject": "Move Q3 campaign launch",
+    "body": "Can we move the campaign launch to Monday? The creative assets and customer proof points are not ready for Friday.",
+    "department": "Marketing",
+    "related_project": "PRJ-004",
+    "related_task": "TASK-016"
+  },
+  {
+    "id": "EMAIL-0006",
+    "sender": "EMP-009",
+    "recipients": [
+      "EMP-003"
+    ],
+    "timestamp": "2026-08-15T19:00:00+00:00",
+    "subject": "Campaign recovery plan",
+    "body": "I reduced the first launch scope and moved the missing creative review into the recovery plan.",
+    "department": "Marketing",
+    "related_project": "PRJ-004",
+    "related_task": "TASK-016"
+  },
+  {
+    "id": "EMAIL-0007",
+    "sender": "EMP-005",
+    "recipients": [
+      "EMP-011",
+      "EMP-001"
+    ],
+    "timestamp": "2026-08-13T19:00:00+00:00",
+    "subject": "Complete onboarding documents",
+    "body": "Please complete the onboarding documents before the new hire's first systems walkthrough.",
+    "department": "HR",
+    "related_project": "PRJ-006",
+    "related_task": "TASK-018"
+  },
+  {
+    "id": "EMAIL-0008",
+    "sender": "EMP-011",
+    "recipients": [
+      "EMP-005",
+      "EMP-001"
+    ],
+    "timestamp": "2026-08-14T19:00:00+00:00",
+    "subject": "New hire onboarding checklist",
+    "body": "Laptop, buddy assignment, and first-week meetings are confirmed. Access requests are being tracked.",
+    "department": "HR",
+    "related_project": "PRJ-006",
+    "related_task": "TASK-018"
+  },
+  {
+    "id": "EMAIL-0009",
+    "sender": "EMP-013",
+    "recipients": [
+      "EMP-001",
+      "EMP-002"
+    ],
+    "timestamp": "2026-08-02T19:00:00+00:00",
+    "subject": "Atlas event model decision",
+    "body": "I recommend that both analytics surfaces use the Atlas event model so we do not maintain two event-dimension implementations.",
+    "department": "Engineering",
+    "related_project": "PRJ-002",
+    "related_task": "TASK-014"
+  },
+  {
+    "id": "EMAIL-0010",
+    "sender": "EMP-002",
+    "recipients": [
+      "EMP-013",
+      "EMP-001"
+    ],
+    "timestamp": "2026-08-04T19:00:00+00:00",
+    "subject": "Roadmap decision: cohort exports",
+    "body": "The roadmap prioritizes Customer Insights cohort exports before mobile parity for the next release.",
+    "department": "Product",
+    "related_project": "PRJ-003",
+    "related_task": "TASK-015"
+  },
+  {
+    "id": "EMAIL-0011",
+    "sender": "EMP-001",
+    "recipients": [
+      "EMP-007"
+    ],
+    "timestamp": "2026-08-18T19:00:00+00:00",
+    "subject": "Payments runbook ownership",
+    "body": "The webhook decision has been discussed by only two engineers so far. Please document the runbook before rollout.",
+    "department": "Engineering",
+    "related_project": "PRJ-001",
+    "related_task": "TASK-001"
+  },
+  {
+    "id": "EMAIL-0012",
+    "sender": "EMP-006",
+    "recipients": [
+      "EMP-004",
+      "EMP-002"
+    ],
+    "timestamp": "2026-08-16T19:00:00+00:00",
+    "subject": "FY27 planning assumptions",
+    "body": "Please confirm the enterprise expansion forecast and product launch assumptions for the next planning review.",
+    "department": "Finance",
+    "related_project": "PRJ-007",
+    "related_task": "TASK-007"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "meeting_id": "MEETING-0001",
+    "date": "2026-07-29",
+    "title": "Payments dependency review",
+    "participants": [
+      "EMP-001",
+      "EMP-007",
+      "EMP-019"
+    ],
+    "department": "Engineering",
+    "project": "PRJ-001",
+    "transcript": "Rahul said the webhook retry work is complete but cannot ship. Amit confirmed the queue policy is the dependency. The group agreed to use the shared retry queue and standard alert thresholds. Amit owns the infrastructure deployment; Rahul owns verification after deployment."
+  },
+  {
+    "meeting_id": "MEETING-0002",
+    "date": "2026-08-03",
+    "title": "Analytics architecture sync",
+    "participants": [
+      "EMP-001",
+      "EMP-013",
+      "EMP-031",
+      "EMP-002"
+    ],
+    "department": "Engineering",
+    "project": "PRJ-002",
+    "transcript": "The Atlas event model and the dashboard aggregation path contain overlapping funnel dimensions. The team agreed to consolidate on Atlas and retire the duplicate path. Maya will document the migration plan and Ethan will stop the parallel implementation."
+  },
+  {
+    "meeting_id": "MEETING-0003",
+    "date": "2026-08-12",
+    "title": "Q3 campaign launch review",
+    "participants": [
+      "EMP-003",
+      "EMP-009",
+      "EMP-002"
+    ],
+    "department": "Marketing",
+    "project": "PRJ-004",
+    "transcript": "Creative assets are incomplete and Friday is no longer realistic. The group moved the launch to Monday, reduced the first scope to approved assets, and assigned the proof-point review to Brand."
+  },
+  {
+    "meeting_id": "MEETING-0004",
+    "date": "2026-08-14",
+    "title": "New hire first-week planning",
+    "participants": [
+      "EMP-005",
+      "EMP-011",
+      "EMP-001"
+    ],
+    "department": "HR",
+    "project": "PRJ-006",
+    "transcript": "People Ops confirmed the laptop, buddy, and access requests. Engineering will host the systems walkthrough. The remaining action is to complete onboarding documents before the first day."
+  },
+  {
+    "meeting_id": "MEETING-0005",
+    "date": "2026-08-17",
+    "title": "Payments rollout readiness",
+    "participants": [
+      "EMP-001",
+      "EMP-007",
+      "EMP-019"
+    ],
+    "department": "Engineering",
+    "project": "PRJ-001",
+    "transcript": "The infrastructure issue is resolved and webhook verification passed in staging. Rahul and Maya are the only engineers who have led the technical decision discussion. The action is to publish a runbook so knowledge is not concentrated."
+  },
+  {
+    "meeting_id": "MEETING-0006",
+    "date": "2026-08-19",
+    "title": "FY27 operating review",
+    "participants": [
+      "EMP-006",
+      "EMP-012",
+      "EMP-004",
+      "EMP-002"
+    ],
+    "department": "Finance",
+    "project": "PRJ-007",
+    "transcript": "Finance needs the latest sales forecast and product launch assumptions. Owners agreed to bring updated numbers to the next review."
+  }
+]

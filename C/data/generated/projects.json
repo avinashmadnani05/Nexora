@@ -1,0 +1,206 @@
+[
+  {
+    "id": "PRJ-001",
+    "name": "Payments Platform",
+    "department": "Engineering",
+    "status": "in_progress",
+    "owner": "EMP-001",
+    "members": [
+      "EMP-001",
+      "EMP-007",
+      "EMP-008",
+      "EMP-009",
+      "EMP-010"
+    ],
+    "progress": 34,
+    "start_date": "2026-07-01",
+    "deadline": "2026-08-30"
+  },
+  {
+    "id": "PRJ-002",
+    "name": "Mobile App v2",
+    "department": "Product",
+    "status": "in_progress",
+    "owner": "EMP-002",
+    "members": [
+      "EMP-002",
+      "EMP-016",
+      "EMP-017",
+      "EMP-018",
+      "EMP-019"
+    ],
+    "progress": 60,
+    "start_date": "2026-07-01",
+    "deadline": "2026-08-30"
+  },
+  {
+    "id": "PRJ-003",
+    "name": "Q3 Brand Campaign",
+    "department": "Marketing",
+    "status": "in_progress",
+    "owner": "EMP-003",
+    "members": [
+      "EMP-003",
+      "EMP-025",
+      "EMP-026",
+      "EMP-027",
+      "EMP-028"
+    ],
+    "progress": 46,
+    "start_date": "2026-07-01",
+    "deadline": "2026-08-30"
+  },
+  {
+    "id": "PRJ-004",
+    "name": "Enterprise Sales Pipeline",
+    "department": "Sales",
+    "status": "in_progress",
+    "owner": "EMP-004",
+    "members": [
+      "EMP-004",
+      "EMP-034",
+      "EMP-035",
+      "EMP-036",
+      "EMP-037"
+    ],
+    "progress": 51,
+    "start_date": "2026-07-01",
+    "deadline": "2026-08-30"
+  },
+  {
+    "id": "PRJ-005",
+    "name": "Analytics Dashboard",
+    "department": "Engineering",
+    "status": "in_progress",
+    "owner": "EMP-001",
+    "members": [
+      "EMP-001",
+      "EMP-007",
+      "EMP-008",
+      "EMP-009",
+      "EMP-010"
+    ],
+    "progress": 69,
+    "start_date": "2026-07-01",
+    "deadline": "2026-08-30"
+  },
+  {
+    "id": "PRJ-006",
+    "name": "Customer Analytics Portal",
+    "department": "Product",
+    "status": "in_progress",
+    "owner": "EMP-002",
+    "members": [
+      "EMP-002",
+      "EMP-016",
+      "EMP-017",
+      "EMP-018",
+      "EMP-019"
+    ],
+    "progress": 55,
+    "start_date": "2026-07-01",
+    "deadline": "2026-08-30"
+  },
+  {
+    "id": "PRJ-007",
+    "name": "HR Onboarding System",
+    "department": "HR",
+    "status": "in_progress",
+    "owner": "EMP-005",
+    "members": [
+      "EMP-005",
+      "EMP-043",
+      "EMP-044",
+      "EMP-045",
+      "EMP-046"
+    ],
+    "progress": 35,
+    "start_date": "2026-07-01",
+    "deadline": "2026-08-30"
+  },
+  {
+    "id": "PRJ-008",
+    "name": "Budget Planning FY26",
+    "department": "Finance",
+    "status": "in_progress",
+    "owner": "EMP-006",
+    "members": [
+      "EMP-006",
+      "EMP-052",
+      "EMP-053",
+      "EMP-054",
+      "EMP-055"
+    ],
+    "progress": 51,
+    "start_date": "2026-07-01",
+    "deadline": "2026-08-30"
+  },
+  {
+    "id": "PRJ-009",
+    "name": "API Gateway Upgrade",
+    "department": "Engineering",
+    "status": "in_progress",
+    "owner": "EMP-001",
+    "members": [
+      "EMP-001",
+      "EMP-007",
+      "EMP-008",
+      "EMP-009",
+      "EMP-010"
+    ],
+    "progress": 64,
+    "start_date": "2026-07-01",
+    "deadline": "2026-08-30"
+  },
+  {
+    "id": "PRJ-010",
+    "name": "Partner Integration Hub",
+    "department": "Sales",
+    "status": "in_progress",
+    "owner": "EMP-004",
+    "members": [
+      "EMP-004",
+      "EMP-034",
+      "EMP-035",
+      "EMP-036",
+      "EMP-037"
+    ],
+    "progress": 54,
+    "start_date": "2026-07-01",
+    "deadline": "2026-08-30"
+  },
+  {
+    "id": "PRJ-011",
+    "name": "Security Compliance Audit",
+    "department": "Engineering",
+    "status": "in_progress",
+    "owner": "EMP-001",
+    "members": [
+      "EMP-001",
+      "EMP-007",
+      "EMP-008",
+      "EMP-009",
+      "EMP-010"
+    ],
+    "progress": 50,
+    "start_date": "2026-07-01",
+    "deadline": "2026-08-30"
+  },
+  {
+    "id": "PRJ-012",
+    "name": "Content Management Revamp",
+    "department": "Marketing",
+    "status": "in_progress",
+    "owner": "EMP-003",
+    "members": [
+      "EMP-003",
+      "EMP-025",
+      "EMP-026",
+      "EMP-027",
+      "EMP-028"
+    ],
+    "progress": 70,
+    "start_date": "2026-07-01",
+    "deadline": "2026-08-30"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "name": "Nexora Technologies",
+  "generated_at": "2026-08-21T09:05:55.198795+00:00",
+  "departments": [
+    "Engineering",
+    "Product",
+    "Marketing",
+    "Sales",
+    "HR",
+    "Finance"
+  ],
+  "days": 30,
+  "source_counts": {
+    "gmail": 12,
+    "slack": 14,
+    "meetings": 6,
+    "legacy_activity": 316
+  }
+}

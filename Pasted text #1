@@ -1,0 +1,313 @@
+Build a local proof-of-concept called "Nexora Organizational Intelligence".
+
+The goal is to simulate a fictional technology company and demonstrate how AI can understand what different departments and employees are working on.
+
+This is a DEMO/POC, not a production application. Optimize for speed, simplicity and working functionality.
+
+TECH STACK:
+- Python 3.11+
+- Streamlit for the dashboard
+- SQLite for storage
+- JSON for generated source activity
+- pandas if useful
+- n8n will be integrated later, so keep the data structures clean and API/workflow friendly
+- Use an LLM through an environment variable API key if available
+- If no API key exists, provide a deterministic mock-analysis mode so the demo still works
+
+CREATE:
+
+1. Synthetic Organization Generator
+
+Create a fictional company:
+
+Nexora Technologies
+
+Departments:
+- Engineering
+- Product
+- Marketing
+- Sales
+- HR
+- Finance
+
+Generate approximately:
+- 60 employees
+- teams
+- roles
+- 12 projects
+- 50+ tasks
+
+Each employee should have:
+- id
+- name
+- department
+- team
+- role
+- skills
+- manager
+
+Each project should have:
+- id
+- name
+- department
+- owner
+- members
+- status
+- progress
+- start_date
+- deadline
+
+2. Synthetic Activity Generator
+
+Generate 30 simulated days of organizational activity.
+
+Activity types:
+- GitHub commit
+- GitHub pull request
+- Jira task update
+- Slack message
+- Meeting
+- Email
+- task completion
+- blocker
+- decision
+- project update
+
+Every activity must contain:
+- timestamp
+- employee
+- department
+- project
+- activity_type
+- content
+- related_task where applicable
+
+Make the data semantically connected.
+
+Example:
+
+Rahul works on Payments.
+Rahul creates a webhook task.
+Rahul discusses webhook problems in Slack.
+Amit from DevOps has an infrastructure dependency.
+A meeting discusses the dependency.
+The Jira task becomes blocked.
+Later Amit resolves the infrastructure issue.
+Rahul completes the task.
+
+Create several similar realistic chains across departments.
+
+3. Organizational Intelligence Engine
+
+Create Python functions that analyze the synthetic activity.
+
+The system should determine:
+- who is working on what
+- active projects
+- employee-project relationships
+- project progress
+- blockers
+- dependencies
+- recent decisions
+- department activity
+- project risks
+- collaboration between people
+- recurring issues
+
+Do NOT calculate productivity simply from number of commits/messages.
+
+Use multiple signals and describe results as "activity/involvement signals", not absolute productivity.
+
+4. Department Agents
+
+Implement lightweight specialized agents/functions:
+
+Engineering Agent:
+- projects
+- technical work
+- GitHub
+- Jira
+- blockers
+- dependencies
+
+Marketing Agent:
+- campaigns
+- content
+- marketing tasks
+- campaign status
+
+HR Agent:
+- onboarding
+- hiring
+- employee/team information
+
+Product Agent:
+- roadmap
+- product tasks
+- decisions
+
+Sales Agent:
+- opportunities
+- sales activity
+- customer-related work
+
+Finance Agent:
+- budgets
+- expenses
+- finance tasks
+
+All agents should use the same underlying organization data.
+
+5. Founder Agent
+
+Create a top-level organizational intelligence agent.
+
+It should answer:
+
+- What is happening in the organization?
+- What is each department working on?
+- What projects are at risk?
+- What is blocked?
+- Who is working on a particular project?
+- What changed recently?
+- What are the most important issues?
+- Give me today's organizational briefing.
+
+The Founder Agent should combine department-level insights.
+
+6. Evidence
+
+Every important AI insight must contain supporting evidence.
+
+Example:
+
+Insight:
+"Payments may be delayed."
+
+Evidence:
+- Jira PAY-183 is blocked
+- Slack discussion mentions infrastructure dependency
+- GitHub PR #183 is still open
+- Engineering meeting discussed the same dependency
+
+Include confidence values.
+
+7. Historical timeline
+
+Allow the user to select:
+Day 1
+Day 5
+Day 10
+Day 15
+Day 20
+Day 25
+Day 30
+
+Show how the organization changed over time.
+
+8. Streamlit Dashboard
+
+Create a clean dashboard with:
+
+Overview:
+- employees
+- departments
+- projects
+- active tasks
+- blocked tasks
+- projects at risk
+
+Department view:
+- department status
+- active projects
+- people
+- current work
+- risks
+
+Project view:
+- project progress
+- people
+- recent activity
+- blockers
+- dependencies
+- timeline
+
+People view:
+- employee
+- department
+- projects
+- current work
+- recent activity
+- collaborators
+
+AI Insights:
+- risks
+- blockers
+- duplicated work
+- important decisions
+
+Ask Organization AI:
+Allow the user to type questions such as:
+"What is blocking Engineering?"
+"Who is working on Payments?"
+"What changed this week?"
+"Give me today's company briefing."
+
+9. IMPORTANT DEMO SCENARIOS
+
+Hard-code or generate realistic scenarios that the AI can discover:
+
+Scenario 1:
+Payments project is blocked by infrastructure.
+
+Scenario 2:
+Two teams are accidentally working on overlapping analytics functionality.
+
+Scenario 3:
+An important technical decision is concentrated in two engineers.
+
+Scenario 4:
+A marketing campaign is behind schedule.
+
+Scenario 5:
+A new employee is onboarding.
+
+Scenario 6:
+A project becomes at risk and later recovers.
+
+10. File structure
+
+Use:
+
+nexora/
+  app.py
+  requirements.txt
+  README.md
+
+  data/
+    company.json
+    employees.json
+    projects.json
+    activities.json
+
+  src/
+    generator.py
+    database.py
+    intelligence.py
+    agents.py
+    prompts.py
+    analytics.py
+
+  scripts/
+    generate_demo.py
+
+Make the application runnable with:
+
+python scripts/generate_demo.py
+streamlit run app.py
+
+Provide clear setup instructions.
+
+Do not overengineer.
+
+The primary objective is to get a convincing working demonstration running locally as quickly as possible.
